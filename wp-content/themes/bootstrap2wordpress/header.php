@@ -101,7 +101,7 @@
                       </ul>
                     </li>
                     <li id="responsive-logo"><a href="index.html">
-                        <img src="assets/img/logo.png">
+                        <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                     </a></li>
                     <li><a href="#">Why Us</a></li>
                     <li><a href="#">Contact Us</a></li>
