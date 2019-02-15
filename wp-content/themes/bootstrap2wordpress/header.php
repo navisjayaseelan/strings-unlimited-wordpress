@@ -22,7 +22,6 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
     <!-- style-sheet -->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/style.css">
     <!-- wow css -->
     <link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/wow/animate.css">
     <!-- Owl-Carousel2-css -->
