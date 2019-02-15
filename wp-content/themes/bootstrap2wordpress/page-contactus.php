@@ -3,6 +3,9 @@
 	get_header();
 ?>
  <div class="row">
+ 	<div class="col-lg-12 col-12 ">
+ 		<h2 align="center" style="color: #00bfff">Why us</h2>
+ 	</div>
     <div class="col-xs-6 form-group">
         <label>Label1</label>
         <input class="form-control" type="text"/>
