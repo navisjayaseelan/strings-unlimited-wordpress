@@ -1,36 +1,55 @@
 <?php
-/* Template Name: Contact us by Navis Michael Bearly J */
+/* Template Name: Contact us for Strings Unlimited */
 	get_header();
 ?>
-  <section class="content">
-        <div class="container">
-			<div class="row">
-				<div class="col">
-					<h2 align="center" class="text-primary">ORDER ENQUIRY FORM</h2>
-			       	<hr/>
-					<form action="/action_page.php">
-					<div class="form-group">
-						<label for="firstname">First Name</label>
-						<input type="text" class="form-control" id="firstname">
-					</div>
-					<div class="form-group">
-						<label for="company">Company:</label>
-						<input type="text" class="form-control" id="company">
-					</div>
-					<div class="form-group form-check">
-						<label class="form-check-label">
-						<input class="form-check-input" type="checkbox"> Remember me
-					</label>
-					</div>
-					<button type="submit" class="btn btn-primary">Submit</button>
-					</form>
-				</div>
-				<div class="col">
-					<h2 align="center" class="text-primary">OUR OFFICE</h2>
-				</div>
-			</div>
+ <section>
+    <div class="container" >
+      <div class="row">
+        <div class="col-md-6 text-md-right">
+			<h1>ORDER ENQUIRY FORM</h1>
+			<hr/>
+			<!-- contact form -->
+              <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">
+                  <form class="shake" role="form" method="post" id="contactForm" name="contact-form" data-toggle="validator">
+                      <!-- Name -->
+                      <div class="form-group label-floating">
+                        <label class="control-label" for="name">Name</label>
+                        <input class="form-control" id="name" type="text" name="name" required data-error="Please enter your name">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                      <!-- email -->
+                      <div class="form-group label-floating">
+                        <label class="control-label" for="email">Email</label>
+                        <input class="form-control" id="email" type="email" name="email" required data-error="Please enter your Email">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                      <!-- Subject -->
+                      <div class="form-group label-floating">
+                        <label class="control-label">Subject</label>
+                        <input class="form-control" id="msg_subject" type="text" name="subject" required data-error="Please enter your message subject">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                      <!-- Message -->
+                      <div class="form-group label-floating">
+                          <label for="message" class="control-label">Message</label>
+                          <textarea class="form-control" rows="3" id="message" name="message" required data-error="Write your message"></textarea>
+                          <div class="help-block with-errors"></div>
+                      </div>
+                      <!-- Form Submit -->
+                      <div class="form-submit mt-5">
+                          <button class="btn btn-common" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
+                          <div id="msgSubmit" class="h3 text-center hidden"></div>
+                          <div class="clearfix"></div>
+                      </div>
+                  </form>
+              </div>
+		</div>
+        <div class="col-md-6 title-xs-hide">
+        	<h1>OUR OFFICE</h1>
         </div>
-    </section>
+      </div>
+    </div>
+  </section>
 <?php
 	get_footer();
 ?>	
