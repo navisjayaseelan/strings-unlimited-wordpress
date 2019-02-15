@@ -31,8 +31,7 @@
     <!-- responsive -->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/responsive.css">
     
-	<!--main js-->
-	<script type="text/javascript" src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
+	
 
 	<?php wp_head(); ?>
 </head>

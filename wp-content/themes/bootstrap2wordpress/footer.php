@@ -11,26 +11,38 @@
 
 ?>
 
-	</div><!-- #content -->
 
-	<footer id="colophon" class="site-footer">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'bootstrap2wordpress' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'bootstrap2wordpress' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'bootstrap2wordpress' ), 'bootstrap2wordpress', '<a href="https://www.linkedin.com/in/navismichaelbearly/">Navis Michael Bearly J</a>' );
-				?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
-</div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+	<!--main js-->
+	<script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
+    <!-- bootstrap js -->
+    <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/bootstrap.js"></script>
+    <!-- Owl-Carousel2-js -->
+    <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/owl.carousel.js"></script>
+    <script type="text/javascript">
+        var owl = $('.owl-carousel');
+        owl.owlCarousel({
+            items:1,
+            loop:true,
+            margin:10,
+            autoplay:true,
+            autoplayTimeout:2500,
+            autoplayHoverPause:true
+        });
+        $('.play').on('click',function(){
+            owl.trigger('play.owl.autoplay',[2500])
+        })
+        $('.stop').on('click',function(){
+            owl.trigger('stop.owl.autoplay')
+        })
+    </script>
+    <!-- wow js -->
+    <script>
+      new WOW().init(); 
+    </script>
+    <script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/wow.js"></script> 
+    <script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/wow.min.js"></script> 
+    <script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/wow-scroll.js"></script> 
 </body>
 </html>
