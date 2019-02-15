@@ -60,6 +60,7 @@
                 </div>
 
                 <?php
+                /*
                 	wp_nav_menu( array(
                 		'theme_location' => 'primary', 
                 		'container' => 'nav',
@@ -67,6 +68,7 @@
                 		'menu_class' => 'nav navbar-nav'	
                 
                 	));
+                	*/
                 ?>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
