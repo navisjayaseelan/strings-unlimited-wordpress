@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/responsive.css">
     
 	<!--main js-->
-	<script type="text/javascript" src="<?php bloginfo( 'javascript_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
+	<script type="text/javascript" src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
 
 	<?php wp_head(); ?>
 </head>
@@ -56,7 +56,7 @@
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="#">
-                    <img src="assets/img/logo.png">
+                    <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                   </a>
                 </div>
 
