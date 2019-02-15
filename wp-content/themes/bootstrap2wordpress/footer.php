@@ -168,11 +168,10 @@
         })
     </script>
     <!-- wow js -->
-    <script>
-      new WOW().init(); 
-    </script>
+   
     <script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/wow.js"></script> 
     <script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/wow.min.js"></script> 
+    <script> new WOW().init(); </script>
     <script src="<?php bloginfo( 'template_directory' ); ?>/assets/js/wow-scroll.js"></script> 
 </body>
 </html>
