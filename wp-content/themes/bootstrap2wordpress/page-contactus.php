@@ -2,36 +2,39 @@
 /* Template Name: Contact us by Navis Michael Bearly J */
 	get_header();
 ?>
- <div class="row">
- 	<div class="col-lg-12 col-12 ">
- 		<h2 align="center" style="color: #00bfff">Why us</h2>
- 	</div>
-    <div class="col-xs-6 form-group">
-        <label>Label1</label>
-        <input class="form-control" type="text"/>
-    </div>
-    <div class="col-xs-6 form-group">
-        <label>Label2</label>
-        <input class="form-control" type="text"/>
-    </div>
-    <div class="col-xs-6">
-        <div class="row">
-            <label class="col-xs-12">Label3</label>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 col-sm-6">
-                <input class="form-control" type="text"/>
+  <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-12 ">
+					<div class="row">
+						<div class="col">
+							<h2 align="center" class="text-primary">ORDER ENQUIRY FORM</h2>
+					       	<hr/>
+							<form action="/action_page.php">
+							<div class="form-group">
+								<label for="firstname">First Name</label>
+								<input type="text" class="form-control" id="firstname">
+							</div>
+							<div class="form-group">
+								<label for="company">Company:</label>
+								<input type="text" class="form-control" id="company">
+							</div>
+							<div class="form-group form-check">
+								<label class="form-check-label">
+								<input class="form-check-input" type="checkbox"> Remember me
+							</label>
+							</div>
+							<button type="submit" class="btn btn-primary">Submit</button>
+							</form>
+						</div>
+						<div class="col">
+							<h2 align="center" class="text-primary">OUR OFFICE</h2>
+						</div>
+					</div>
+				</div>
             </div>
-            <div class="col-xs-12 col-sm-6">
-                <input class="form-control" type="text"/>
-            </div>
         </div>
-    </div>
-    <div class="col-xs-6 form-group">
-        <label>Label4</label>
-        <input class="form-control" type="text"/>
-    </div>
-</div>
+    </section>
 <?php
 	get_footer();
 ?>	
