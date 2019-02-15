@@ -17,6 +17,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
+	 <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/font-awesome.min.css">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+    <!-- style-sheet -->
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/style.css">
+    <!-- wow css -->
+    <link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/wow/animate.css">
+    <!-- Owl-Carousel2-css -->
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/owl.theme.default.css">
+    <!-- responsive -->
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/responsive.css">
+    
+	<!--main js-->
+	<script type="text/javascript" src="<?php bloginfo( 'javascript_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
+
 	<?php wp_head(); ?>
 </head>
 
