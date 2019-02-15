@@ -29,7 +29,7 @@ define('DB_USER', 'i5318474_wp1');
 define('DB_PASSWORD', 'J.q91rkyVn2muGNPHbL64');
 
 /** MySQL hostname */
-define('DB_HOST', 'strings-unlimited.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
