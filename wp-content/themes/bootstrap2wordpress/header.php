@@ -47,12 +47,51 @@
                 	wp_nav_menu( array(
                 		'theme_location' => 'primary', 
                 		'container' => 'nav',
-                		'container_class' => 'navbar-collapse collapse',
-                		'menu_class' => 'nav navbar-nav navbar-right'	
+                		'container_class' => 'collapse navbar-collapse',
+                		'menu_class' => 'nav navbar-nav'	
                 
                 	));
                 ?>
 
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <!--<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul class="nav navbar-nav">
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" >About Us<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="about-us.html">About Us </a></li>
+                        <li><a href="our-vision-mission.html">Our Vision</a></li>
+                        <li><a href="#">Our Commitment</a></li>
+                        <li><a href="#">Faq's</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle">What We Do<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">R&D And Sourcing</a></li>
+                        <li><a href="#">Production Support</a></li>
+                        <li><a href="#">Quality Assurance</a></li>
+                        <li><a href="#">Order Management</a></li>
+                        <li><a href="#">Logistics</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle">Products<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">Fashion</a></li>
+                        <li><a href="#">Corporate</a></li>
+                        <li><a href="#">Formals</a></li>
+                        <li><a href="#">Uniforms</a></li>
+                      </ul>
+                    </li>
+                    <li id="responsive-logo"><a href="index.html">
+                        <img src="assets/img/logo.png">
+                    </a></li>
+                    <li><a href="#">Why Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Strings Character</a></li>
+                  </ul>
+                </div>--><!-- /.navbar-collapse -->
             </div>
           </div><!-- /.container -->
         </nav>
