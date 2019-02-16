@@ -105,7 +105,7 @@
                         <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                     </a></li>
                     <li><a href="#">Why Us</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="contact-us/">Contact Us</a></li>
                     <li><a href="#">Strings Character</a></li>
                   </ul>
                 </div><!-- /.navbar-collapse -->
