@@ -390,6 +390,7 @@ object {
 /***
 strings-unlimited style updates by Navis Michael Bearly
 **/
+
 *{
 	margin: 0; padding: 0;
 	text-decoration: none;
@@ -519,9 +520,9 @@ p{
 .our-corporate-cont {
 	width: 60%;
 	float: left;
-	background-color: #fff;
+	background-color: #0009;
 	min-height: 390px;
-	opacity: .8;
+	color: #fff;
 }
 
 .our-sub-corporate {
@@ -531,7 +532,7 @@ p{
 .our-sub-corporate h4 {
 	font-size: 35px;
 	text-transform: uppercase;
-	color: #000;
+	color: #fff;
 	padding-bottom: 20px;
 }
 .our-sub-corporate p {
@@ -543,7 +544,7 @@ p{
 .our-sub-corporate a {
 	font-size: 20px;
 	font-weight: 300;
-	color: #000;
+	color: #fff;
 }
 
 
@@ -597,9 +598,9 @@ p{
 .our-uniforms-cont {
 	width: 60%;
 	float: left;
-	background-color: #fff;
+	background-color: #0009;
 	min-height: 390px;
-	opacity: .8;
+	color: #fff;
 }
 
 .our-sub-uniforms {
@@ -609,7 +610,7 @@ p{
 .our-sub-uniforms h4 {
 	font-size: 35px;
 	text-transform: uppercase;
-	color: #000;
+	color: #fff;
 	padding-bottom: 20px;
 }
 .our-sub-uniforms p {
@@ -621,7 +622,7 @@ p{
 .our-sub-uniforms a {
 	font-size: 20px;
 	font-weight: 300;
-	color: #000;
+	color: #fff;
 }
 
 
@@ -685,11 +686,15 @@ footer {
 	font-weight: 300;
 	font-size: 21px;
 }
-.footer-sub-link li {
+.footer-sub-link li a{
+	text-decoration: none;
 	font-size: 15px;
     color: #e1e1e1;
-    padding-bottom: 10px;
 }
+.footer-sub-link li {
+	padding-bottom: 15px;
+}
+
 
 .footer-end-ul li {
 	display: inline-block;
@@ -711,6 +716,7 @@ footer {
 .footer-seo  p {
 	font-size: 11px;
 }
+/*------ footer-section-end ------*/
 
 
 /*------- background-colour-css-end------*/
@@ -806,3 +812,486 @@ header {
 	list-style: disc;
 } 
 /*------- our vision end ----------*/
+
+
+/*------- our-commitment-start ---------*/
+.oru-commitment {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/oru-commitment-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+	padding: 40px 0px;
+}
+.oru-commitment-content-sub h2 {
+	color: #11bfff;
+	margin-bottom: 15px !important;
+}
+.oru-commitment-content-sub ul li {
+	font-size: 15px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 25px;
+	list-style: disc;
+}
+.oru-commitment-content-sub ul {
+	padding-left: 15px;
+}
+/*------- our-commitment-end -----------*/
+
+
+/*------- faq-css-start ------------*/
+.faq-section {
+	padding: 20px 0px;
+}
+.faq-section-content .qa {
+	padding: 20px 0px;
+}
+.faq-section-content .qa h2 {
+	font-size: 28px;
+	font-weight: 300;
+	padding-bottom: 10px !important;
+}
+.faq-section-content .qa p {
+	padding-bottom: 10px !important;
+}
+.faq-section-content .qa ul {
+   padding-left: 50px;
+}
+.faq-section-content .qa ul li {
+	list-style: decimal;
+	line-height: 25px;
+}
+.section-tittle h1 {
+   color: #46cefe;
+   text-transform: uppercase;
+   padding-top: 20px !important;
+}
+
+
+/*------- faq-css-end --------------*/
+
+
+/*------- rd-sourcing-start -------*/
+.rd-sourcing {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/rd-sourcing-bg.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+}
+.rd-sourcing-content {
+	background-color: #000000b3;
+	height: 500px;
+	float: right;
+	border-top: 1px solid;
+	padding: 70px 25px;
+}
+.rd-sourcing-content  h2 {
+	color: #46cefe;
+	padding-bottom: 15px !important;
+}
+.rd-sourcing-content ul {
+	padding-left: 15px;
+}
+.rd-sourcing-content ul li {
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 25px;
+	list-style: disc;
+	padding-bottom: 10px;
+}
+/*------- rd-sourcing-end ---------*/
+
+
+/*------- production-support-start -------*/
+.production-support {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/production-support-bg.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+}
+.production-support-content {
+	background-color: #000000b3;
+	height: 500px;
+	float: left;
+	border-top: 1px solid;
+	padding: 60px 25px;
+}
+.production-support-content  h2 {
+	color: #46cefe;
+	padding-bottom: 15px !important;
+}
+.production-support-content ul {
+	padding-left: 15px;
+}
+.production-support-content ul li {
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 25px;
+	list-style: disc;
+	padding-bottom: 10px;
+}
+/*------- production-support-end ---------*/
+
+
+
+/*------- quality-assurance-start -------*/
+.quality-assurance {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/quality-assurance-bg.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 650px;
+}
+.quality-assurance-content {
+	background-color: #000000b3;
+	height: 650px;
+	float: right;
+	border-top: 1px solid;
+	padding: 150px 25px;
+}
+.quality-assurance-content  h2 {
+	color: #46cefe;
+	padding-bottom: 15px !important;
+}
+.quality-assurance-content ul {
+	padding-left: 15px;
+}
+.quality-assurance-content ul li {
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 25px;
+	padding-bottom: 15px;
+	list-style: disc;
+}
+/*------- quality-assurance-end ---------*/
+
+
+/*------- order-management-start -------*/
+.order-management {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/order-management-bg.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+}
+.order-management-content {
+	background-color: #000000b3;
+	height: 500px;
+	float: left;
+	border-top: 1px solid;
+	padding: 100px 25px;
+}
+.order-management-content  h2 {
+	color: #46cefe;
+	padding-bottom: 15px !important;
+}
+.order-management-content ul {
+	padding-left: 15px;
+}
+.order-management-content ul li {
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 25px;
+	list-style: disc;
+	padding-bottom: 10px;
+}
+/*------- order-management-end ---------*/
+
+
+/*------- rd-sourcing-start -------*/
+.logisics{
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/logisics-bg.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 400px;
+}
+.logisics-content {
+	background-color: #000000b3;
+	height: 400px;
+	float: right;
+	border-top: 1px solid;
+	padding: 80px 25px;
+}
+.logisics-content  h2 {
+	color: #46cefe;
+	padding-bottom: 15px !important;
+}
+.logisics-content ul {
+	padding-left: 15px;
+}
+.logisics-content ul li {
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 25px;
+	list-style: disc;
+	padding-bottom: 10px;
+}
+/*------- rd-sourcing-end ---------*/
+
+/*------- fashion-css-start -------*/
+
+.fashion-content-1 {
+	text-align: center;
+	margin-bottom: 80px;
+}
+.fashion-content-1 p {
+     
+     padding: 0px 20px;
+     margin: 30px 0px !important;
+     border-left: 3px solid #919191;
+     color: #919191;
+     font-size: 15px;
+}
+.fashion-content-1 h2 {
+	color: #d00;
+	font-weight: 300;
+}
+
+.fashion-content-2 {
+	margin-bottom: 30px;
+}
+.fashion-content-2 {
+	text-align: center;
+}
+.fashion-content-2 p {
+     padding: 0px 20px;
+     margin: 30px 0px !important;
+     border-left: 3px solid #919191;
+     color: #919191;
+     font-size: 15px;
+}
+.fashion-content-2 h2 {
+	color: #d00;
+	font-weight: 300;
+}
+
+.fashion-content-3 {
+	margin-bottom: 60px;
+}
+.fashion-content-3 {
+	text-align: center;
+}
+.fashion-content-3 p {
+     color: #919191;
+     font-size: 15px;
+     padding: 0px 20px;
+     margin: 30px 0px !important;
+     border-left: 3px solid #919191;
+}
+.fashion-content-3 h2 {
+	color: #d00;
+	font-weight: 300;
+}
+.fashion-content-4 {
+	margin-bottom: 60px;
+}
+.fashion-content-4 {
+	text-align: center;
+}
+.fashion-content-4 p {
+     color: #919191;
+     font-size: 15px;
+     padding: 0px 20px;
+     margin: 30px 0px !important;
+     border-left: 3px solid #919191;
+}
+.fashion-content-4 h2 {
+	color: #d00;
+	font-weight: 300;
+}
+.fashion-content-5 {
+	margin-bottom: 60px;
+}
+.fashion-content-5 {
+	text-align: center;
+}
+.fashion-content-5 p {
+     color: #919191;
+     font-size: 15px;
+     padding: 0px 20px;
+     margin: 30px 0px !important;
+     border-left: 3px solid #919191;
+}
+.fashion-content-5 h2 {
+	color: #d00;
+	font-weight: 300;
+}
+/*------- fashion-css-end ---------*/
+
+/*------- contact-us start --------*/
+.contact-us {
+	padding: 40px 0px;
+}
+.contact-us-form h2 {
+	padding-bottom: 20px !important;
+	width: 100%;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 20px !important;
+    color: #2d92c4;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.flat-input label {
+	width: 100%;
+	color: #555;
+	padding-bottom: 5px;
+}
+.flat-input input {
+	width: 100%;
+	padding: 10px 15px;
+	outline: none;
+	border: 1px solid #e1e1e1;
+	background-color: #f8f8f8;
+	color: #919191;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.flat-input select {
+	width: 100%;
+	padding: 10px 15px;
+	outline: none;
+	border: 1px solid #e1e1e1;
+	background-color: #f8f8f8;
+	color: #919191;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.flat-input textarea {
+	width: 100%;
+	padding: 10px 15px;
+	outline: none;
+	border: 1px solid #e1e1e1;
+	background-color: #f8f8f8;
+	color: #919191;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.flat-input .submit {
+	width: 100%;
+	padding: 10px;
+	outline: none;
+	border: none;
+	background-color: #a3a3a3;
+	color: #ffffff;
+	font-size: 20px;
+	text-transform: uppercase; 
+	font-weight: 300;
+	transition: .9s;
+	margin-bottom: 117px;
+}
+.flat-input .submit:hover {
+	background-color: #333333;
+    color: #ffffff;
+}
+.con-add-tittle h2 {
+	padding-bottom: 20px !important;
+	width: 100%;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 20px !important;
+    color: #2d92c4;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.contact-address-sub h3 {
+	padding-bottom: 20px !important;
+	width: 100%;
+	border-bottom: 1px solid #eee;
+	margin-bottom: 20px !important;
+    color: #2d92c4;
+    font-weight: 300;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.contact-address-sub h4 {
+	color: #000;
+	font-size: 20px;
+	line-height: 28px;
+	padding-bottom: 20px !important;
+}
+.contact-address-sub h5 {
+	color: #000;
+	font-size: 19px;
+	padding-bottom: 20px !important;
+}
+.contact-us-address {
+	padding-left: 40px !important;
+}
+.contact-address-sub {
+	margin-bottom: 40px !important;
+}
+.contact-address-sub p {
+	padding-bottom: 10px;
+	border-left: 5px solid #eee;
+	font-size: 17px;
+	font-weight: 400;
+	color: #555;
+	padding-left: 30px;
+	line-height: 25px;
+}
+.contact-address-sub span {
+	font-size: 16px;
+	color: #555;
+	font-weight: 600;
+}
+
+.c-width p {
+  	border: none;
+  	padding-left: 0px !important;
+}
+.c-width-720  p {
+  	border: none;
+  	padding-left: 0px !important;
+}
+.c-width-720 {
+	display: none;
+}
+/*------- contact-us end ----------*/
+
+
+
+/*-------why-us-start-------------*/
+.why-us-content {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/about-bg.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
+.why-us-content-sub p {
+   font-size: 18px;
+   font-weight: 500;
+   color: #000;
+}
+.why-us-content-sub {
+	text-align: center;
+	padding: 80px 60px;
+}
+/*.about-us-content-sub button {
+	padding: 10px 25px;
+	background-color:  #000;
+	color: #fff;
+	border-radius: 5px;
+	border: none;
+	cursor: pointer;
+	margin-top: 20px;
+}
+.about-us-content-sub button:hover {
+	color: #00abff;
+}*/
+/*------- why-us-end -------------*/
