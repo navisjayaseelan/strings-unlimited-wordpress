@@ -200,32 +200,32 @@
                             Accounts
                         </span>
                         <p>
-                            <a href="mailto:accounts-ind@strings-unlimited.com">
-                               accounts-ind@strings-unlimited.com 
+                            <a href="mailto: <?php echo get_field('accounts_email') ?>">
+                               <?php echo get_field('accounts_email') ?>
                             </a>
                         </p>
                         <span>
                             Vendors/Suppliers
                         </span>
                         <p>
-                            <a href="mailto:admin-ind@strings-unlimited.com">
-                                admin-ind@strings-unlimited.com
+                            <a href="mailto:<?php echo get_field('vendors_supplier_email') ?>">
+                                <?php echo get_field('vendors_supplier_email') ?>
                             </a>
                         </p>
                         <span>
                             Recruitment
                         </span>
                         <p>
-                            <a href="mailto:vacancy@strings-unlimited.com">
-                              vacancy@strings-unlimited.com  
+                            <a href="mailto:<?php echo get_field('recruitment_email') ?>">
+                              <?php echo get_field('recruitment_email') ?>  
                             </a>
                         </p>
                         <span>
                             Press
                         </span>
                         <p>
-                            <a href="mailto:admin@strings-unlimited.com">
-                                admin@strings-unlimited.com
+                            <a href="mailto:<?php echo get_field('press_email') ?>">
+                                <?php echo get_field('press_email') ?>
                             </a>
                         </p>
                     </div>
@@ -248,20 +248,16 @@
                             Chennai Branch
                         </h5>
                         <p>
-                            No : 5, 1st Main road<br>
-                            Mangala nagar,<br>
-                            Porur, Chennai – 600 116<br>
-                            TamilNadu<br>
-                            India
+                            <?php echo get_field('chennai_branch_address') ?>
                         </p>
                         <p>
                            Landline :<br>
-                            +91 44 4950 6565 / +91 44 4950 5656 
+                            <?php echo get_field('chennai_landline_number') ?> 
                         </p>
                         <p>
                           Email ID:<br>
-                          <a href="mailto:sales@strings-unlimited.com">
-                              sales@strings-unlimited.com 
+                          <a href="mailto:<?php echo get_field('chennai_email_id') ?>">
+                              <?php echo get_field('chennai_email_id') ?> 
                           </a>
                         </p>
                         <hr>
@@ -269,20 +265,16 @@
                             Bangalore Branch
                         </h5>
                         <p>
-                            #1991/B, 1ST FLOOR, HIG 3RD Phase,<br>
-                            Major Sandeep Unnikrishnan Road,<br>
-                            Yelahanka New Town,<br>
-                            Bangalore -560064,<br>
-                            KARNATAKA.<br>
+                            <?php echo get_field('bangalore_branch_address') ?> 
                         </p>
                         <p>
                            Landline :<br>
-                            +91 (0) 80 – 40909995
+                           <?php echo get_field('bangalore_branch_landline') ?> 
                         </p>
                         <p>
                           Email ID:<br>
-                          <a href="mailto:sales-blr@strings-unlimited.com">
-                            sales-blr@strings-unlimited.com
+                          <a href="mailto:<?php echo get_field('bangalore_branch_email') ?> ">
+                            <?php echo get_field('bangalore_branch_email') ?>
                           </a>
                         </p>
                     </div>
@@ -296,19 +288,16 @@
                             (Registered Office)
                         </h4>
                         <p>
-                            36 St Andrews Drive,<br>
-                            Glasgow,<br>
-                            G41 5SG,<br>
-                            United Kingdom.
+                             <?php echo get_field('united_kingdom_address') ?>
                         </p>
                         <p>
                            Landline :<br>
-                            +44 (0) 7925 344 275
+                            <?php echo get_field('united_kingdom_landline') ?>
                         </p>
                         <p>
                           Email ID:<br>
-                          <a href="mailto:marketing-international@strings-unlimited.com">
-                             marketing-international@strings-unlimited.com
+                          <a href="mailto:<?php echo get_field('united_kingdom_email') ?>">
+                             <?php echo get_field('united_kingdom_email') ?>
                           </a>
                         </p>
                     </div>
@@ -321,21 +310,18 @@
                             (Partnership in ME)
                         </h4>
                         <p>
-                            P.O.Box 11469,<br>
-                            Dammam,<br>
-                            G41 5SG,<br>
-                            Kingdom of Saudi Arabia
+                            <?php echo get_field('middle_east_address') ?>
                         </p>
                         <p>
                            Landline :<br>
-                            +44 (0) 7925 344 275
+                           <?php echo get_field('middle_east_landline') ?>
                         </p>
                         <p>
                           Email ID:<br>
-                          <a href="mailto:info@pafcogcc.com">
-                             info@pafcogcc.com
+                          <a href="mailto: <?php echo get_field('middle_east_email_1') ?>">
+                             <?php echo get_field('middle_east_email_1') ?>
                           </a><br>
-                          <a href="mailto:gulfsales@strings-unlimited.com">gulfsales@strings-unlimited.com
+                          <a href="mailto:<?php echo get_field('middle_east_email_2') ?>"><?php echo get_field('middle_east_email_2') ?>
                           </a>
                         </p>
                     </div>
@@ -347,32 +333,32 @@
                             Accounts
                         </span>
                         <p>
-                            <a href="mailto:accounts-ind@strings-unlimited.com">
-                               accounts-ind@strings-unlimited.com 
+                            <a href="mailto:<?php echo get_field('accounts_email') ?>">
+                               <?php echo get_field('accounts_email') ?> 
                             </a>
                         </p>
                         <span>
                             Vendors/Suppliers
                         </span>
                         <p>
-                            <a href="mailto:admin-ind@strings-unlimited.com">
-                                admin-ind@strings-unlimited.com
+                            <a href="mailto:<?php echo get_field('vendors_supplier_email') ?>">
+                                <?php echo get_field('vendors_supplier_email') ?>
                             </a>
                         </p>
                         <span>
                             Recruitment
                         </span>
                         <p>
-                            <a href="mailto:vacancy@strings-unlimited.com">
-                              vacancy@strings-unlimited.com  
+                            <a href="mailto:<?php echo get_field('recruitment_email') ?>">
+                              <?php echo get_field('recruitment_email') ?> 
                             </a>
                         </p>
                         <span>
                             Press
                         </span>
                         <p>
-                            <a href="mailto:admin@strings-unlimited.com">
-                                admin@strings-unlimited.com
+                            <a href="mailto:<?php echo get_field('press_email') ?>">
+                                <?php echo get_field('press_email') ?>
                             </a>
                         </p>
                     </div>
