@@ -3,7 +3,7 @@
 get_header();
 #Advanced custom field added by Navis
 $title = get_field('title');
-$content = get_field('content')
+$content = get_field('content');
 ?>
  <!--------- why-us-content start ----->
     <section class="why-us-content">

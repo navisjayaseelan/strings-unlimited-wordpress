@@ -1,6 +1,7 @@
  <?php
 /* Template Name: About us us for Strings Unlimited */
 	get_header();
+	$about_us_content = get_field('about_us_content');
 ?>
  <!--------- about-us-content start ----->
     <section class="about-us-content">
@@ -8,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-12 col-12 about-us-content-sub">
                     <p>
-                        Strings Unlimited is a Global Sourcing Company registered in United Kingdom (company number – SC 477164) and strategically operates from India through its subsidiary company Strings Factory Private Limited. The company manufactures and supplies Apparel, Textile and Home furnishing products through its in-house production unit and also through our wide network of factories. The company also does research and development and provides customization services.
+                        <?php echo $about_us_content; ?>
                     </p>
                     <a href="why-us/">
                         <button>Why Us</button>
