@@ -10,7 +10,7 @@
                     <h2>
                         Order Enquiry Form
                     </h2>
-
+                    <!--
                     <form id="contactform" class="contactform style4  clearfix" method="post" action="./contact/contact-process.php" novalidate>
                         <span class="flat-input">
                             <label>
@@ -192,6 +192,9 @@
                             id="submit" value="">Submit</button>
                         </span>
                     </form>
+                    -->
+                    [contact-form-7 id="378" title="Strings Contact form"]
+
                      <div class="contact-address-sub c-width" id="add-email">
                         <h3>
                             Ways to reach us
