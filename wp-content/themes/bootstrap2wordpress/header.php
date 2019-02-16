@@ -101,7 +101,7 @@
                         <li><a href="#">Uniforms</a></li>
                       </ul>
                     </li>
-                    <li id="responsive-logo"><a href="index.html">
+                    <li id="responsive-logo"><a href="/">
                         <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                     </a></li>
                     <li><a href="#">Why Us</a></li>
