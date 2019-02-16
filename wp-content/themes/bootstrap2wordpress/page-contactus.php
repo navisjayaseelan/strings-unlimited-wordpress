@@ -193,7 +193,9 @@
                         </span>
                     </form>
                     -->
-                    [contact-form-7 id="378" title="Strings Contact form"]
+                    
+                    <?php echo do_shortcode( '[contact-form-7 id="378" title="Strings Contact form"]' ); ?>
+
 
                      <div class="contact-address-sub c-width" id="add-email">
                         <h3>
