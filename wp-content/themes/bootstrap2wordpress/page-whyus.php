@@ -7,9 +7,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-12 why-us-content-sub">
-                	<h2>
-                        Why us
-                    </h2>
+                	<h2 align="center" style="color: #00bfff">Why us</h2>
+                    <br/>
                     <p>
                         <ul style="font-size: larger;">
                             <li>Presence in UK and India ensures zero communication barrier</li>

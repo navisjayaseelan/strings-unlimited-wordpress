@@ -76,7 +76,7 @@
                     <li class="dropdown">
                       <a href="#" class="dropdown-toggle" >About Us<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="about-us.html">About Us </a></li>
+                        <li><a href="about-us/">About Us </a></li>
                         <li><a href="our-vision-mission.html">Our Vision</a></li>
                         <li><a href="#">Our Commitment</a></li>
                         <li><a href="#">Faq's</a></li>
@@ -104,7 +104,7 @@
                     <li id="responsive-logo"><a href="/">
                         <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                     </a></li>
-                    <li><a href="#">Why Us</a></li>
+                    <li><a href="why-us/">Why Us</a></li>
                     <li><a href="contact-us/">Contact Us</a></li>
                     <li><a href="#">Strings Character</a></li>
                   </ul>

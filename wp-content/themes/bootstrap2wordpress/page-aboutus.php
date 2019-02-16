@@ -10,7 +10,7 @@
                     <p>
                         Strings Unlimited is a Global Sourcing Company registered in United Kingdom (company number – SC 477164) and strategically operates from India through its subsidiary company Strings Factory Private Limited. The company manufactures and supplies Apparel, Textile and Home furnishing products through its in-house production unit and also through our wide network of factories. The company also does research and development and provides customization services.
                     </p>
-                    <a href="why-us.html">
+                    <a href="why-us/">
                         <button>Why Us</button>
                     </a>
                 </div>
