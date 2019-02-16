@@ -54,6 +54,7 @@ define('AUTH_SALT',        'FdAHUA64gOtYPy8bGCBahmhNJ01ra4GsOnKiGOUKWLJclBviolON
 define('SECURE_AUTH_SALT', '8WSDFKZkbvDZn8TyrwV8wlOz1wlpiDyciTX7JXLA4RTdTApyjP6mmiDJaf2t8zkj');
 define('LOGGED_IN_SALT',   'jlIqFD899MSrYky8EMhdsj9d11Sbnub78NhcJFwC1pNr6KRWssuB28Ts5jcgWgTs');
 define('NONCE_SALT',       'KZ9bTUD8XKRVF0Qrbx25X0Fb4ODHNEyjqlhRaNiRNvUb7ngESEpNvlnBcmA9C3KX');
+define ('WPCF7_AUTOP', false );
 
 /**
  * Other customizations.
