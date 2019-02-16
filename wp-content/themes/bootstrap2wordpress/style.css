@@ -1182,6 +1182,36 @@ header {
 	font-size: 16px;
 	margin-bottom: 20px;
 }
+.contact-input {
+	width: 100%;
+	padding: 10px 15px;
+	outline: none;
+	border: 1px solid #e1e1e1;
+	background-color: #f8f8f8;
+	color: #919191;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.contact-select {
+	width: 100%;
+	padding: 10px 15px;
+	outline: none;
+	border: 1px solid #e1e1e1;
+	background-color: #f8f8f8;
+	color: #919191;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.contact-textarea {
+	width: 100%;
+	padding: 10px 15px;
+	outline: none;
+	border: 1px solid #e1e1e1;
+	background-color: #f8f8f8;
+	color: #919191;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
 .flat-input .submit {
 	width: 100%;
 	padding: 10px;
