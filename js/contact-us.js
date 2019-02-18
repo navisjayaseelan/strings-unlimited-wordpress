@@ -3,7 +3,7 @@ $(document).ready(function () {
 	    if (event.isDefaultPrevented()) {
 	        // handle the invalid form...
 	        formError();
-	        submitMSG(false, "Did you fill in the form properly?");
+	        submitMSG(false, "Please fill all required fields.");
 	    } else {
 	        // everything looks good!
 	        event.preventDefault();
