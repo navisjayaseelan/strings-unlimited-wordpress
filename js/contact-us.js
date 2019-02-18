@@ -7,16 +7,16 @@ $(document).ready(function () {
 
 	function submitForm(){
 	    // Initiate Variables With Form Content
-	    var title = $('#title').value; // required
-		var fname = $('#fname').value; // required
-		var lname = $('#lname').value; // required
-		var company = $('#company').value; // required
-		var industry = $('#industry').value; // not required
-		var city = $('#city').value; // required
-		var country = $('#country').value;
-		var phone = $('#phone').value;
-		var email = $('#email').value;
-		var message = $('#message').value;
+	    var title = $('#title').val(); // required
+		var fname = $('#fname').val(); // required
+		var lname = $('#lname').val(); // required
+		var company = $('#company').val(); // required
+		var industry = $('#industry').val(); // not required
+		var city = $('#city').val(); // required
+		var country = $('#country').val();
+		var phone = $('#phone').val();
+		var email = $('#email').val();
+		var message = $('#message').val();
 
 	    $.ajax({
 	        type: "POST",
