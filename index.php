@@ -76,7 +76,7 @@
                             <p>
                                  We offer a wide range of products from lightweight knitted t-shirts, tops & tanks to woven shirts & tunics to mediumweight jackets, pull-overs, bottoms, trousers & shorts. We also offer season specific products as per the current trends and colours. …
                             </p>
-                            <a href="#">Read More</a>
+                            <a href="fashion">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                             <p>
                                  Corporate workwear helps create a company it’s brand identity. We are pleased to offer custom-made corporate workwear with adequate branding on the garments to ensure an essence…
                             </p>
-                            <a href="#">Read More</a>
+                            <a href="corporate">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                             <p>
                                  We have a fine range of exquisite fabrics and trims especially for the dandy workoholics. Workwear could never be so much fun as it’s now. We offer detailed & handcrafted shirts, trousers, blazers & waistcoats for every formal occasion…
                             </p>
-                            <a href="#">Read More</a>
+                            <a href="formals">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                             <p>
                                  Uniforms are, amongst all, a vehicle of ongoing communication and one of the most economical ways to give brands visibility and awareness…
                             </p>
-                            <a href="#">Read More</a>
+                            <a href="uniforms">Read More</a>
                         </div>
                     </div>
                 </div>
