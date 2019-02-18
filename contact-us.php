@@ -21,7 +21,8 @@
                         Order Enquiry Form
                     </h2>
 
-                    <form role="form" id="contactform" class="contactform style4  clearfix">
+                    <form role="form" id="contact-form" method="post" action="contact-thank-you" class="contactform style4  clearfix">
+                        <div class="messages"></div>
                         <span class="flat-input">
                             <label>
                                 Title *
