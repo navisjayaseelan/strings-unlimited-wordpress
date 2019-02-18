@@ -45,7 +45,7 @@ $(document).ready(function () {
 	}
 
 	function formError(){
-	    $("#contactForm").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+	    $("#contact-form").removeClass().addClass('shake animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
 	        $(this).removeClass();
 	    });
 	}

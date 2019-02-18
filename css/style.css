@@ -800,7 +800,6 @@ header {
 	text-transform: uppercase; 
 	font-weight: 300;
 	transition: .9s;
-	margin-bottom: 117px;
 }
 .flat-input .submit:hover {
 	background-color: #333333;

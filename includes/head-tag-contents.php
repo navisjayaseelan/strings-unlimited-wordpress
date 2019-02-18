@@ -13,7 +13,6 @@
 <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
 <!-- style-sheet -->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="css/animate.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!-- wow css -->
 <link rel="stylesheet" href="css/wow/animate.css">
