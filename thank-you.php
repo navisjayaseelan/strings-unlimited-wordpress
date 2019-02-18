@@ -32,7 +32,7 @@ $email_message .= "Email: ".clean_string($email)."\n";
 $email_message .= "Message: ".clean_string($message)."\n";  
 
 // send email
-$success = mail($emailTo, $email_subject, $email_message, "From:".$email);
+$success = mail($email_to, $email_subject, $email_message, "From:".$email);
  
 // redirect to success page
 if ($success){
