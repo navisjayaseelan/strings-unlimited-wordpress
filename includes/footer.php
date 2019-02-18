@@ -114,7 +114,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="index.php">
+                            <a href="/">
                                Home | uniform suppliers in chennai, uniform suppliers in India,uniform suppliers in Tamilnadu, Casual 
                             </a>
                         </li>
@@ -136,6 +136,7 @@
                     </ul>
                 </div>
             </div>
+            <div class="row">Design by Freesie Infotec</div>
         </div>
     </section>
     <!------------ footer-end-end  --------->
