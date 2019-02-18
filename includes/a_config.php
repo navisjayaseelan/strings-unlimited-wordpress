@@ -14,9 +14,9 @@ switch ($_SERVER["SCRIPT_NAME"]) {
 		$THIS_TITLE = "Home";
 }
 if(!empty($THIS_TITLE)) {
-	$PAGE_TITLE = $COMMON_TITLE . " - " . $THIS_TITLE
+	$PAGE_TITLE = $COMMON_TITLE . " - " . $THIS_TITLE;
 }
 else {
-	$PAGE_TITLE = $COMMON_TITLE
+	$PAGE_TITLE = $COMMON_TITLE;
 }
 ?>
