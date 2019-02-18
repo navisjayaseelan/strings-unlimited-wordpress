@@ -1,5 +1,5 @@
 <?php
-
+<?php include("includes/a-config.php");
 $errorMSG = "";
 // NAME
 if (empty($_POST["title"])) {
@@ -71,7 +71,7 @@ function clean_string($string) {
   return str_replace($bad,"",$string);
 }
 
-$email_to = "michael.bearly@gmail.com";
+$email_to = $to_email;
 $email_subject = "String Unlimited | A Clothing Company Enquiry";
 
 $email_message = "String Unlimited | A Clothing Company Enquiry Form details below.\n\n";
