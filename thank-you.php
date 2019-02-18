@@ -1,5 +1,5 @@
 <?php
-<?php include("includes/a-config.php");
+include("includes/a-config.php");
 $errorMSG = "";
 // NAME
 if (empty($_POST["title"])) {
