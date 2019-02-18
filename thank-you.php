@@ -74,7 +74,7 @@ function clean_string($string) {
 $email_to = "michael.bearly@gmail.com";
 $email_subject = "String Unlimited | A Clothing Company Enquiry";
 
-$email_message = "Form details below.\n\n";
+$email_message = "String Unlimited | A Clothing Company Enquiry Form details below.\n\n";
 
 $email_message .= "Title: ".clean_string($title)."\n";
 $email_message .= "First Name: ".clean_string($fname)."\n";
