@@ -1,4 +1,6 @@
 <?php
+echo "hi";
+/*
 $email_to = "michael.bearly@gmail.com";
 $email_subject = "String Unlimited | A Clothing Company Enquiry";
 
@@ -33,4 +35,5 @@ if ($success){
 }else{
     echo "invalid";
 }
+*/
 ?>
