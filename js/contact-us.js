@@ -6,14 +6,21 @@ $("#contact-form").submit(function(event){
 
 function submitForm(){
     // Initiate Variables With Form Content
-    var name = $("#name").val();
-    var email = $("#email").val();
-    var message = $("#message").val();
- 
+    var title = $('#title').value; // required
+	var fname = $('#fname').value; // required
+	var lname = $('#lname').value; // required
+	var company = $('#company').value; // required
+	var industry = $('industry').value; // not required
+	var city = $('city').value; // required
+	var country = $('country').value;
+	var phone = $('phone').value;
+	var email = $('email').value;
+	var message = $('message').value;
+
     $.ajax({
         type: "POST",
         url: "contact-thank-you",
-        data: "name=" + name + "&email=" + email + "&message=" + message,
+        data: "title=" + title + "&fname=" + fname + "&lname=" + lname + "&company=" + company + "&industry=" + industry + "&city=" + city + "&country=" + country + "&phone=" + phone  + "&email=" + email  + "&message=" + message  ,
         success : function(text){
             if (text == "success"){
                 formSuccess();
