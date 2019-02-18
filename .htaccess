@@ -2,4 +2,21 @@ RewriteEngine on
 RewriteCond %{REQUEST_URI} !index.php
 ## if the request is not for a valid file
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^what-we-do/logistics?$ logisics.php [NC,L]
+RewriteRule ^what-we-do/logistics?$ logistics.php [NC,L]
+RewriteRule ^what-we-do/order-management?$ order-management.php [NC,L]
+RewriteRule ^what-we-do/productionsupport?$ production-support.php [NC,L]
+RewriteRule ^what-we-do/qualityassurance?$ quality-assurance.php [NC,L]
+RewriteRule ^what-we-do/rndandsourcing?$ rd-sourcing.php [NC,L]
+RewriteRule ^who-we-are/faqs?$ faq.php [NC,L]
+RewriteRule ^who-we-are/our-commitment?$ our-commitment.php [NC,L]
+RewriteRule ^who-we-are/our-vision-mission?$ our-vision-mission.php [NC,L]
+RewriteRule ^about-us?$ about-us.php
+RewriteRule ^about-us/whyus?$ why-us.php
+RewriteRule ^contact-us?$ contact-us.php
+RewriteRule ^fashion?$ fashion.php
+## files not completed yet
+RewriteRule ^corporate?$ about-us.php
+RewriteRule ^formals?$ about-us.php
+RewriteRule ^promotional-offers?$ about-us.php
+RewriteRule ^strings-character?$ about-us.php
+RewriteRule ^uniforms?$ about-us.php

@@ -63,22 +63,22 @@
                     <h3>Products</h3>
                     <ul>
                         <li>
-                            <a href="fashion.php">
+                            <a href="fashion">
                                 Fashion   
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="corporate">
                                 Corporate
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="formals">
                                 Formals
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="uniforms">
                                 Uniforms
                             </a>
                         </li>
@@ -99,17 +99,17 @@
                 <div class="col-lg-10 col-md-12 footer-e-s-2">
                     <ul class="footer-end-ul">
                         <li>
-                            <a href="about-us.php">
+                            <a href="about-us/whyus">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="rd-sourcing.php">
+                            <a href="what-we-do/rndandsourcing">
                                What We Do 
                             </a>
                         </li>
                         <li>
-                            <a href="fashion.php">
+                            <a href="fashion">
                                Products 
                             </a>
                         </li>
@@ -119,17 +119,17 @@
                             </a>
                         </li>
                         <li>
-                            <a href="why-us.php">
+                            <a href="about-us/whyus">
                                 Why Us
                             </a>
                         </li>
                         <li>
-                            <a href="contact-us.php">
+                            <a href="contact-us">
                                 Contact Us
                             </a>
                         </li>
                         <li>
-                            <a href="#!">
+                            <a href="strings-character">
                                 Strings Character
                             </a>
                         </li>

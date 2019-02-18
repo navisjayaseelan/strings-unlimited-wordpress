@@ -19,7 +19,7 @@
             <div class="row">
                 <div class="col-lg-6 col-sm-12 logisics-content wow slideInRight animated">
                     <h2>
-                        Logisics
+                        Logistics
                     </h2>
                     <ul>
                         <li>
