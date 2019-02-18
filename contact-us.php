@@ -203,7 +203,7 @@
                             id="submit" value="">Submit</button>
                         </span>
                         <span id="msgSubmit" class="flat-input hidden">
-                            <div class="h3 text-center">Message Submitted!</div>
+                            <div text-center">Message Submitted!</div>
                         </span>
                         
                     </form>
