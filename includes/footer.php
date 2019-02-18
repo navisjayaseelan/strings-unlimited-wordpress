@@ -136,7 +136,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="row"><div class="col-md-12 text-right">Web development by Freesie Infotech</div></div>
+            <div class="row"><div class="col-md-12 text-right">Web Development by Freesie Infotech</div></div>
         </div>
     </section>
     <!------------ footer-end-end  --------->
