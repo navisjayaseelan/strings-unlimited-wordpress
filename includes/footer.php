@@ -162,8 +162,10 @@
 
 
     <!-- bootstrap js -->
-    <script type="text/javascript" src="js/bootstrap.js"></script>
     <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js/validator.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+
     <!-- Owl-Carousel2-js -->
     <script type="text/javascript" src="js/owl.carousel.js"></script>
     <script type="text/javascript">

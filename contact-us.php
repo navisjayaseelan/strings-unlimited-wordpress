@@ -44,24 +44,28 @@
                                     Dr
                                 </option>
                             </select>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 First Name *
                             </label>
                             <input name="fname" id="fname" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 Last Name *
                             </label>
                             <input name="lname" id="lname" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 Company *
                             </label>
                             <input name="company" id="company" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
@@ -167,36 +171,42 @@
                                     Other
                                 </option>
                             </select>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 City *
                             </label>
                             <input name="city" id="city" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 Country *
                             </label>
                             <input name="country" id="country" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 Contact Number *
                             </label>
                             <input name="phone" id="phone" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 Email Id *
                             </label>
                             <input name="email" id="email" type="text" value="" required>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <label>
                                 Enquiry Details
                             </label>
                             <textarea name="message" id="message" tabindex="3" cols="30" rows="6" required=""></textarea>
+                            <div class="help-block with-errors"></div>
                         </span>
                         <span class="flat-input">
                             <button class="submit" name="submit"
