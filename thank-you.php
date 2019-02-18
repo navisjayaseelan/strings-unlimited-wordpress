@@ -1,6 +1,4 @@
 <?php
-echo "hi";
-/*
 $email_to = "michael.bearly@gmail.com";
 $email_subject = "String Unlimited | A Clothing Company Enquiry";
 
@@ -15,6 +13,7 @@ $phone = $_POST['phone'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
+$email_message = "";
 $email_message .= "Title: ".clean_string($title)."\n";
 $email_message .= "First Name: ".clean_string($fname)."\n";
 $email_message .= "Last Name: ".clean_string($lname)."\n";
@@ -35,5 +34,4 @@ if ($success){
 }else{
     echo "invalid";
 }
-*/
 ?>
