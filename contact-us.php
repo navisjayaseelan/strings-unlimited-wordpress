@@ -212,9 +212,7 @@
                             <button class="submit" name="submit"
                             id="submit" value="">Submit</button>
                         </span>
-                        <span id="msgSubmit" class="flat-input hidden">
-                            <div text-center">Message Submitted!</div>
-                        </span>
+                        <div id="msgSubmit" class="h3 text-center hidden"></div>
                         
                     </form>
                      <div class="contact-address-sub c-width" id="add-email">
