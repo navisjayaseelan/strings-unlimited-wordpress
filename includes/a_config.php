@@ -19,5 +19,5 @@ if(!empty($THIS_TITLE)) {
 else {
 	$PAGE_TITLE = $COMMON_TITLE;
 }
-$to_email = "michael.bearly@gmail.com";
+$to_email = "anthuvan@strings-unlimited.com";
 ?>
