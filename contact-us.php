@@ -201,6 +201,7 @@
                             <button class="submit" name="submit"
                             id="submit" value="">Submit</button>
                         </span>
+                        <div id="msgSubmit" class="h3 text-center hidden">Message Submitted!</div>
                     </form>
                      <div class="contact-address-sub c-width" id="add-email">
                         <h3>
@@ -396,6 +397,8 @@
     <!--------- footer section sart -------->
     <?php include("includes/footer.php");?>
     <!--------- footer section end -------->
+
+    <script type="text/javascript" src="js/contact-us.js"></script>
 
 </body>
 </html>
