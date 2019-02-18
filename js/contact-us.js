@@ -32,4 +32,4 @@ $(document).ready(function () {
 	function formSuccess(){
 	    $( "#msgSubmit" ).removeClass( "hidden" );
 	}
-}
+});
