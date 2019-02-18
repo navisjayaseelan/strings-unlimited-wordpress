@@ -13,7 +13,13 @@ $phone = $_POST['phone'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
-$email_message = "";
+$email_message = "Form details below.\n\n";
+ 
+function clean_string($string) {
+  $bad = array("content-type","bcc:","to:","cc:","href");
+  return str_replace($bad,"",$string);
+}
+
 $email_message .= "Title: ".clean_string($title)."\n";
 $email_message .= "First Name: ".clean_string($fname)."\n";
 $email_message .= "Last Name: ".clean_string($lname)."\n";
