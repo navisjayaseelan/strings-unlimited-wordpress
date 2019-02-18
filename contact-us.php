@@ -21,12 +21,12 @@
                         Order Enquiry Form
                     </h2>
 
-                    <form id="contactform" class="contactform style4  clearfix" method="post" action="./contact/contact-process.php" novalidate>
+                    <form id="contactform" class="contactform style4  clearfix" method="post" action="contact-thank-you" novalidate>
                         <span class="flat-input">
                             <label>
                                 Title *
                             </label>
-                            <select name="select" id="select" type="select" value="" placeholder="Name*" required>
+                            <select name="select" id="title" type="title" value="" placeholder="Name*" required>
                                 <option>
                                     Mr
                                 </option>
@@ -66,7 +66,7 @@
                             <label>
                                 Industry *
                             </label>
-                            <select name="avia_industry_1" class="select is_empty" id="avia_industry_1">
+                            <select name="industry" class="select is_empty" id="industry">
                                 <option selected="is_empty"></option>
                                 <option value="Education">
                                     Education

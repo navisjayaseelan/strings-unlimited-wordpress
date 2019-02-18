@@ -13,6 +13,7 @@ RewriteRule ^who-we-are/our-vision-mission?$ our-vision-mission.php [NC,L]
 RewriteRule ^about-us?$ about-us.php
 RewriteRule ^about-us/whyus?$ why-us.php
 RewriteRule ^contact-us?$ contact-us.php
+RewriteRule ^contact-thank-you?$ thank-you.php
 RewriteRule ^fashion?$ fashion.php
 ## files not completed yet
 RewriteRule ^corporate?$ about-us.php
