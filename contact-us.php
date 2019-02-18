@@ -21,7 +21,7 @@
                         Order Enquiry Form
                     </h2>
 
-                    <form id="contactform" class="contactform style4  clearfix" method="post" action="contact-thank-you" novalidate>
+                    <form role="form" id="contactform" class="contactform style4  clearfix">
                         <span class="flat-input">
                             <label>
                                 Title *
