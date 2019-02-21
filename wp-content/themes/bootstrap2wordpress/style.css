@@ -390,7 +390,6 @@ object {
 /***
 strings-unlimited style updates by Navis Michael Bearly
 **/
-
 *{
 	margin: 0; padding: 0;
 	text-decoration: none;
@@ -407,7 +406,9 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 0px !important;
 	padding: 0px !important;
 }
-
+a {
+	outline: none !important;
+}
 p{
 	font-size: 14px;
 	font-weight: 500;
@@ -459,6 +460,13 @@ p{
 .ab-but:hover {
 	color: #00abff;
 }
+#top-fixed {
+	margin-top: 133px;
+}
+.about-us-content {
+	margin-top: 133px;
+}
+
  
 
  /*------- our-product-start-----*/
@@ -470,6 +478,7 @@ p{
 	color: #fff;
 	padding: 30px 0px;
 	text-align: center;
+	font-size: 50px;
 }
 .our-product-sub {
 	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/product-img-1.jpg);
@@ -546,9 +555,6 @@ p{
 	font-weight: 300;
 	color: #fff;
 }
-
-
-
 .our-formals-sub {
 	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/product-img-3.jpg);
 	min-height: 390px !important;
@@ -588,6 +594,43 @@ p{
 
 
 
+
+
+.our-leather-sub {
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/product-img-5.jpg);
+	min-height: 390px !important;
+	background-size: cover;
+	padding-right: 0px;
+	margin: 0px 0px 80px 0px; 
+}
+.our-leather-cont {
+	width: 60%;
+	float: right;
+	background-color: #fff;
+	min-height: 390px;
+	opacity: .8;
+}
+.our-sub-leather {
+	padding: 100px 20px 0px 20px;
+	text-align: right;
+}
+.our-sub-leather h4 {
+	font-size: 35px;
+	text-transform: uppercase;
+	color: #000;
+	padding-bottom: 20px;
+}
+.our-sub-leather p {
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 30px;
+	padding: 20px 0px;
+}
+.our-sub-leather a {
+	font-size: 20px;
+	font-weight: 300;
+	color: #000;
+}
 .our-uniforms-sub {
 	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/product-img-4.jpg);
 	min-height: 390px !important;
@@ -717,7 +760,6 @@ footer {
 	font-size: 11px;
 }
 /*------ footer-section-end ------*/
-
 
 /*------- background-colour-css-end------*/
 footer {
@@ -872,6 +914,24 @@ header {
 
 /*------- faq-css-end --------------*/
 
+/*------- what-we-do-css -----------*/
+.what-we-do {
+	padding: 30px 0px 60px 0px;
+}
+.what-we-do-content h3 {
+   padding: 15px 0px 0px 0px !important;
+}
+.what-we-do-content a {
+	text-decoration: none;
+}
+.what-we-do-content {
+   margin-top: 50px;
+}
+.what-we-do-content img {
+	width: 100%;
+	height: auto;
+}
+/*------- what-we-do-css-end -------*/
 
 /*------- rd-sourcing-start -------*/
 .rd-sourcing {
@@ -1193,7 +1253,7 @@ header {
 	text-transform: uppercase; 
 	font-weight: 300;
 	transition: .9s;
-	margin-bottom: 117px;
+	margin-bottom: 30px;
 }
 .flat-input .submit:hover {
 	background-color: #333333;
@@ -1264,21 +1324,25 @@ header {
 }
 /*------- contact-us end ----------*/
 
+
+
 /*-------why-us-start-------------*/
 .why-us-content {
-	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/about-bg.jpg);
+	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/our-vision-bg.jpg);
 	background-size: cover;
 	width: 100%;
-	height: 500px;
+	height: 350px;
 }
 .why-us-content-sub p {
    font-size: 18px;
-   font-weight: 500;
-   color: #000;
+   font-weight: 300;
+   color: #fff;
 }
 .why-us-content-sub {
 	text-align: center;
 	padding: 80px 60px;
+	background-color: rgba(0, 0, 0, 0.62) !important;
+	margin: 20px 0px 20px 0px;
 }
 /*.about-us-content-sub button {
 	padding: 10px 25px;
@@ -1293,3 +1357,1119 @@ header {
 	color: #00abff;
 }*/
 /*------- why-us-end -------------*/
+
+
+/*------- strings-character ------*/
+
+.strings-character {
+	padding: 0px 0px 50px 0px;
+}
+.character-img img {
+	width: 100%;
+	height: auto;
+	margin-top: 30px;
+	border: 1px solid #46cefe;
+	padding: 5px;
+}
+
+/*------- strings-character ------*/
+
+
+/*------- corporate css start -------*/
+.section-space-50 {
+	margin: 50px 0px;
+}
+.section-space-20 {
+	margin: 20px 0px;
+}
+.corporate {
+	padding: 0px 0px 50px 0px;
+}
+.corporate-top-p {
+	margin: 30px 0px;
+	padding: 15px 40px;
+	border: 1px solid #eee;
+	text-align: center;
+}
+.corporate-dis {
+	padding: 20px;
+	border: 1px solid #eee;
+	margin-bottom: 30px;
+}
+.corporate-dis h2 {
+	float: left;
+}
+.corporate-dis .dis-button{
+	padding: 10px 20px;
+	background-color: #B02B2C;
+	color: #fff;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	margin: 10px 0px 0px 50px;
+}
+.corporate-dis .dis-button:hover {
+	color: #fff;
+	background-color: #333;
+}
+.corporate-brand {
+	background: #000;
+	color: #fff;
+	height: 400px;
+	text-align: center;
+	padding-top: 100px;
+	width: 350px;
+	margin-right: 40px;
+}
+.corporate-brand h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.corporate-brand h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+.corporate-brand p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+
+.corporate-event {
+	background: #000;
+	color: #fff;
+	height: 400px;
+	text-align: center;
+	padding-top: 100px;
+	width: 350px;
+	margin-left: 40px;
+}
+.corporate-event h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.corporate-event h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+.corporate-event p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+.corporate-brand-img {
+	padding: 0px 10px;
+}
+
+.corporate-brand-img .wrap {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.corporate-brand-img .wrap > .brand-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-b-1.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.corporate-brand-img .wrap > .brand-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-b-2.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.corporate-brand-img .wrap > .brand-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-b-3.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.corporate-brand-img .wrap > .brand-img4 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-b-4.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.corporate-brand-img .wrap:hover > div {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
+
+.corporate-brand-img .wrap > .event-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-e-1.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.corporate-brand-img .wrap > .event-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-e-2.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.corporate-brand-img .wrap > .event-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-e-3.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.corporate-brand-img .wrap > .event-img4 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/corporate-e-4.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+/*------- corporate css end ---------*/
+
+
+
+/*------- formal-sec-css-start -----*/
+.formal {
+	padding: 0px 0px 50px 0px;
+}
+.formal-top-p {
+	margin: 30px 0px;
+	padding: 15px 40px;
+	border: 1px solid #eee;
+	text-align: center;
+}
+.formal-men {
+	background: #000;
+	color: #fff;
+	height: 400px;
+	text-align: center;
+	padding-top: 130px;
+	width: 350px;
+	margin-right: 40px;
+}
+.formal-men h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.formal-men h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+.formal-men p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+
+.formal-women {
+	background: #000;
+	color: #fff;
+	height: 400px;
+	text-align: center;
+	padding-top: 130px;
+	width: 350px;
+	margin-left: 40px;
+}
+.formal-women h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.formal-women h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+.formal-women p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+.formal-men-img {
+	padding: 0px 10px;
+}
+
+.formal-men-img .wrap {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.formal-men-img .wrap > .men-f-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/men-formal-1.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.formal-men-img .wrap > .men-f-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/men-formal-2.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.formal-men-img .wrap > .men-f-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/men-formal-3.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.formal-men-img .wrap > .men-f-img4 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/men-formal-4.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.formal-men-img .wrap:hover > div {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
+
+.formal-men-img .wrap > .women-f-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/women-formal-1.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.formal-men-img .wrap > .women-f-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/women-formal-2.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.formal-men-img .wrap > .women-f-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/women-formal-3.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.formal-men-img .wrap > .women-f-img4 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/women-formal-4.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+/*------- formal-sec-css-end -------*/
+
+
+/*------- uniforms css start -------*/
+/*.section-space-50 {
+	margin: 50px 0px;
+}
+.section-space-20 {
+	margin: 20px 0px;
+}*/
+.unifrom {
+	padding: 0px 0px 50px 0px;
+}
+.unifrom-top-p {
+	margin: 30px 0px;
+	padding: 15px 35px;
+	border: 1px solid #eee;
+	text-align: center;
+}
+.corporate-dis {
+	padding: 20px;
+	border: 1px solid #eee;
+	margin-bottom: 30px;
+}
+.corporate-dis h2 {
+	
+}
+.corporate-dis .dis-button{
+	padding: 10px 20px;
+	background-color: #B02B2C;
+	color: #fff;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	margin: 10px 0px 0px 0px;
+}
+.corporate-dis .dis-button:hover {
+	color: #fff;
+	background-color: #333;
+}
+.uniform-school {
+	background: #000;
+	color: #fff;
+	height: 400px;
+	text-align: center;
+	padding-top: 20px;
+}
+.uniform-school h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.uniform-school h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+.uniform-school p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+
+.uniform-college {
+	background: #000;
+	color: #fff;
+	height: 400px;
+	text-align: center;
+	padding-top: 75px;
+	margin-left: 0px;
+}
+.uniform-college h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.uniform-college h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.uniform-school p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+
+
+.uniform-medical {
+	background: #000;
+	color: #fff;
+	height: 450px;
+	text-align: center;
+	padding-top: 35px;
+	margin-left: 0px;
+}
+.uniform-medical h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.uniform-medical h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.uniform-medical p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+
+
+.uniform-hotel {
+	background: #000;
+	color: #fff;
+	height: 450px;
+	text-align: center;
+	padding-top: 25px;
+	margin-left: 0px;
+}
+.uniform-hotel h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+.uniform-hotel h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.uniform-hotel p {
+	color: #EDEDED;
+	padding-top: 10px;
+}
+/*.uniform-school-img {
+	padding: 0px 10px;
+}*/
+#college-img {
+	padding-right: 30px;
+}
+#medical-img {
+	padding-left: 30px;
+}
+.uniform-school-img .wrap {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.uniform-college-img .wrap {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.uniform-medical-img .wrap {
+    height: 450px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.uniform-hotel-img .wrap {
+    height: 450px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.uniform-school-img .wrap:hover > div {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
+.uniform-medical-img .wrap:hover > div {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
+.uniform-college-img .wrap:hover > div {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);    
+}
+.uniform-school-img .wrap > .school-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-1.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-school-img .wrap > .school-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-2.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-school-img .wrap > .school-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-3.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-school-img .wrap > .school-img4 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-4.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-school-img .wrap > .school-img5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-5.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-college-img .wrap > .college-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-6.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-college-img .wrap > .college-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-7.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-college-img .wrap > .college-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-8.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.uniform-medical-img .wrap > .college-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-9.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-medical-img .wrap > .college-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-10.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-medical-img .wrap > .college-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-11.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+
+.uniform-hotel-img .wrap > .college-img1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-12.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-hotel-img .wrap > .college-img2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-13.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-hotel-img .wrap > .college-img3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    -moz-transition: all .5s;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -moz-transform: scale(1,1);
+    -webkit-transform: scale(1,1);
+    transform: scale(1,1);
+    background-image: url("/wp-content/themes/bootstrap2wordpress/assets/img/uniform-14.jpg");
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+.uniform-school-ul li {
+	width: 18%;
+	display: inline-block;
+	margin-left: 14.6px;
+}
+
+/*------- uniforms css end ---------*/
+
+
+/*------- leather-css start -------*/
+.leather {
+	padding: 20px 0px 50px 0px;
+}
+.leather-img img  {
+	width: 100%;
+	height: auto;
+}
+
+.leather-content {
+    background: #000;
+    color: #fff;
+    height: 399px;
+    text-align: center;
+    padding-top: 52px;
+}
+.leather-content h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 23px;
+}
+.leather-content h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.leather-content p {
+	color: #EDEDED;
+	padding-top: 10px;
+} 
+/*.section-space-20 {
+	padding: 5px 0px;
+}*/
+.leather-value-content {
+    background: #000;
+    color: #fff;
+    height: 399px;
+    text-align: center;
+    padding-top: 16px;
+}
+.leather-value-content h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 23px;
+}
+.leather-value-content h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.leather-value-content p {
+	color: #EDEDED;
+	padding-top: 10px;
+} 
+
+
+
+
+
+
+
+
+.leather-product-content {
+    background: #000;
+    color: #fff;
+    height: 399px;
+    text-align: center;
+    padding-top: 120px;
+}
+.leather-product-content h2 {
+	padding-bottom: 10px !important;
+	font-weight: 300;
+	color: #EDEDED;
+	position: relative;
+	text-transform: uppercase;
+	font-size: 23px;
+}
+.leather-product-content h2::before {
+	position: absolute;
+	content: "";
+	width: 150px;
+	height: 1px;
+	bottom: 0px;
+	background-color: #EDEDED;
+	left: 50%;
+	right: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.leather-product-content p {
+	color: #EDEDED;
+	padding-top: 10px;
+} 
+/*------- leather-css-end ---------*/
+
+
+/*-----scrool-top-css-start--------*/
+
+.scrollTop {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+  background-color: #0009;
+  padding: 12px 20px;
+  opacity: 0;
+  transition: all 0.4s ease-in-out 0s;
+  cursor: pointer;
+  border: 1px solid #ffffffb3;
+}
+.scrollTop:hover {
+	
+}
+
+.scrollTop a {
+  font-size: 18px;
+  color: #fff;
+}
+/*-----scrool-top-css-end--------*/
