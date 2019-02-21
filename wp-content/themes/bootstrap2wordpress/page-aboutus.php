@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-12 col-12 about-us-content-sub">
                     <p>
-                        Hello
+                         <?php echo get_field('about_us_content'); ?>
                     </p>
                     <a href="why-us/">
                         <button>Why Us</button>
@@ -20,5 +20,5 @@
 <!--------- about-us-content end ------->
 <?php
 /* Template Name: Contact us for Strings Unlimited */
-	get_header();
+	get_footer();
 ?>
