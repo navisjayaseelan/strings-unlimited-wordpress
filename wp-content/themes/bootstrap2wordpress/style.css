@@ -1253,7 +1253,7 @@ header {
 	text-transform: uppercase; 
 	font-weight: 300;
 	transition: .9s;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 }
 .flat-input .submit:hover {
 	background-color: #333333;
