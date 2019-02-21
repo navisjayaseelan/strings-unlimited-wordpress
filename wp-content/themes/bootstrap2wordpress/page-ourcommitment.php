@@ -1,5 +1,5 @@
  <?php
-/* Template Name: Our Mission and Vision - Strings Unlimited */
+/* Template Name: Our Commitment - Strings Unlimited */
 	get_header();
 ?>
    <!--------- oru-commitment-section-start ----->
