@@ -99,6 +99,7 @@
                         <li><a href="#">Corporate</a></li>
                         <li><a href="#">Formals</a></li>
                         <li><a href="#">Uniforms</a></li>
+                        <li><a href="#">Leather</a></li>
                       </ul>
                     </li>
                     <li id="responsive-logo"><a href="/">
