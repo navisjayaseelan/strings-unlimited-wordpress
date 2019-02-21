@@ -116,5 +116,3 @@
     </header>
     
     <!--------- header section end --------->
-
-	<div id="content" class="site-content">
