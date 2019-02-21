@@ -77,7 +77,7 @@
                       <a href="#" class="dropdown-toggle" >About Us<span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="about-us/">About Us </a></li>
-                        <li><a href="our-vision-mission.html">Our Vision</a></li>
+                        <li><a href="who-we-are/our-vision-mission">Our Vision</a></li>
                         <li><a href="#">Our Commitment</a></li>
                         <li><a href="#">Faq's</a></li>
                       </ul>
