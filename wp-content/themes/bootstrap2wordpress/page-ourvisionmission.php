@@ -1,5 +1,5 @@
  <?php
-/* Template Name: About us us for Strings Unlimited */
+/* Template Name: Our Mission and Vision - Strings Unlimited */
 	get_header();
 ?>
   <!--------- about-us-content start ----->
