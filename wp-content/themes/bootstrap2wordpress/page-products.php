@@ -7,15 +7,10 @@
         <div class="container">
    <div class="row">
                 <div class="col-lg-12 col-sm-12 section-tittle">
-<h1>
-                        Products
-                    </h1>
+                  <h1>Products</h1>
 
 
-
-
-            <div class="list">
-    <article class="list--item">
+ <article class="list--item">
       <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt="">
         <header>
@@ -85,9 +80,10 @@
         </figcaption>
       </figure>
     </article>
-    
-  </div>
-        </div>
+                </div>
+              </div>
+            </div>
+
     </section>
     <!--------- what-we-do  end ------->
 <?php
