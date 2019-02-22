@@ -14,6 +14,7 @@
                 </div>
    
       <div class="list--item">
+       <a href="/products/fashion/">
       <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt="">
         <header>
@@ -23,9 +24,10 @@
           <h2>Fashion</h2>
         </header>  
         <figcaption>
-          Click <a href="/products/fashion/">here</a> for more details
+          Explore for more details
         </figcaption>
       </figure>
+    </a> 
 
     </div>
       <div class="list--item">
