@@ -2635,6 +2635,7 @@ header {
 }
 .list--item header, .list--item figcaption {
   padding-left: 25%;
+  background: #46cefe;
 }
 .list--item header {
   margin-top: 12px;
