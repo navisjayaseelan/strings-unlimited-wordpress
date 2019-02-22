@@ -117,4 +117,4 @@
     
     <!--------- header section end --------->
 
-	<div id="content" class="site-content">
+	<!--<div id="content" class="site-content">-->
