@@ -23,11 +23,8 @@
           <h2>Fashion</h2>
         </header>  
         <figcaption>
-          Explore for more details
+          Click <a href="/products/fashion/">here</a> for more details
         </figcaption>
-
-                          <button class="btn btn-primary btn-lg floater"><a href="/products/fashion/">Fashion</a></button>
-                 
       </figure>
 
     </div>
@@ -41,7 +38,7 @@
           <h2>Corporate</h2>
         </header>  
         <figcaption>
-          Explore for more details
+           Click <a href="/products/corporate/">here</a> for more details
         </figcaption>
       </figure>
 
@@ -56,7 +53,7 @@
           <h2>Formals</h2>
         </header>  
         <figcaption>
-          Explore for more details
+           Click <a href="/products/formals/">here</a> for more details
         </figcaption>
       </figure>
 
@@ -71,7 +68,7 @@
           <h2>Uniforms</h2>
         </header>  
         <figcaption>
-          Explore for more details
+           Click <a href="/products/uniforms/">here</a> for more details
         </figcaption>
       </figure>
 
@@ -86,7 +83,7 @@
           <h2>Leather</h2>
         </header>  
         <figcaption>
-          Explore for more details
+           Click <a href="/products/leather/">here</a> for more details
         </figcaption>
       </figure>
 
