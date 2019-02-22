@@ -31,6 +31,7 @@
 
     </div>
       <div class="list--item">
+        <a href="/products/corporate/">
       <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-2.jpg" alt="">
         <header>
@@ -40,12 +41,14 @@
           <h2>Corporate</h2>
         </header>  
         <figcaption>
-           Click <a href="/products/corporate/">here</a> for more details
+            Explore for more details
         </figcaption>
       </figure>
+    </a>
 
     </div>
       <div class="list--item">
+        <a href="/products/formals/">
       <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-3.jpg" alt="">
         <header>
@@ -55,13 +58,14 @@
           <h2>Formals</h2>
         </header>  
         <figcaption>
-           Click <a href="/products/formals/">here</a> for more details
+           Explore for more details
         </figcaption>
       </figure>
+    </a>
 
     </div>
       <div class="list--item">
-      <figure>
+      <a href="/products/uniforms/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-4.jpg" alt="">
         <header>
         <div class="floater">
@@ -70,13 +74,13 @@
           <h2>Uniforms</h2>
         </header>  
         <figcaption>
-           Click <a href="/products/uniforms/">here</a> for more details
+           Explore for more details
         </figcaption>
-      </figure>
+      </figure></a> 
 
     </div>
     <div class="list--item">
-      <figure>
+      <a href="/products/leather/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-5.jpg" alt="">
         <header>
         <div class="floater">
@@ -85,9 +89,9 @@
           <h2>Leather</h2>
         </header>  
         <figcaption>
-           Click <a href="/products/leather/">here</a> for more details
+           Explore for more details
         </figcaption>
-      </figure>
+      </figure></a>
 
     </div>
   </div>

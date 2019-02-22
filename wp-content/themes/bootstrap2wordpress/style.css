@@ -2627,8 +2627,6 @@ header {
 }
 .list--item figure:hover {
   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-   padding: 0 20px;
-  margin-bottom: 17px;
 }
 
 .list--item img {

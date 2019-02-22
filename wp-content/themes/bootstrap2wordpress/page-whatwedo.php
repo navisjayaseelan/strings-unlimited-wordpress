@@ -18,7 +18,7 @@
                 </div>
    
       <div class="list--item">
-      <figure>
+      <a href="/what-we-do/rd-and-sourcing/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg" alt="">
         <header>
         <div class="floater">
@@ -27,13 +27,13 @@
           <h2> R & D and Sourcing</h2>
         </header>  
         <figcaption>
-          Click <a href="/what-we-do/rd-and-sourcing/">here</a> for more details
+         Explore for more details
         </figcaption>
-      </figure>
+      </figure></a> 
 
     </div>
       <div class="list--item">
-      <figure>
+      <a href="/what-we-do/production-support/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg" alt="">
         <header>
         <div class="floater">
@@ -42,13 +42,13 @@
           <h2>Production Support</h2>
         </header>  
         <figcaption>
-           Click <a href="/what-we-do/production-support/">here</a> for more details
-        </figcaption>
+           Explore for more details
+        </figcaption></a>
       </figure>
 
     </div>
       <div class="list--item">
-      <figure>
+      <a href="/what-we-do/quality-assurance/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg" alt="">
         <header>
         <div class="floater">
@@ -57,13 +57,13 @@
           <h2>Quality Assurance</h2>
         </header>  
         <figcaption>
-           Click <a href="/what-we-do/quality-assurance/">here</a> for more details
-        </figcaption>
+           Explore for more details
+        </figcaption></a>
       </figure>
 
     </div>
       <div class="list--item">
-      <figure>
+     <a href="/what-we-do/order-management/"> <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg" alt="">
         <header>
         <div class="floater">
@@ -72,13 +72,14 @@
           <h2>Order Management</h2>
         </header>  
         <figcaption>
-           Click <a href="/what-we-do/order-management/">here</a> for more details
+           Explore for more details
         </figcaption>
       </figure>
+    </a>
 
     </div>
     <div class="list--item">
-      <figure>
+      <a href="/what-we-do/logistics/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg" alt="">
         <header>
         <div class="floater">
@@ -87,9 +88,10 @@
           <h2>Logistics</h2>
         </header>  
         <figcaption>
-           Click <a href="/what-we-do/logistics/">here</a> for more details
+           Explore for more details
         </figcaption>
       </figure>
+    </a>
 
     </div>
   </div>
