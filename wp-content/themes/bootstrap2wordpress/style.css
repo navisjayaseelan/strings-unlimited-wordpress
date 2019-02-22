@@ -2617,7 +2617,7 @@ header {
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
-  height: 100px !important;
+  height: 500px !important;
 }
 .list--item figure {
   background: #fff;
@@ -2635,18 +2635,9 @@ header {
 }
 .list--item header, .list--item figcaption {
   padding-left: 25%;
-  background: #46cefe;
-
-   overflow: hidden;
-   text-overflow: ellipsis;
-   display: -webkit-box;
-   line-height: 16px;     /* fallback */
-   -webkit-line-clamp: 4; /* number of lines to show */
-   -webkit-box-orient: vertical;
 }
 .list--item header {
-  margin-top: 0px;
-
+  margin-top: 12px;
 }
 .list--item h2 {
   font-size: 14px;
