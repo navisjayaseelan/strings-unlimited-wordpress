@@ -2636,6 +2636,11 @@ header {
 .list--item header, .list--item figcaption {
   padding-left: 25%;
   background: #fff;
+    overflow: hidden;
+  font-size: 12px;
+  line-height: 20px;
+  color: #737373;
+  text-overflow: ellipsis;
 }
 .list--item header {
   margin-top: 12px;
