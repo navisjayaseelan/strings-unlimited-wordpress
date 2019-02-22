@@ -17,7 +17,7 @@
                    <div class="info">
                    </div>
                    <div class="bottom">
-                      <button class="btn btn-primary btn-lg">R & D and Sourcing</button>
+                      <button class="btn btn-primary btn-lg"><a href="#">R & D and Sourcing</a></button>
                    </div>
                 </div>
             </div>
