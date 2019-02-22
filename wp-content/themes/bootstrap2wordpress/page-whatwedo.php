@@ -1,9 +1,6 @@
 <?php
 /* Template Name: What we do - Strings Unlimited */
-get_header();
-#Advanced custom field added by Navis
-$title = get_field('title');
-$content = get_field('content');
+	get_header();
 ?>
 <!--------- what-we-do start ----->
 <section class="what-we-do" id="top-fixed">
@@ -49,6 +46,6 @@ $content = get_field('content');
 </section>
 <!--------- what-we-do  end ------->
 <?php
-/* Template Name: Contact us for Strings Unlimited */
-get_header();
+/* Template Name: What we do - Strings Unlimited */
+	get_footer();
 ?>
