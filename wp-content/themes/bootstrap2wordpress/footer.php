@@ -14,13 +14,13 @@
 
 
 <?php wp_footer(); ?>
- <!-------- footer section start -------->
+<!-------- footer section start -------->
     <footer>
         <div class="container footer" style="background-color: #000;">
             <div class="row">
                 <div class="col-lg-4 col-md-4
                 col-sm-12 footer-sub-logo">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/logo.png">
+                    <img src="images/logo.png">
                     <h5>"Rich Service with a Simple Approach"</h5>
                 </div>
                 <div class="col-lg-4 col-md-4
@@ -77,16 +77,27 @@
                     <h3>Products</h3>
                     <ul>
                         <li>
-                            Fashion
+                            <a href="fashion.html">
+                                Fashion   
+                            </a>
                         </li>
                         <li>
-                            Corporate
+                            <a href="corporate.html">
+                                Corporate
+                            </a>
                         </li>
                         <li>
-                            Formals
+                            <a href="formals.html">
+                                Formals
+                            </a>
                         </li>
                         <li>
-                            Uniforms
+                            <a href="uniforms.html">
+                                Uniforms
+                            </a>
+                        </li>
+                        <li>
+                            <a href="leather.html">Leather</a>
                         </li>
                     </ul>
                 </div>
@@ -94,6 +105,8 @@
         </div>
     </footer>
     <!-------- footer section end ---------->
+
+
 
     <!------------ footer-end-start  ------->
     <section class="footer-end">
@@ -105,37 +118,37 @@
                 <div class="col-lg-10 col-md-12 footer-e-s-2">
                     <ul class="footer-end-ul">
                         <li>
-                            <a href="#">
+                            <a href="about-us.html">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="rd-sourcing.html">
                                What We Do 
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="fashion.html">
                                Products 
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="index.html">
                                Home | uniform suppliers in chennai, uniform suppliers in India,uniform suppliers in Tamilnadu, Casual 
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="why-us.html">
                                 Why Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="contact-us.html">
                                 Contact Us
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="strings-character.html">
                                 Strings Character
                             </a>
                         </li>
@@ -144,6 +157,30 @@
             </div>
         </div>
     </section>
+    <!------------ footer-end-end  --------->
+
+<!--     <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-sm-12 footer-seo">
+                    <p>
+                        Seo wordpress plugin by 
+                        <a href="#">
+                            www.seowizard.org.
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+
+    <!------ scrool-top -------->
+    <div id="stop" class="scrollTop">
+        <span><a href=""><i class=" fa fa-angle-up"></i></a></span>
+    </div>
+    <!------ scrool-top end ---->
+
     <div class="text-right">designed and developed by Freesie Infotech</div>
 	<!--main js-->
 	<script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>

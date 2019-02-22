@@ -12,33 +12,33 @@
                 </h1>
             </div>
             <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <a href="rd-sourcing.html">
+                <a href="/what-we-do/rd-and-sourcing/">
                     <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg">
                     <h3>R&D and Sourcing</h3>
                 </a>
             </div>
             <div class="col-lg-4 col-sm-12 what-we-do-content">
-                <a href="production-support.html">
+                <a href="/what-we-do/production-support/">
                     <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg">
                     <h3>Production Support</h3>
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <a href="quality-assurance.html">
+                <a href="/what-we-do/quality-assurance/">
                     <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg">
                     <h3>Quality Assurance</h3>
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <a href="order-management.html">
+                <a href="/what-we-do/order-management/">
                     <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg">
                     <h3>Order Management</h3>
                 </a>
             </div>
             <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <a href="logisics.html">
+                <a href="/what-we-do/logistics/">
                     <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg">
-                    <h3>Logisic</h3>
+                    <h3>Logistics</h3>
                 </a>
             </div>
         </div>
