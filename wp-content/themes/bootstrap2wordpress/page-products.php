@@ -25,10 +25,11 @@
         <figcaption>
           Explore for more details
         </figcaption>
-      </figure>
-<div class="bottom">
+
                           <button class="btn btn-primary btn-lg"><a href="/products/fashion/">Fashion</a></button>
-                       </div>
+                 
+      </figure>
+
     </div>
       <div class="list--item">
       <figure>
