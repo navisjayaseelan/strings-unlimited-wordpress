@@ -15,7 +15,7 @@
    
       <div class="list--item">
       <figure>
-        <img src="//placehold.it/250x250" alt="">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt="">
         <header>
         <div class="floater">
           
@@ -30,7 +30,7 @@
     </div>
       <div class="list--item">
       <figure>
-        <img src="//placehold.it/250x250" alt="">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-2.jpg" alt="">
         <header>
         <div class="floater">
           
@@ -45,7 +45,7 @@
     </div>
       <div class="list--item">
       <figure>
-        <img src="//placehold.it/250x250" alt="">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-3.jpg" alt="">
         <header>
         <div class="floater">
           
@@ -60,7 +60,7 @@
     </div>
       <div class="list--item">
       <figure>
-        <img src="//placehold.it/250x250" alt="">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-4.jpg" alt="">
         <header>
         <div class="floater">
           
@@ -75,7 +75,7 @@
     </div>
     <div class="list--item">
       <figure>
-        <img src="//placehold.it/250x250" alt="">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-5.jpg" alt="">
         <header>
         <div class="floater">
           
