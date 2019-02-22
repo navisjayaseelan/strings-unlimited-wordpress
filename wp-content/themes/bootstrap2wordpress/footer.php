@@ -144,7 +144,7 @@
             </div>
         </div>
     </section>
-    <small class="text-right">designed and developed by Freesie Infotech</small>
+    <div class="text-right">designed and developed by Freesie Infotech</div>
 	<!--main js-->
 	<script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
     <!-- bootstrap js -->
