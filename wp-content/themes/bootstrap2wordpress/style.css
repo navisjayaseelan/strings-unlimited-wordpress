@@ -2636,9 +2636,18 @@ header {
 .list--item header, .list--item figcaption {
   padding-left: 25%;
   background: #46cefe;
+
+   overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   line-height: 16px;     /* fallback */
+   max-height: 32px;      /* fallback */
+   -webkit-line-clamp: 5; /* number of lines to show */
+   -webkit-box-orient: vertical;
 }
 .list--item header {
   margin-top: 0px;
+
 }
 .list--item h2 {
   font-size: 14px;
