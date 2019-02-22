@@ -20,7 +20,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4
                 col-sm-12 footer-sub-logo">
-                    <img src="images/logo.png">
+                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/logo.png">
                     <h5>"Rich Service with a Simple Approach"</h5>
                 </div>
                 <div class="col-lg-4 col-md-4
