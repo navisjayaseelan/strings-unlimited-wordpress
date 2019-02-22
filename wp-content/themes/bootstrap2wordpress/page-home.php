@@ -23,7 +23,7 @@ get_header();
         <div class="item">
             <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-5.jpg">
         </div>
-
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
     </div>
     <!--------- slider section end --------->
 
