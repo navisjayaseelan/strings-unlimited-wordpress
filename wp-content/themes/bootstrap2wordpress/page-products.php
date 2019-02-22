@@ -6,30 +6,37 @@
 <section class="faq-section" id="top-fixed">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-sm-12 section-tittle">
-                <h1>
-                    Products
-                </h1>
-            </div>
-            <div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="..." alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
+   <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+         
+         <div class="caption">
+            <h3>Thumbnail label</h3>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+         </div>
+      </div>
+   </div>
+   <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+         
+         <div class="caption">
+            <h3>Thumbnail label</h3>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+         </div>
+      </div>
+   </div>
+   <div class="col-sm-6 col-md-4">
+      <div class="thumbnail">
+         
+         <div class="caption">
+            <h3>Thumbnail label</h3>
+            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+         </div>
+      </div>
+   </div>
 </div>
-
-
-            
-            <ul>
-            	<li><a href="/products/fashion/">Fashion</a></li>
-            	<li><a href="/products/corporate/">Corporate</a></li>
-            	<li><a href="/products/formals/">Formals</a></li>
-            	<li><a href="/products/uniforms/">Uniforms</a></li>
-            	<li><a href="/products/leather/">Leather</a></li>
-            </ul>
-        </div>
     </div>
 </section>
 <!--------- faq-section end ------->
