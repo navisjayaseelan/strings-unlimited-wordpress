@@ -109,7 +109,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+        
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -123,7 +123,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+        
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -137,7 +137,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+         
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -151,7 +151,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+         
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -165,7 +165,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -179,7 +179,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -193,7 +193,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+        
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -207,7 +207,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+         
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -221,7 +221,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+        
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -235,7 +235,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+      
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -249,7 +249,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+       
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -263,7 +263,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+         
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -277,7 +277,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+        
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -291,7 +291,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -305,7 +305,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -319,7 +319,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
