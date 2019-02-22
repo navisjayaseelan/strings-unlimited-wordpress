@@ -209,7 +209,7 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
 .site-content:after,
 .site-footer:before,
 .site-footer:after {
-	content: "";
+	content: "Hello";
 	display: table;
 	table-layout: fixed;
 }
