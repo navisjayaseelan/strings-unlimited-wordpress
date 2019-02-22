@@ -2,44 +2,49 @@
 /* Template Name: Products -  Strings Unlimited */
 	get_header();
 ?>
- <!--------- faq-section start ----->
-<section class="faq-section" id="top-fixed">
-    <div class="container">
-        <div class="row">
-   <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-         
-         <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-         </div>
-      </div>
-   </div>
-   <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-         
-         <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-         </div>
-      </div>
-   </div>
-   <div class="col-sm-6 col-md-4">
-      <div class="thumbnail">
-         
-         <div class="caption">
-            <h3>Thumbnail label</h3>
-            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-            <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
-         </div>
-      </div>
-   </div>
-</div>
-    </div>
-</section>
-<!--------- faq-section end ------->
+<!--------- what-we-do start ----->
+    <section class="products" id="top-fixed">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-sm-12 section-tittle">
+                    <h1>
+                        Products
+                    </h1>
+                </div>
+                <div class="col-lg-4 col-sm-6 products-content">
+                    <a href="/products/fashion/">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg">
+                        <h3>Fashion</h3>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-12 products-content">
+                    <a href="/products/corporate/">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-2.jpg">
+                        <h3>Corporate</h3>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6 products-content">
+                    <a href="/products/formals/">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-3.jpg">
+                        <h3>Formals</h3>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6 products-content">
+                    <a href="/products/uniforms/">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-4.jpg">
+                        <h3>Uniforms</h3>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6 products-content">
+                    <a href="/products/leather/">
+                        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-5.jpg">
+                        <h3>Leather</h3>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--------- what-we-do  end ------->
 <?php
 /* Template Name: Contact us for Strings Unlimited */
 	get_footer();
