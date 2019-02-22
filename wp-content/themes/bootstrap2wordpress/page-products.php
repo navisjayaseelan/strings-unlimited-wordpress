@@ -24,7 +24,7 @@
           <h2>Fashion</h2>
         </header>  
         <figcaption>
-          
+          Explore for more details
         </figcaption>
       </figure>
     </a> 
@@ -41,7 +41,7 @@
           <h2>Corporate</h2>
         </header>  
         <figcaption>
-           
+            Explore for more details
         </figcaption>
       </figure>
     </a>
@@ -58,7 +58,7 @@
           <h2>Formals</h2>
         </header>  
         <figcaption>
-           
+           Explore for more details
         </figcaption>
       </figure>
     </a>
@@ -74,7 +74,7 @@
           <h2>Uniforms</h2>
         </header>  
         <figcaption>
-           
+           Explore for more details
         </figcaption>
       </figure></a> 
 
@@ -89,7 +89,7 @@
           <h2>Leather</h2>
         </header>  
         <figcaption>
-           
+           Explore for more details
         </figcaption>
       </figure></a>
 
