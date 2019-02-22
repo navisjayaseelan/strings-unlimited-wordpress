@@ -1335,12 +1335,15 @@ header {
 	width: 100%;
 	height: 350px;
 }
-.why-us-content-sub p {
+.why-us-content-sub p ul li {
    font-size: 18px;
    font-weight: 300;
    color: #fff;
 }
-.why-us-content-sub ul li {
+.why-us-content-sub h2 {
+   color: #00bfff;
+}
+.why-us-content-sub {
 	text-align: center;
 	padding: 80px 60px;
 	background-color: rgba(0, 0, 0, 0.62) !important;
