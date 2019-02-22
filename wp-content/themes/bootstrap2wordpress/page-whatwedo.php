@@ -43,7 +43,11 @@
                    <div class="info">
                    </div>
                    <div class="bottom">
-                      <button class="btn btn-primary btn-lg">Production Support</button>
+                      <button class="btn btn-primary btn-lg">
+                        <a href="/what-we-do/production-support/">
+                            Production Support
+                        </a>
+                        </button>
                    </div>
                 </div>
 
@@ -58,7 +62,11 @@
                    <div class="info">
                    </div>
                    <div class="bottom">
-                      <button class="btn btn-primary btn-lg">Quality Assurance</button>
+                      <button class="btn btn-primary btn-lg">
+                        <a href="/what-we-do/quality-assurance/">
+                        Quality Assurance
+                        </a>
+                    </button>
                    </div>
                 </div>
             </div>
@@ -74,7 +82,11 @@
                    <div class="info">
                    </div>
                    <div class="bottom">
-                      <button class="btn btn-primary btn-lg">Order Management</button>
+                      <button class="btn btn-primary btn-lg">
+                         <a href="/what-we-do/order-management/">
+                        Order Management
+                        </a>
+                    </button>
                    </div>
                 </div>
             </div>
@@ -90,7 +102,9 @@
                    <div class="info">
                    </div>
                    <div class="bottom">
-                      <button class="btn btn-primary btn-lg">Logistics</button>
+                      <button class="btn btn-primary btn-lg">
+                      <a href="/what-we-do/logistics/">Logistics
+                      </a></button>
                    </div>
                 </div>
 
