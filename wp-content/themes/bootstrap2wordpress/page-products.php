@@ -12,14 +12,15 @@
                         Products
                     </h1>
                 </div>
-   <div class="list--item">
+   
+      <div class="list--item">
       <figure>
         <img src="//placehold.it/250x250" alt="">
         <header>
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          <h2>Fashion</h2>
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -34,7 +35,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          <h2>Corporate</h2>
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -49,7 +50,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          <h2>Formals</h2>
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -64,7 +65,7 @@
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          <h2>Uniforms</h2>
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -72,14 +73,14 @@
       </figure>
 
     </div>
-      <div class="list--item">
+    <div class="list--item">
       <figure>
         <img src="//placehold.it/250x250" alt="">
         <header>
         <div class="floater">
           
         </div>
-          <h2>Title</h2>
+          <h2>Leather</h2>
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
