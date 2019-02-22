@@ -2646,8 +2646,8 @@ header {
 
 .floater {
   width: 20%;
-  height: 100px;
-  background: orange;
+  height: 50px;
+  background: #262626;
   position: absolute;
   left: 0;
 }
