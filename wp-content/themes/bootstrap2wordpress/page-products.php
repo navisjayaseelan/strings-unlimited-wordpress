@@ -23,7 +23,9 @@
         </div>
           <h2>Fashion</h2>
         </header>  
-
+        <figcaption>
+          
+        </figcaption>
       </figure>
     </a> 
 
@@ -38,7 +40,9 @@
         </div>
           <h2>Corporate</h2>
         </header>  
-
+        <figcaption>
+           
+        </figcaption>
       </figure>
     </a>
 
@@ -53,7 +57,9 @@
         </div>
           <h2>Formals</h2>
         </header>  
-  
+        <figcaption>
+           
+        </figcaption>
       </figure>
     </a>
 
@@ -67,7 +73,9 @@
         </div>
           <h2>Uniforms</h2>
         </header>  
-  
+        <figcaption>
+           
+        </figcaption>
       </figure></a> 
 
     </div>
@@ -80,7 +88,9 @@
         </div>
           <h2>Leather</h2>
         </header>  
-
+        <figcaption>
+           
+        </figcaption>
       </figure></a>
 
     </div>
