@@ -18,7 +18,7 @@
                 </div>
    
       <div class="list--item">
-      <a href="/what-we-do/rd-and-sourcing/"><figure>
+      <a href="/what-we-do/rd-and-sourcing/">
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg" alt="">
         <header>
         <div class="floater">
@@ -33,7 +33,7 @@
 
     </div>
       <div class="list--item">
-      <a href="/what-we-do/production-support/"><figure>
+      <a href="/what-we-do/production-support/">
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg" alt="">
         <header>
         <div class="floater">
@@ -48,7 +48,7 @@
 
     </div>
       <div class="list--item">
-      <a href="/what-we-do/quality-assurance/"><figure>
+      <a href="/what-we-do/quality-assurance/">
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg" alt="">
         <header>
         <div class="floater">
@@ -63,7 +63,7 @@
 
     </div>
       <div class="list--item">
-     <a href="/what-we-do/order-management/"> <figure>
+     <a href="/what-we-do/order-management/"> 
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg" alt="">
         <header>
         <div class="floater">
@@ -79,7 +79,7 @@
 
     </div>
     <div class="list--item">
-      <a href="/what-we-do/logistics/"><figure>
+      <a href="/what-we-do/logistics/">
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg" alt="">
         <header>
         <div class="floater">
