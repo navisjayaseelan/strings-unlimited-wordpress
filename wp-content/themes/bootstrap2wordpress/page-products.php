@@ -23,7 +23,7 @@
           <h2>Fashion</h2>
         </header>  
         <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.sdfsdfdssdf lksdjfsdlkf lkjsdflkds fl sdkljfsldkfj sdlkfjs 
         </figcaption>
       </figure>
 
