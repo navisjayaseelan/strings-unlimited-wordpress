@@ -74,12 +74,12 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
                     <li class="dropdown">
-                      <a href="#" class="dropdown-toggle" >About Us<span class="caret"></span></a>
+                      <a href="about-us/" class="dropdown-toggle" >About Us<span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="about-us/">About Us </a></li>
-                        <li><a href="who-we-are/our-vision-mission">Our Vision</a></li>
-                        <li><a href="#">Our Commitment</a></li>
-                        <li><a href="#">Faq's</a></li>
+                        <li><a href="our-vision-mission/">Our Vision</a></li>
+                        <li><a href="our-commitment/">Our Commitment</a></li>
+                        <li><a href="faq/">Faq's</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
