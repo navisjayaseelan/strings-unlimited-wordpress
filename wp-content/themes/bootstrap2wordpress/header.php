@@ -74,16 +74,16 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
                     <li class="dropdown">
-                      <a href="about-us/" class="dropdown-toggle" >About Us<span class="caret"></span></a>
+                      <a href="/about-us/" class="dropdown-toggle" >About Us<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="about-us/">About Us </a></li>
-                        <li><a href="our-vision-mission/">Our Vision</a></li>
-                        <li><a href="our-commitment/">Our Commitment</a></li>
-                        <li><a href="faq/">Faq's</a></li>
+                        <li><a href="/about-us/">About Us </a></li>
+                        <li><a href="/our-vision-mission/">Our Vision</a></li>
+                        <li><a href="/our-commitment/">Our Commitment</a></li>
+                        <li><a href="/faq/">Faq's</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a href="what-we-do/" class="dropdown-toggle">What We Do<span class="caret"></span></a>
+                      <a href="/what-we-do/" class="dropdown-toggle">What We Do<span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="/what-we-do/rd-and-sourcing/">R&D And Sourcing</a></li>
                         <li><a href="/what-we-do/production-support/">Production Support</a></li>
@@ -93,21 +93,21 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a href="products/" class="dropdown-toggle">Products<span class="caret"></span></a>
+                      <a href="/products/" class="dropdown-toggle">Products<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="products/fashion/">Fashion</a></li>
-                        <li><a href="products/corporate/">Corporate</a></li>
-                        <li><a href="products/formas/">Formals</a></li>
-                        <li><a href="products/uniforms/">Uniforms</a></li>
-                        <li><a href="products/leather/">Leather</a></li>
+                        <li><a href="/products/fashion/">Fashion</a></li>
+                        <li><a href="/products/corporate/">Corporate</a></li>
+                        <li><a href="/products/formas/">Formals</a></li>
+                        <li><a href="/products/uniforms/">Uniforms</a></li>
+                        <li><a href="/products/leather/">Leather</a></li>
                       </ul>
                     </li>
                     <li id="responsive-logo"><a href="/">
                         <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                     </a></li>
-                    <li><a href="why-us/">Why Us</a></li>
-                    <li><a href="contact-us/">Contact Us</a></li>
-                    <li><a href="strings-character/">Strings Character</a></li>
+                    <li><a href="/why-us/">Why Us</a></li>
+                    <li><a href="/contact-us/">Contact Us</a></li>
+                    <li><a href="/strings-character/">Strings Character</a></li>
                   </ul>
                 </div><!-- /.navbar-collapse -->
             </div>
