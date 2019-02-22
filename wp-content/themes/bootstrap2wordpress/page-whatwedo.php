@@ -23,7 +23,7 @@
                    <div class="info">
                    </div>
                    <div class="bottom">
-                      <button class="btn btn-primary btn-lg">>R&D and Sourcing</button>
+                      <button class="btn btn-primary btn-lg">R & D and Sourcing</button>
                    </div>
                 </div>
             </div>
@@ -45,10 +45,18 @@
 
             </div>
             <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <a href="/what-we-do/quality-assurance/">
+                <!--<a href="/what-we-do/quality-assurance/">
                     <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg">
                     <h3>Quality Assurance</h3>
-                </a>
+                </a>-->
+                <div class="card hovercard">
+                   <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg" alt=""/>
+                   <div class="info">
+                   </div>
+                   <div class="bottom">
+                      <button class="btn btn-primary btn-lg">Quality Assurance</button>
+                   </div>
+                </div>
             </div>
             <div class="col-lg-4 col-sm-6 what-we-do-content">
                 <!--
