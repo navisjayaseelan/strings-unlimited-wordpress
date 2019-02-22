@@ -3,7 +3,7 @@
 	get_header();
 ?>
  <!--------- about-us-content start ----->
-    <section class="about-us-content" id="top-fixed">
+    <section class="about-us-content">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-12 about-us-content-sub">
