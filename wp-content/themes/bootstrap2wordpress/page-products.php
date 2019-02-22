@@ -9,6 +9,16 @@
 
 
 
+            <div class="row">
+                <div class="col-lg-12 col-sm-12 section-tittle">
+                    <h1>
+                        Products
+                    </h1>
+            </div>
+
+
+
+
             <div class="list">
     <article class="list--item">
       <figure>
