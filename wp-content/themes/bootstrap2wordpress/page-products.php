@@ -5,7 +5,8 @@
 <!--------- what-we-do start ----->
     <section class="products" id="top-fixed">
         <div class="container">
-
+   <div class="row">
+                <div class="col-lg-12 col-sm-12 section-tittle">
 <h1>
                         Products
                     </h1>
