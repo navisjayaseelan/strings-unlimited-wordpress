@@ -32,28 +32,69 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-12 products-content">
+                    <!--
                     <a href="/products/corporate/">
                         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-2.jpg">
                         <h3>Corporate</h3>
                     </a>
+                    -->
+                    <div class="card hovercard">
+                       <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-2.jpg" alt=""/>
+                       <div class="info">
+                       </div>
+                       <div class="bottom">
+                          <button class="btn btn-default">Corporate</button>
+                       </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 products-content">
+                    <!--
                     <a href="/products/formals/">
                         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-3.jpg">
                         <h3>Formals</h3>
                     </a>
+                    -->
+                    <div class="card hovercard">
+                       <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-3.jpg" alt=""/>
+                       <div class="info">
+                       </div>
+                       <div class="bottom">
+                          <button class="btn btn-default">Formals</button>
+                       </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 products-content">
+                    <!--
                     <a href="/products/uniforms/">
                         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-4.jpg">
                         <h3>Uniforms</h3>
                     </a>
+                    -->
+                    <div class="card hovercard">
+                       <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-4.jpg" alt=""/>
+                       <div class="info">
+                       </div>
+                       <div class="bottom">
+                          <button class="btn btn-default">Uniforms</button>
+                       </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 products-content">
+                    <!--
                     <a href="/products/leather/">
                         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-5.jpg">
                         <h3>Leather</h3>
                     </a>
+                    -->
+                    <div class="card hovercard">
+                       <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-5.jpg" alt=""/>
+                       <div class="info">
+                       </div>
+                       <div class="bottom">
+                          <button class="btn btn-default">Leather</button>
+                       </div>
+                    </div>
+
                 </div>
             </div>
         </div>
