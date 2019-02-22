@@ -935,6 +935,25 @@ header {
 }
 /*------- what-we-do-css-end -------*/
 
+/*------- products-css -----------*/
+.products {
+	padding: 30px 0px 60px 0px;
+}
+.products-content h3 {
+   padding: 15px 0px 0px 0px !important;
+}
+.products-content a {
+	text-decoration: none;
+}
+.products-content {
+   margin-top: 50px;
+}
+.products-content img {
+	width: 100%;
+	height: auto;
+}
+/*------- products-css-end -------*/
+
 /*------- rd-sourcing-start -------*/
 .rd-sourcing {
 	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/rd-sourcing-bg.jpg);
