@@ -1340,7 +1340,7 @@ header {
    font-weight: 300;
    color: #fff;
 }
-.why-us-content-sub {
+.why-us-content-sub ul li {
 	text-align: center;
 	padding: 80px 60px;
 	background-color: rgba(0, 0, 0, 0.62) !important;
