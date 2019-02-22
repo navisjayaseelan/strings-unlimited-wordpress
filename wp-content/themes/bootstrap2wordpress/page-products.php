@@ -10,16 +10,12 @@
 
 
             <div class="row">
-                <div class="col-lg-12 col-sm-12 section-tittle">
-                    <h1>
-                        Products
-                    </h1>
-            </div>
-
-
-
+               
 
             <div class="list">
+              <h1>
+                        Products
+                    </h1>
     <article class="list--item">
       <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt="">
@@ -27,10 +23,10 @@
         <div class="floater">
           
         </div>
-        <div class="strips-title">Fashion</div>
+        
         </header>  
         <figcaption>
-          We can support our clients with a wide range of fabrics through our rapport with good Mills. Fabrics like Self Dobbies, Jacquards, Structural, Plains, Fabrics with special finishes like micro polish, micro sanding, Brushed, Peached, Fleeced, to name a few can be sourced by us on demand
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </figcaption>
       </figure>
     </article>
@@ -41,49 +37,49 @@
         <div class="floater">
           
         </div>
-         <div class="strips-title">Corporate</div>
+        
         </header>  
         <figcaption>
-          We at Strings Unlimited believe that aCorporate WorkWear helps create a company it’s brand identity. Hence we combine our passion with our experience to offer custom-made Corporate Work Wear with top quality Fabrics and Trims to give value to your brand . Our experienced team of skilled professionals own your brand as much as you take pride of your brand.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </figcaption>
       </figure>
     </article>
     <article class="list--item">
       <figure>
-        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-3.jpg" alt="">
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-.jpg" alt="">
         <header>
         <div class="floater">
           
         </div>
-        <div class="strips-title">Formals</div>
+         
         </header>  
         <figcaption>
-          We have a fine range of exquisite fabrics and trims especially for the dandy workaholics. Workwear could never be so much fun as it’s now. We offer detailed & handcrafted shirts, trousers, blazers & waistcoats for every formal occasion.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </figcaption>
       </figure>
     </article>
     <article class="list--item">
       <figure>
-        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-4.jpg" alt="">
+        <img src="//placehold.it/250x250" alt="">
         <header>
         <div class="floater">
           
         </div>
-          <div class="strips-title">Uniforms</div>
+         
         </header>  
         <figcaption>
-          We also cater bulk uniforms for various verticals like educational institutions, railway, aviation, hotels, hospitals, factories, etc. Our creations are customized, from the design to production. We achieve innovative products, consistent with the identity of each client, with high standards of quality and a competitive cost for the market to which it is intended for.
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </figcaption>
       </figure>
     </article>
     <article class="list--item">
       <figure>
-        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-5.jpg" alt="">
+        <img src="//placehold.it/250x250" alt="">
         <header>
         <div class="floater">
           
         </div>
-           <div class="strips-title">Leather</div>
+          
         </header>  
         <figcaption>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
