@@ -97,6 +97,236 @@
 
                 </div>
             </div>
+
+
+
+
+            <div class="list">
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+    <article class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+    </article>
+  </div>
         </div>
     </section>
     <!--------- what-we-do  end ------->

@@ -70,7 +70,7 @@ get_header();
                             <p>
                                  We offer a wide range of products from lightweight knitted t-shirts, tops & tanks to woven shirts & tunics to mediumweight jackets, pull-overs, bottoms, trousers & shorts. We also offer season specific products as per the current trends and colours. …
                             </p>
-                            <a href="fashion.html">Read More</a>
+                            <a href="/products/fashion/">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ get_header();
                             <p>
                                  Corporate workwear helps create a company it’s brand identity. We are pleased to offer custom-made corporate workwear with adequate branding on the garments to ensure an essence…
                             </p>
-                            <a href="corporate.html">Read More</a>
+                            <a href="/products/corporate/">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@ get_header();
                             <p>
                                  We have a fine range of exquisite fabrics and trims especially for the dandy workoholics. Workwear could never be so much fun as it’s now. We offer detailed & handcrafted shirts, trousers, blazers & waistcoats for every formal occasion…
                             </p>
-                            <a href="formals.html">Read More</a>
+                            <a href="/products/formals/">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ get_header();
                             <p>
                                  Uniforms are, amongst all, a vehicle of ongoing communication and one of the most economical ways to give brands visibility and awareness…
                             </p>
-                            <a href="uniforms.html">Read More</a>
+                            <a href="/products/uniforms/">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ get_header();
                             <p>
                                  With a State of Art facility Machinery, a plant capacity of 12,500 sqft and an integrated manufacturing facility we manufacture a wide range of quality Leather Products…
                             </p>
-                            <a href="leather.html">Read More</a>
+                            <a href="/products/leather/">Read More</a>
                         </div>
                     </div>
                 </div>
