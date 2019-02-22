@@ -7,20 +7,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12 order-management-content wow slideInLeft animated">
-                    <h2>
-                        Order Management
-                    </h2>
-                    <ul>
-                        <li>
-                            Order Management through ERP
-                        </li>
-                        <li>
-                            Production is tracked professionally through ERP software
-                        </li>
-                        <li>
-                            Regular automated email alert to our customers throughout the product life cycle
-                        </li>
-                    </ul>
+                    <?php echo get_field('title'); ?>
+                    <?php echo get_field('content'); ?>
                 </div>
             </div>
         </div>

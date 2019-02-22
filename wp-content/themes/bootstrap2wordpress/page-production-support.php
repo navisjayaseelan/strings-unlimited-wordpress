@@ -8,38 +8,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12 production-support-content wow slideInLeft animated">
-                    <h2>
-                        Production Support
-                    </h2>
-                    <ul>
-                        <li>
-                            Merchandising & Communications
-                        </li>
-                        <li>
-                            Fit /  Style Approvals
-                        </li>
-                        <li>
-                            Pre-Production Approvals
-                        </li>
-                        <li>
-                            Fabric Quality inspection
-                        </li>
-                        <li>
-                            Pre-Production Approvals
-                        </li>
-                        <li>
-                            Mid Production Checks
-                        </li>
-                        <li>
-                            In-line Inspections
-                        </li>
-                        <li>
-                            Mid Line Inspections
-                        </li>
-                        <li>
-                            Final Inspections
-                        </li>
-                    </ul>
+                    <?php echo get_field('title'); ?>
+                    <?php echo get_field('content'); ?>
                 </div>
             </div>
         </div>
