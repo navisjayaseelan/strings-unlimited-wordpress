@@ -19,6 +19,7 @@
    
       <div class="list--item">
       <a href="/what-we-do/rd-and-sourcing/">
+        <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg" alt="">
         <header>
         <div class="floater">
@@ -34,6 +35,7 @@
     </div>
       <div class="list--item">
       <a href="/what-we-do/production-support/">
+        <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg" alt="">
         <header>
         <div class="floater">
@@ -43,12 +45,12 @@
         </header>  
         <figcaption>
            Explore for more details
-        </figcaption></a>
-      </figure>
+        </figcaption>
+      </figure></a>
 
     </div>
       <div class="list--item">
-      <a href="/what-we-do/quality-assurance/">
+      <a href="/what-we-do/quality-assurance/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg" alt="">
         <header>
         <div class="floater">
@@ -58,12 +60,12 @@
         </header>  
         <figcaption>
            Explore for more details
-        </figcaption></a>
-      </figure>
+        </figcaption>
+      </figure></a>
 
     </div>
       <div class="list--item">
-     <a href="/what-we-do/order-management/"> 
+     <a href="/what-we-do/order-management/"> <figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg" alt="">
         <header>
         <div class="floater">
@@ -79,7 +81,7 @@
 
     </div>
     <div class="list--item">
-      <a href="/what-we-do/logistics/">
+      <a href="/what-we-do/logistics/"><figure>
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg" alt="">
         <header>
         <div class="floater">
@@ -88,7 +90,7 @@
           <h2>Logistics</h2>
         </header>  
         <figcaption>
-           Explore for more details
+           Explore
         </figcaption>
       </figure>
     </a>
