@@ -247,7 +247,7 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
 
 .post,
 .page {
-	margin: 0 0 1.5em;
+	margin: 0 0 0;
 }
 
 .updated:not(.published) {
