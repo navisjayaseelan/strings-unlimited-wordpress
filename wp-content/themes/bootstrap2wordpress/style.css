@@ -937,16 +937,16 @@ header {
 
 /*------- products-css -----------*/
 .products {
-	padding: 30px 0px 60px 0px;
+	padding: 10px 0px 20px 0px;
 }
 .products-content h3 {
-   padding: 15px 0px 0px 0px !important;
+   padding: 5px 0px 0px 0px !important;
 }
 .products-content a {
 	text-decoration: none;
 }
 .products-content {
-   margin-top: 50px;
+   margin-top: 30px;
 }
 .products-content img {
 	width: 100%;
@@ -2505,6 +2505,7 @@ header {
 }
 /*-----scrool-top-css-end--------*/
 
+/** cards **/
 
 .card {
   padding-top: 20px;
@@ -2593,3 +2594,4 @@ header {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+/** end cards **/
