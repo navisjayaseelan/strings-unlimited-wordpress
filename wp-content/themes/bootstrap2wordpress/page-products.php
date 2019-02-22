@@ -12,7 +12,7 @@
                         Products
                     </h1>
                 </div>
-   <div class="col-lg-4 col-sm-6 products-content list--item">
+   <div class="list--item">
       <figure>
         <img src="//placehold.it/250x250" alt="">
         <header>
@@ -25,6 +25,67 @@
           Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         </figcaption>
       </figure>
+
+    </div>
+      <div class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+
+    </div>
+      <div class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+
+    </div>
+      <div class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+
+    </div>
+      <div class="list--item">
+      <figure>
+        <img src="//placehold.it/250x250" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Title</h2>
+        </header>  
+        <figcaption>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        </figcaption>
+      </figure>
+
     </div>
   </div>
 </div>
