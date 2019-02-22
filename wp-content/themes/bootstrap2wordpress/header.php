@@ -85,11 +85,11 @@
                     <li class="dropdown">
                       <a href="what-we-do/" class="dropdown-toggle">What We Do<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="what-we-do/rd-and-sourcing/">R&D And Sourcing</a></li>
-                        <li><a href="what-we-do/production-support/">Production Support</a></li>
-                        <li><a href="what-we-do/quality-assurance/">Quality Assurance</a></li>
-                        <li><a href="what-we-do/order-management/">Order Management</a></li>
-                        <li><a href="what-we-do/logistics/">Logistics</a></li>
+                        <li><a href="/what-we-do/rd-and-sourcing/">R&D And Sourcing</a></li>
+                        <li><a href="/what-we-do/production-support/">Production Support</a></li>
+                        <li><a href="/what-we-do/quality-assurance/">Quality Assurance</a></li>
+                        <li><a href="/what-we-do/order-management/">Order Management</a></li>
+                        <li><a href="/what-we-do/logistics/">Logistics</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
