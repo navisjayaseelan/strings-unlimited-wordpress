@@ -2641,7 +2641,7 @@ header {
    text-overflow: ellipsis;
    display: -webkit-box;
    line-height: 16px;     /* fallback */
-   -webkit-line-clamp: 5; /* number of lines to show */
+   -webkit-line-clamp: 4; /* number of lines to show */
    -webkit-box-orient: vertical;
 }
 .list--item header {
