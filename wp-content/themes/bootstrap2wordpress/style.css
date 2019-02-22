@@ -2525,6 +2525,10 @@ header {
           box-sizing: border-box;
 }
 
+.card a {
+  font-size: 18px;
+  color: #fff;
+}
 
 .card.hovercard {
   position: relative;
