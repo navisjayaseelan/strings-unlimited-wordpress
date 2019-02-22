@@ -2652,6 +2652,11 @@ header {
   position: absolute;
   left: 0;
 }
+.strips-title {
+	background: #46cefe;
+	color: #000;
+}
+
 @media screen and (min-width: 1200px) {
   .container {
     width: 90%;
