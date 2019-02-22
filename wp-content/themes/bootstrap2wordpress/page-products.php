@@ -23,10 +23,12 @@
           <h2>Fashion</h2>
         </header>  
         <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.sdfsdfdssdf lksdjfsdlkf lkjsdflkds fl sdkljfsldkfj sdlkfjs 
+          Explore for more details
         </figcaption>
       </figure>
-
+<div class="bottom">
+                          <button class="btn btn-primary btn-lg"><a href="/products/fashion/">Fashion</a></button>
+                       </div>
     </div>
       <div class="list--item">
       <figure>
@@ -38,7 +40,7 @@
           <h2>Corporate</h2>
         </header>  
         <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Explore for more details
         </figcaption>
       </figure>
 
@@ -53,7 +55,7 @@
           <h2>Formals</h2>
         </header>  
         <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Explore for more details
         </figcaption>
       </figure>
 
@@ -68,7 +70,7 @@
           <h2>Uniforms</h2>
         </header>  
         <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Explore for more details
         </figcaption>
       </figure>
 
@@ -83,7 +85,7 @@
           <h2>Leather</h2>
         </header>  
         <figcaption>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+          Explore for more details
         </figcaption>
       </figure>
 
