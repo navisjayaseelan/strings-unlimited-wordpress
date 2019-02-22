@@ -85,21 +85,21 @@
                     <li class="dropdown">
                       <a href="what-we-do/" class="dropdown-toggle">What We Do<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">R&D And Sourcing</a></li>
-                        <li><a href="#">Production Support</a></li>
-                        <li><a href="#">Quality Assurance</a></li>
-                        <li><a href="#">Order Management</a></li>
-                        <li><a href="#">Logistics</a></li>
+                        <li><a href="what-we-do/rd-and-sourcing/">R&D And Sourcing</a></li>
+                        <li><a href="what-we-do/production-support/">Production Support</a></li>
+                        <li><a href="what-we-do/quality-assurance/">Quality Assurance</a></li>
+                        <li><a href="what-we-do/order-management/">Order Management</a></li>
+                        <li><a href="what-we-do/logistics/">Logistics</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a href="#" class="dropdown-toggle">Products<span class="caret"></span></a>
+                      <a href="products/" class="dropdown-toggle">Products<span class="caret"></span></a>
                       <ul class="dropdown-menu">
-                        <li><a href="#">Fashion</a></li>
-                        <li><a href="#">Corporate</a></li>
-                        <li><a href="#">Formals</a></li>
-                        <li><a href="#">Uniforms</a></li>
-                        <li><a href="#">Leather</a></li>
+                        <li><a href="products/fashion/">Fashion</a></li>
+                        <li><a href="products/corporate/">Corporate</a></li>
+                        <li><a href="products/formas/">Formals</a></li>
+                        <li><a href="products/uniforms/">Uniforms</a></li>
+                        <li><a href="products/leather/">Leather</a></li>
                       </ul>
                     </li>
                     <li id="responsive-logo"><a href="/">
@@ -107,7 +107,7 @@
                     </a></li>
                     <li><a href="why-us/">Why Us</a></li>
                     <li><a href="contact-us/">Contact Us</a></li>
-                    <li><a href="#">Strings Character</a></li>
+                    <li><a href="strings-character/">Strings Character</a></li>
                   </ul>
                 </div><!-- /.navbar-collapse -->
             </div>

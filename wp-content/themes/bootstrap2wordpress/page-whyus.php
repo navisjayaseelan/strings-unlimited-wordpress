@@ -22,5 +22,5 @@ get_header();
     <!--------- why-us-content end ------->
 <?php
 /* Template Name: Contact us for Strings Unlimited */
-get_header();
+get_footer();
 ?>
