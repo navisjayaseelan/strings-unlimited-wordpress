@@ -2617,7 +2617,7 @@ header {
   display: -ms-flexbox;
   display: -webkit-box;
   display: flex;
-  height: 400px !important;
+  height: 300px !important;
 }
 .list--item figure {
   background: #fff;
