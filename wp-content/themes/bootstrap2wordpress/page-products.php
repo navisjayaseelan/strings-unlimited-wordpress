@@ -107,9 +107,9 @@
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt="">
         <header>
         <div class="floater">
-          <h2>FASHION</h2>
+          
         </div>
-        
+        <h2>FASHION</h2>
         </header>  
         <figcaption>
           We can support our clients with a wide range of fabrics through our rapport with good Mills. Fabrics like Self Dobbies, Jacquards, Structural, Plains, Fabrics with special finishes like micro polish, micro sanding, Brushed, Peached, Fleeced, to name a few can be sourced by us on demand
