@@ -26,7 +26,7 @@
           Explore for more details
         </figcaption>
 
-                          <button class="btn btn-primary btn-lg"><a href="/products/fashion/">Fashion</a></button>
+                          <button class="btn btn-primary btn-lg floater"><a href="/products/fashion/">Fashion</a></button>
                  
       </figure>
 
