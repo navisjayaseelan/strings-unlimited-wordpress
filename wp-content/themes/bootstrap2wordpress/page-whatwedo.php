@@ -3,115 +3,100 @@
 	get_header();
 ?>
 <!--------- what-we-do start ----->
-<section class="what-we-do" id="top-fixed">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-sm-12 section-tittle">
-                <h1>
-                    What we do
-                </h1>
-            </div>
-            <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <!--
-                <a href="/what-we-do/rd-and-sourcing/">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg">
-                    <h3>R&D and Sourcing</h3>
-                </a>
-                -->
-                <div class="card hovercard">
-                   <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg" alt=""/>
-                   <div class="info">
-                   </div>
-                   <div class="bottom">
-                    <button class="btn btn-primary btn-lg">
-                        <a href="/what-we-do/rd-and-sourcing/">
-                            R & D and Sourcing
-                        </a>
-                    </button>
-                   </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12 what-we-do-content">
-                <!--
-                <a href="/what-we-do/production-support/">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg">
-                    <h3>Production Support</h3>
-                </a>
-                -->
-                <div class="card hovercard">
-                   <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg" alt=""/>
-                   <div class="info">
-                   </div>
-                   <div class="bottom">
-                      <button class="btn btn-primary btn-lg">
-                        <a href="/what-we-do/production-support/">
-                            Production Support
-                        </a>
-                        </button>
-                   </div>
-                </div>
 
-            </div>
-            <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <!--<a href="/what-we-do/quality-assurance/">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg">
-                    <h3>Quality Assurance</h3>
-                </a>-->
-                <div class="card hovercard">
-                   <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg" alt=""/>
-                   <div class="info">
-                   </div>
-                   <div class="bottom">
-                      <button class="btn btn-primary btn-lg">
-                        <a href="/what-we-do/quality-assurance/">
-                        Quality Assurance
-                        </a>
-                    </button>
-                   </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <!--
-                <a href="/what-we-do/order-management/">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg">
-                    <h3>Order Management</h3>
-                </a>
-                -->
-                <div class="card hovercard">
-                   <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg" alt=""/>
-                   <div class="info">
-                   </div>
-                   <div class="bottom">
-                      <button class="btn btn-primary btn-lg">
-                         <a href="/what-we-do/order-management/">
-                        Order Management
-                        </a>
-                    </button>
-                   </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 what-we-do-content">
-                <!--
-                <a href="/what-we-do/logistics/">
-                    <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg">
-                    <h3>Logistics</h3>
-                </a>
-                -->
-                <div class="card hovercard">
-                   <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg" alt=""/>
-                   <div class="info">
-                   </div>
-                   <div class="bottom">
-                      <button class="btn btn-primary btn-lg">
-                      <a href="/what-we-do/logistics/">Logistics
-                      </a></button>
-                   </div>
-                </div>
 
-            </div>
+
+<!--------- what-we-do start ----->
+    <section class="products" id="top-fixed">
+        <div class="container">
+
+ <div class="row list">
+   <div class="col-lg-12 col-sm-12 section-tittle">
+                    <h1>
+                       What we do
+                    </h1>
+                </div>
+   
+      <div class="list--item">
+      <figure>
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img1.jpg" alt="">
+        <header>
+        <div class="floater">
+          
         </div>
+          <h2> R & D and Sourcing</h2>
+        </header>  
+        <figcaption>
+          Click <a href="/what-we-do/rd-and-sourcing/">here</a> for more details
+        </figcaption>
+      </figure>
+
     </div>
+      <div class="list--item">
+      <figure>
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img2.jpg" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Production Support</h2>
+        </header>  
+        <figcaption>
+           Click <a href="/what-we-do/production-support/">here</a> for more details
+        </figcaption>
+      </figure>
+
+    </div>
+      <div class="list--item">
+      <figure>
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img3.jpg" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Quality Assurance</h2>
+        </header>  
+        <figcaption>
+           Click <a href="/what-we-do/quality-assurance/">here</a> for more details
+        </figcaption>
+      </figure>
+
+    </div>
+      <div class="list--item">
+      <figure>
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img4.jpg" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Order Management</h2>
+        </header>  
+        <figcaption>
+           Click <a href="/what-we-do/order-management/">here</a> for more details
+        </figcaption>
+      </figure>
+
+    </div>
+    <div class="list--item">
+      <figure>
+        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/what-we-do-img5.jpg" alt="">
+        <header>
+        <div class="floater">
+          
+        </div>
+          <h2>Logistics</h2>
+        </header>  
+        <figcaption>
+           Click <a href="/what-we-do/logistics/">here</a> for more details
+        </figcaption>
+      </figure>
+
+    </div>
+  </div>
+</div>
 </section>
+
+    <!--------- what-we-do  end ------->
 <!--------- what-we-do  end ------->
 <?php
 /* Template Name: What we do - Strings Unlimited */
