@@ -97,7 +97,7 @@
                       <ul class="dropdown-menu">
                         <li><a href="/products/fashion/">Fashion</a></li>
                         <li><a href="/products/corporate/">Corporate</a></li>
-                        <li><a href="/products/formas/">Formals</a></li>
+                        <li><a href="/products/formals/">Formals</a></li>
                         <li><a href="/products/uniforms/">Uniforms</a></li>
                         <li><a href="/products/leather/">Leather</a></li>
                       </ul>

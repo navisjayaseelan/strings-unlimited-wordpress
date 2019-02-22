@@ -77,27 +77,27 @@
                     <h3>Products</h3>
                     <ul>
                         <li>
-                            <a href="fashion.html">
+                            <a href="/products/fashion/">
                                 Fashion   
                             </a>
                         </li>
                         <li>
-                            <a href="corporate.html">
+                            <a href="/products/corporate/">
                                 Corporate
                             </a>
                         </li>
                         <li>
-                            <a href="formals.html">
+                            <a href="/products/formals/">
                                 Formals
                             </a>
                         </li>
                         <li>
-                            <a href="uniforms.html">
+                            <a href="/products/uniforms/">
                                 Uniforms
                             </a>
                         </li>
                         <li>
-                            <a href="leather.html">Leather</a>
+                            <a href="/products/leather/">Leather</a>
                         </li>
                     </ul>
                 </div>
@@ -118,37 +118,37 @@
                 <div class="col-lg-10 col-md-12 footer-e-s-2">
                     <ul class="footer-end-ul">
                         <li>
-                            <a href="about-us.html">
+                            <a href="/about-us/">
                                 About Us
                             </a>
                         </li>
                         <li>
-                            <a href="rd-sourcing.html">
+                            <a href="/what-we-do/">
                                What We Do 
                             </a>
                         </li>
                         <li>
-                            <a href="fashion.html">
+                            <a href="/products/">
                                Products 
                             </a>
                         </li>
                         <li>
-                            <a href="index.html">
+                            <a href="/">
                                Home | uniform suppliers in chennai, uniform suppliers in India,uniform suppliers in Tamilnadu, Casual 
                             </a>
                         </li>
                         <li>
-                            <a href="why-us.html">
+                            <a href="/why-us/">
                                 Why Us
                             </a>
                         </li>
                         <li>
-                            <a href="contact-us.html">
+                            <a href="/contact-us/">
                                 Contact Us
                             </a>
                         </li>
                         <li>
-                            <a href="strings-character.html">
+                            <a href="/strings-character/">
                                 Strings Character
                             </a>
                         </li>
