@@ -24,6 +24,8 @@
                     -->
                     <div class="card hovercard">
                        <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt=""/>
+                       <div class="info">
+                       </div>
                        <div class="bottom">
                           <button class="btn btn-default">Fashion</button>
                        </div>
