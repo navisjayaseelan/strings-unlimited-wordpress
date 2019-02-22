@@ -27,7 +27,9 @@
         </div>
           <h2> R & D and Sourcing</h2>
         </header>  
-
+        <figcaption>
+         Explore for more details
+        </figcaption>
       </figure></a> 
 
     </div>
@@ -41,7 +43,9 @@
         </div>
           <h2>Production Support</h2>
         </header>  
-
+        <figcaption>
+           Explore for more details
+        </figcaption>
       </figure></a>
 
     </div>
@@ -54,7 +58,9 @@
         </div>
           <h2>Quality Assurance</h2>
         </header>  
-  
+        <figcaption>
+           Explore for more details
+        </figcaption>
       </figure></a>
 
     </div>
@@ -67,7 +73,9 @@
         </div>
           <h2>Order Management</h2>
         </header>  
-
+        <figcaption>
+           Explore for more details
+        </figcaption>
       </figure>
     </a>
 
@@ -81,7 +89,9 @@
         </div>
           <h2>Logistics</h2>
         </header>  
-
+        <figcaption>
+           Explore
+        </figcaption>
       </figure>
     </a>
 
