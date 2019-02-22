@@ -107,7 +107,7 @@
         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt="">
         <header>
         <div class="floater">
-          FASHION
+          <h2>FASHION</h2>
         </div>
         
         </header>  
