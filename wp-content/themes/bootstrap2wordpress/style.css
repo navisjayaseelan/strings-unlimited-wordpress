@@ -2623,6 +2623,10 @@ header {
   background: #fff;
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   position: relative;
+  transition: transform .2s; /* Animation */
+}
+.list--item figure:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 .list--item img {
   display: block;
