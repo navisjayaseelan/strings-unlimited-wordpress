@@ -5,6 +5,10 @@
 <!--------- what-we-do start ----->
     <section class="products" id="top-fixed">
         <div class="container">
+
+
+
+
             <div class="row">
                 <div class="col-lg-12 col-sm-12 section-tittle">
                     <h1>
@@ -12,10 +16,23 @@
                     </h1>
                 </div>
                 <div class="col-lg-4 col-sm-6 products-content">
+                    <!--
                     <a href="/products/fashion/">
                         <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg">
                         <h3>Fashion</h3>
                     </a>
+                    -->
+                    <div class="card hovercard">
+                       <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/products-1.jpg" alt=""/>
+                       <div class="info">
+                          <div class="title">
+                             Fashion
+                          </div>
+                       </div>
+                       <div class="bottom">
+                          <button class="btn btn-default">More info</button>
+                       </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-sm-12 products-content">
                     <a href="/products/corporate/">
