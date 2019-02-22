@@ -2644,4 +2644,13 @@ header {
   margin: 0;
 }
 
+.floater {
+  width: 20%;
+  height: 50px;
+  background: orange;
+  position: absolute;
+  left: 0;
+}
+
+
 /** 5 strips - end */
