@@ -7,8 +7,6 @@ get_header();
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-12 why-us-content-sub">
-                    <h2 align="center"><?php echo get_field('title'); ?></h2>
-                    <br/>
                     <p class="why-us-content-sub-text">
                         <?php echo get_field('content'); ?>
                     </p>
