@@ -83,7 +83,7 @@
                       </ul>
                     </li>
                     <li class="dropdown">
-                      <a href="#" class="dropdown-toggle">What We Do<span class="caret"></span></a>
+                      <a href="what-we-do/" class="dropdown-toggle">What We Do<span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="#">R&D And Sourcing</a></li>
                         <li><a href="#">Production Support</a></li>
