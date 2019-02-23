@@ -28,6 +28,8 @@
     <!-- Owl-Carousel2-css -->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/owl.carousel.css">
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/owl.theme.default.css">
+    <!-- lightbox css -->
+    <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/lightbox.min.css">
     <!-- responsive -->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/css/responsive.css">
     
