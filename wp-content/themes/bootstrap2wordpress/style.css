@@ -2672,10 +2672,6 @@ header {
 }
 
 @media screen and (min-width: 1200px) {
-  .container {
-    width: 90%;
-  }
-
   .list--item {
     width: 20%;
   }
