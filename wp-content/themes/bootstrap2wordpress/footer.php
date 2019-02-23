@@ -154,6 +154,7 @@
                         </li>
                     </ul>
                 </div>
+                <div class="row text-right">designed and developed by Freesie Infotech</div>
             </div>
         </div>
     </section>
