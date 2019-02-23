@@ -7,23 +7,25 @@ get_header();
 ?>
 
 <!--------- slider section start ------->
-    <div class="owl-carousel owl-theme">
-        <div class="item">
-            <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-1.jpg">
+    <section class="slider" id="top-fixed">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-1.jpg">
+            </div>
+            <div class="item">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-2.jpg">
+            </div>
+            <div class="item">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-3.jpg">
+            </div>
+            <div class="item">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-4.jpg">
+            </div>
+            <div class="item">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-5.jpg">
+            </div>
         </div>
-        <div class="item">
-            <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-2.jpg">
-        </div>
-        <div class="item">
-            <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-3.jpg">
-        </div>
-        <div class="item">
-            <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-4.jpg">
-        </div>
-        <div class="item">
-            <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-5.jpg">
-        </div>
-    </div>
+   </section>
     <!--------- slider section end --------->
 
    <!--------- index-about link start ----->
