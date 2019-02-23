@@ -154,7 +154,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="row text-right">designed and developed by Freesie Infotech</div>
+                <div class="row text-right" style="color: #fff; font-size: 8px;">designed and developed by Freesie Infotech</div>
             </div>
         </div>
     </section>
