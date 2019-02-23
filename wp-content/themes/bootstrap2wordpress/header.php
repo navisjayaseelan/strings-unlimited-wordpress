@@ -60,7 +60,7 @@
                     <span class="icon-bar"></span>
                   </button>
                   <a class="navbar-brand" href="#">
-                    <img src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
+                    <img class="img-responsive2" src="<?php bloginfo( 'stylesheet_directory' ); ?>/assets/img/logo.png">
                   </a>
                 </div>
 
