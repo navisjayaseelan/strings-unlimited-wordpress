@@ -154,7 +154,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="row text-right blockquote-reverse" style="color: #fff; font-size: 9ßpx;">designed and developed by Freesie Infotech</div>
+                <div class="row text-right blockquote-reverse" style="color: #fff; font-size: 9px;">designed and developed by Freesie Infotech</div>
             </div>
         </div>
     </section>
