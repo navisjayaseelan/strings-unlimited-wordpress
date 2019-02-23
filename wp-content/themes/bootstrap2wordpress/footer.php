@@ -182,8 +182,11 @@
     <!------ scrool-top end ---->
 
     <div class="text-right">designed and developed by Freesie Infotech</div>
-	<!--main js-->
+
+    <!-- JQuery -->
 	<script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
+     <!-- Bootstrap dropdowns -->
+    <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/popper.min.js"></script>
     <!-- bootstrap js -->
     <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/bootstrap.js"></script>
     <!-- Owl-Carousel2-js -->
