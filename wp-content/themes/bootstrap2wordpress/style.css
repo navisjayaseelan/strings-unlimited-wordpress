@@ -2698,14 +2698,9 @@ header {
 
 /** 5 strips - end */
 
-
-
 .dropdown-menu{
- 
-/*background-color: #A8DEEE;
- */
- opacity: .4; /* other browsers  and IE9+ */
-    filter: alpha(opacity=40); /* IE6+ */
-    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=40); /* IE6+ */
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=40)"; /* this works in IE8 only */
+	opacity: .8; /* other browsers  and IE9+ */
+	filter: alpha(opacity=80); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
 }
