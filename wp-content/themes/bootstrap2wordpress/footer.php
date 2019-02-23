@@ -190,6 +190,10 @@
     <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/popper.min.js"></script>
     <!-- bootstrap js -->
     <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/bootstrap.js"></script>
+    <!-- scroll-top-js -->
+    <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/scrolltop.js"></script>
+    <!-- lightbox-plus-jquery -->
+    <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/lightbox-plus-jquery.min.js"></script>
     <!-- Owl-Carousel2-js -->
     <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/owl.carousel.js"></script>
     <script type="text/javascript">
