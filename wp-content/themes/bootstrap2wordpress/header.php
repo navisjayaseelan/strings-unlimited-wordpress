@@ -45,7 +45,7 @@
 
 
 	<!--------- header section sart -------->
-    <header>
+    <header class="navbar-fixed-top">
         <nav class="navbar navbar-default">
           <div class="container">
             <div class="row">
