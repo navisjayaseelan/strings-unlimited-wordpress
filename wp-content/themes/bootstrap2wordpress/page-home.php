@@ -38,12 +38,12 @@ get_header();
                     <p>HEADQUARTERED IN INDIA WITH MARKETING OFFICE IN UNITED KINGDOM.</p>
                 </div>
                 <div class="col-lg-12 col-sm-12 index-about-button">
-                    <a href="about-us.html">
+                    <a href="/about-us/">
                         <button class="ab-but">
                             More About Us
                         </button>
                     </a>
-                    <a href="rd-sourcing.html">
+                    <a href="/why-us/">
                         <button class="ab-but">
                             Our Service
                         </button>
