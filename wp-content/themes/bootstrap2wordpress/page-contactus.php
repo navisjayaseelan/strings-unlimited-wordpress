@@ -110,7 +110,6 @@
 <script type="text/javascript">
   $('document').ready(function() {
     $('#btnTest').click(function() {
-      event.preventDefault();
       jQuery.noConflict();
       $('#dummyModal').modal('show');
     });
