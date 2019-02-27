@@ -63,8 +63,7 @@
                             India
                         </h3>
                         <h4>
-                            STRINGS FACTORY PRIVATE LIMITED<br>
-                            (Subsidiary Company of STRINGS UNLIMITED PVT LTD, UK)
+                            STRINGS FACTORY PRIVATE LIMITED
                         </h4>
                         <h5>
                             Chennai Branch
@@ -147,43 +146,7 @@
                           </a>
                         </p>
                     </div>
-                     <div class="contact-address-sub c-width-720" id="add-email">
-                        <h3>
-                            Ways to reach us
-                        </h3>
-                        <span>
-                            Accounts
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('accounts_email') ?>">
-                               <?php echo get_field('accounts_email') ?> 
-                            </a>
-                        </p>
-                        <span>
-                            Vendors/Suppliers
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('vendors_supplier_email') ?>">
-                                <?php echo get_field('vendors_supplier_email') ?>
-                            </a>
-                        </p>
-                        <span>
-                            Recruitment
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('recruitment_email') ?>">
-                              <?php echo get_field('recruitment_email') ?> 
-                            </a>
-                        </p>
-                        <span>
-                            Press
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('press_email') ?>">
-                                <?php echo get_field('press_email') ?>
-                            </a>
-                        </p>
-                    </div>
+                     
                 </div>
             </div>
         </div>
