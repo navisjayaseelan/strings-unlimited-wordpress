@@ -1375,6 +1375,12 @@ header {
 	background-color: rgba(0, 0, 0, 0.62) !important;
 	margin: 20px 0px 20px 0px;
 }
+.about-us-content-sub {
+	text-align: center;
+	padding: 80px 60px;
+	background-color: #ffffff !important;
+	margin: 20px 0px 20px 0px;
+}
 /*.about-us-content-sub button {
 	padding: 10px 25px;
 	background-color:  #000;
