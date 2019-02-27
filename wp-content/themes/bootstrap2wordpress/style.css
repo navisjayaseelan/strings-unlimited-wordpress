@@ -1356,7 +1356,7 @@ header {
 	background-image: url(/wp-content/themes/bootstrap2wordpress/assets/img/why-us-bg.jpg);
 	background-size: cover;
 	width: 100%;
-	height: 350px;
+	height: 100%;
 }
 .why-us-content-sub {
    font-size: 18px;
