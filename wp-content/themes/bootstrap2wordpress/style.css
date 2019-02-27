@@ -1367,6 +1367,7 @@ header {
 .why-us-content-sub ul li {
 	text-align: justify;
 	list-style-type: square;
+	color: #000; 
 }
 
 .why-us-content-sub-text ul li {
