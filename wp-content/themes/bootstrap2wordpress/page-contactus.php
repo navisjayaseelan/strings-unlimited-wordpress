@@ -85,19 +85,12 @@
     <!--------- contact-section-end ------->
      <!-- Modal -->
      <button id="btnTest" class="btn btn-default" style="display: none;">Show Modal</button>
- <div id="dummyModal" role="dialog" class="modal fade">
+ <div id="dummyModal" role="dialog" class="modal fade wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok">
       <div class="modal-dialog">
         <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" data-dismiss="modal" class="close">&times;</button>
-            <h4 class="modal-title">Error</h4>
-          </div>
-          <div class="modal-body">
-            <p>Quick Brown Fox Jumps Over The Lazy Dog</p>
-          </div>
-          <div class="modal-footer">
-            <button type="button" data-dismiss="modal" class="btn btn-default">Close</button>
-          </div>
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <center><h2>Thank you !</h2></center>
+          <center><h3>Thanks for contacting us, we will contact you within 48 hours to discuss your requirement.</h3></center>
         </div>
       </div>
     </div>
