@@ -103,7 +103,7 @@
 <script type="text/javascript">
   $('document').ready(function() {
     document.addEventListener( 'wpcf7submit', function( event ) {
-      if ( '123' == event.detail.contactFormId ) {
+      if ( '378' == event.detail.contactFormId ) {
         jQuery.noConflict();
         $('#dummyModal').modal('show');
       }
