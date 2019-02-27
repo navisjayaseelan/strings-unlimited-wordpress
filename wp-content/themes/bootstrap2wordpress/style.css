@@ -796,6 +796,7 @@ header {
    font-size: 18px;
    font-weight: 500;
    color: #000;
+   text-align: justify;
 }
 .about-us-content-sub {
 	text-align: center;
