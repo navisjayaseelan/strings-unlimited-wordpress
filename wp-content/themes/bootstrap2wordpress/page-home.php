@@ -10,19 +10,19 @@ get_header();
     <section class="slider" id="top-fixed">
         <div class="owl-carousel owl-theme">
             <div class="item">
-                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/sliders-1.jpg">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-1.jpg">
             </div>
             <div class="item">
-                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/sliders-2.jpg">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-2.jpg">
             </div>
             <div class="item">
-                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/sliders-3.jpg">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-3.jpg">
             </div>
             <div class="item">
-                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/sliders-4.jpg">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-4.jpg">
             </div>
             <div class="item">
-                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/sliders-5.jpg">
+                <img src="<?php bloginfo( 'template_directory' ); ?>/assets/img/slider-5.jpg">
             </div>
         </div>
    </section>
