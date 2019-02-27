@@ -28,27 +28,27 @@
                     <h3>OUR SOCIAL LINKS</h3>
                     <ul class="footer-social">
                         <li>
-                            <a href="#">
+                            <a href="mailto:anthuvan@strings-unlimited.com">
                                 <i class="fa fa-envelope-square" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.facebook.com/Strings-Unlimited-Ltd-1842404015978162/?modal=composer&notif_id=1550511060550532&notif_t=aymt_upsell_tip&ref=notif">
                                 <i class="fa fa-facebook-official" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://twitter.com/stringsunltd">
                                 <i class="fa fa-twitter-square" aria-hidden="true"></i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.pinterest.co.uk/stringsfactory/pins/">
                                <i class="fa fa-pinterest-square" aria-hidden="true"></i> 
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/company/15262839/admin/">
                                <i class="fa fa-linkedin-square" aria-hidden="true"></i> 
                             </a>
                         </li>
