@@ -84,7 +84,7 @@
     </section>
     <!--------- contact-section-end ------->
      <!-- Modal -->
-     <button id="btnTest" class="btn btn-default"></button>
+     <button id="btnTest" class="btn btn-default" style="display:none;"></button>
  <div id="dummyModal" role="dialog" class="modal fade">
       <div class="modal-dialog">
         <div class="modal-content">
