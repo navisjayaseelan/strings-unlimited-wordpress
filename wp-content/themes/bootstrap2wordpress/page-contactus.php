@@ -104,6 +104,7 @@
       if ( '378' == event.detail.contactFormId ) {
         jQuery.noConflict();
         $('#dummyModal').modal('show');
+        $('wpcf7-response-output').hide();
       }
     }, false );
 });
