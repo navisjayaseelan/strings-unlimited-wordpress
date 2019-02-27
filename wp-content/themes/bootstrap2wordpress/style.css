@@ -495,6 +495,9 @@ p{
 	background-color: #fff;
 	min-height: 390px;
 	opacity: .8;
+	filter: alpha(opacity=80); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
 }
 
 .our-sub-fashion {
@@ -574,6 +577,9 @@ p{
 	background-color: #fff;
 	min-height: 390px;
 	opacity: .8;
+	filter: alpha(opacity=80); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
 }
 
 .our-sub-formals {
@@ -616,6 +622,9 @@ p{
 	min-height: 390px;
 	background-color: #fff;
 	opacity: .8;
+	filter: alpha(opacity=80); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
 }
 .our-sub-leather {
 	padding: 100px 20px 0px 20px;
@@ -2514,10 +2523,13 @@ header {
   bottom: 30px;
   background-color: #0009;
   padding: 12px 20px;
-  opacity: 0;
+  opacity: 80;
   transition: all 0.4s ease-in-out 0s;
   cursor: pointer;
   border: 1px solid #ffffffb3;
+  filter: alpha(opacity=80); /* IE6+ */
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
 }
 .scrollTop:hover {
 	
