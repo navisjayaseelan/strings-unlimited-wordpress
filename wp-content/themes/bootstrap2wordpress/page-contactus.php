@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12 contact-us-form">
                     <h2>
-                        Order Enquiry Form
+                        Submit your Requirements
                     </h2>
                     <div class="contactform style4  clearfix">
                         <?php echo do_shortcode( '[contact-form-7 id="378" title="Strings Contact form"]' ); ?>
