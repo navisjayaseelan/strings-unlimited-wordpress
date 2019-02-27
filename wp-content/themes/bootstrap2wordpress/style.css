@@ -1364,11 +1364,15 @@ header {
    color: #fff;
 }
 
-.why-us-content-sub-text li {
-   font-size: 18px;
-   font-weight: 300;
-   color: #fff;
-   text-align: justify;
+.why-us-content-sub ul li {
+	text-align: justify;
+	list-style-type: square;
+}
+
+.why-us-content-sub-text ul li {
+	font-size: 18px;
+	font-weight: 300;
+	color: #fff; 
 }
 
 .why-us-content-sub h2 {
