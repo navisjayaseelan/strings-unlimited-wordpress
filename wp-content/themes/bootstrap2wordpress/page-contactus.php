@@ -87,8 +87,8 @@
       <div class="modal-dialog">
         <div class="modal-content" style="padding: 10px;">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <center><h2>Thank you !</h2></center>
-          <center><h3>Thanks for contacting us, we will contact you within 48 hours to discuss your requirement.</h3></center>
+          <center><h3>Thank you !</h3></center>
+          <center><b>Thanks for contacting us, we will contact you within 48 hours to discuss your requirement.</b></center>
         </div>
       </div>
     </div>
