@@ -84,6 +84,7 @@
     </section>
     <!--------- contact-section-end ------->
      <!-- Modal -->
+     <button id="btnTest" class="btn btn-default">Show Modal</button>
  <div id="dummyModal" role="dialog" class="modal fade">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -101,6 +102,14 @@
       </div>
     </div>
   </div>
+
 <?php
 	get_footer();
-?>	
+
+?>
+<script type="text/javascript">
+  $('document').ready(function() {
+    $('#btnTest').click(function() {
+      $('#dummyModal').modal('show');
+    });
+});</script>	
