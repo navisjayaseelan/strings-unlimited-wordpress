@@ -984,11 +984,15 @@ header {
 	height: 500px;
 }
 .rd-sourcing-content {
-	background-color: #000000b3;
+	background-color: #000000;
 	height: 500px;
 	float: right;
 	border-top: 1px solid;
 	padding: 70px 25px;
+	opacity: .8;
+	filter: alpha(opacity=80); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
 }
 .rd-sourcing-content  h2 {
 	color: #46cefe;
