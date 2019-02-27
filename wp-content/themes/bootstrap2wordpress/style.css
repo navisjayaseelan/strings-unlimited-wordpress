@@ -1368,6 +1368,7 @@ header {
 	text-align: justify;
 	list-style-type: square;
 	color: #000; 
+	font-weight: 500;
 }
 
 .why-us-content-sub-text ul li {
