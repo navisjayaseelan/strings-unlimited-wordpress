@@ -83,7 +83,7 @@
         </div>
     </section>
    
- <div id="dummyModal" role="dialog" class="modal fade" style="margin-top: 200px;">
+ <div id="dummyModal" role="dialog" class="modal fade" style="margin-top: 120px;">
       <div class="modal-dialog">
         <div class="modal-content" style="padding: 10px;">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
