@@ -10,9 +10,11 @@
                     <p>
                          <?php echo get_field('about_us_content'); ?>
                     </p>
-                    <a href="why-us/">
-                        <button>Why Us</button>
-                    </a>
+                    <div class="text-center">
+                        <a href="why-us/">
+                            <button>Why Us</button>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
