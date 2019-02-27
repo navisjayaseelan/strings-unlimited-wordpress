@@ -24,7 +24,6 @@
                         <h3>
                             India
                         </h3>
-                       
                         <p>
                             <?php echo get_field('chennai_branch_address') ?>
                         </p>
@@ -43,11 +42,6 @@
                         <h3>
                             United Kingdom
                         </h3>
-                        <h4>
-                            STRINGS UNLIMITED PRIVATE LIMITED, UK
-                            <br>
-                            (Registered Office)
-                        </h4>
                         <p>
                              <?php echo get_field('united_kingdom_address') ?>
                         </p>
