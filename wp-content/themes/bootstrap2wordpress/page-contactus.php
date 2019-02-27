@@ -43,23 +43,6 @@
                               <?php echo get_field('chennai_email_id') ?> 
                           </a>
                         </p>
-                        <hr>
-                        <h5>
-                            Bangalore Branch
-                        </h5>
-                        <p>
-                            <?php echo get_field('bangalore_branch_address') ?> 
-                        </p>
-                        <p>
-                           Landline :<br>
-                           <?php echo get_field('bangalore_branch_landline') ?> 
-                        </p>
-                        <p>
-                          Email ID:<br>
-                          <a href="mailto:<?php echo get_field('bangalore_branch_email') ?> ">
-                            <?php echo get_field('bangalore_branch_email') ?>
-                          </a>
-                        </p>
                     </div>
                     <div class="contact-address-sub">
                         <h3>
