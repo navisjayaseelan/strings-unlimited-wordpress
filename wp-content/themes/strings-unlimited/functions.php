@@ -1,10 +1,10 @@
 <?php
 /**
- * Bootstrap to Wordpress functions and definitions
+ * Strings Unlimited functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Bootstrap_to_Wordpress
+ * @package Strings Unlimited
  */
 
 if ( ! function_exists( 'bootstrap2wordpress_setup' ) ) :
@@ -19,7 +19,7 @@ if ( ! function_exists( 'bootstrap2wordpress_setup' ) ) :
 		/*
 		 * Make theme available for translation.
 		 * Translations can be filed in the /languages/ directory.
-		 * If you're building a theme based on Bootstrap to Wordpress, use a find and replace
+		 * If you're building a theme based on Strings Unlimited, use a find and replace
 		 * to change 'bootstrap2wordpress' to the name of your theme in all the template files.
 		 */
 		load_theme_textdomain( 'bootstrap2wordpress', get_template_directory() . '/languages' );

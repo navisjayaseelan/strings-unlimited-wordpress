@@ -1,4 +1,4 @@
-=== Bootstrap to Wordpress ===
+=== Strings Unlimited ===
 
 Contributors: automattic
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Bootstrap to Wordpress.
+A starter theme called Strings Unlimited.
 
 == Description ==
 
@@ -25,7 +25,7 @@ Bootstrap theme for strings unlimited
 
 = Does this theme support any plugins? =
 
-Bootstrap to Wordpress includes support for Infinite Scroll in Jetpack.
+Strings Unlimited includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 

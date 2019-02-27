@@ -1,8 +1,8 @@
 <?php
 /**
- * Bootstrap to Wordpress Theme Customizer
+ * Strings Unlimited Theme Customizer
  *
- * @package Bootstrap_to_Wordpress
+ * @package Strings Unlimited
  */
 
 /**
