@@ -1,0 +1,163 @@
+@media screen and (max-width: 1280px) and (min-width: 300px){
+
+}
+
+@media screen and (max-width: 1200px) and (min-width: 300px){
+
+}
+
+@media screen and (max-width: 1100px) and (min-width: 300px){
+
+	
+}
+
+@media screen and (max-width: 1024px) and (min-width: 300px){
+	.nav > li > a {
+		padding: 10px 17px;
+	}
+}
+
+@media screen and (max-width: 980px) and (min-width: 300px){
+	.nav > li > a {
+	    padding: 10px 9px;
+	}
+	.navbar-default .navbar-nav > li > a {
+		font-size: 11px;
+	}
+	.footer-sub-logo {
+		text-align: left;
+		padding-bottom: 30px;
+	}
+	.footer-sub-logo img {
+	    width:25%;
+	}
+}
+
+@media screen and (max-width: 900px) and (min-width: 300px){}
+
+@media screen and (max-width: 800px) and (min-width: 300px){}
+
+@media screen and (max-width: 768px) and (min-width: 300px){
+	.footer {
+	    padding: -1px;
+	}
+}
+@media screen and (max-width: 640px) and (min-width: 300px){
+	#responsive-logo {
+		display: none;
+	}
+	.navbar-brand {
+		display: block;
+	}
+	.navbar-default .navbar-nav > li > a {
+		line-height: 20px;
+	}
+	.navbar-header {
+		height: 130px;
+	}
+	.navbar-toggle {
+		top: 35px;
+	}
+	.navbar-default .navbar-nav > li > a {
+	    font-size: 16px;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+	    color: #fff;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+		color: #00abff;
+	}
+	.our-sub-fashion {
+    	padding: 45px 20px 0px 20px;
+	}
+	.our-sub-corporate {
+	    padding: 55px 20px 0px 20px;
+	}
+	.our-sub-formals {
+	    padding: 40px 20px 0px 20px;
+	}
+	.our-sub-uniforms {
+	    padding: 80px 20px 0px 20px;
+	}
+}
+
+@media screen and (max-width: 520px) and (min-width: 300px){
+	
+}
+
+@media screen and (max-width: 425px) and (min-width: 300px){
+	.our-sub-cont {
+	    width: 100%;
+	    float: none;
+	}
+	.our-sub-fashion {
+	    padding: 33px 20px 0px 20px;
+	    text-align: left;
+	}
+	.our-product-sub {
+		padding-right: 15px;
+	}
+	.our-corporate-sub {
+		padding-left: 15px;
+	}
+	.our-corporate-cont {
+		width: 100%;
+	    float: none;
+	}
+	.our-formals-cont {
+		width: 100%;
+	    float: none;
+	}
+	.our-sub-formals {
+	    padding: 40px 20px 0px 20px;
+	    text-align: left;
+	}
+	.our-formals-sub {
+		padding-right: 15px;
+	}
+	.our-uniforms-cont {
+	    width: 100%;
+	    float: none;
+	}
+	.our-uniforms-sub {
+		padding-left: 15px;
+	}
+	.footer-sub-logo img {
+	    width: 40%;
+	}
+	.index-about-tittle h2 {
+	    font-size: 22px;
+	}
+	.about-us-content {
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+	.about-us-content-sub {
+	    padding: 25px 60px;
+	    background-color: #00000080;
+	    margin: 15px;
+	}
+	.about-us-content-sub p {
+		color: #fff;
+		font-weight: 300;
+	}
+	.dropdown-menu {
+		position: relative;
+		float: none;
+	}
+}
+
+@media screen and (max-width: 360px) and (min-width: 300px){
+	.about-us-content-sub {
+	    padding: 25px 30px;
+	}
+}
+
+@media screen and (max-width: 320px) and (min-width: 300px){
+	.index-about-tittle h2 {
+	    font-size: 20px;
+	}
+	.about-us-content-sub {
+	    padding: 25px 12px;
+	}
+}
