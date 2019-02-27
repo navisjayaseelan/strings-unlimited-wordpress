@@ -184,12 +184,10 @@
 
     <!--<div class="text-right" style="height: 10px;">designed and developed by Freesie Infotech</div>-->
 
-    <!-- JQuery -->
-	<script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/jquery-1.11.3.min.js"></script>
+    
      <!-- Bootstrap dropdowns -->
     <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/popper.min.js"></script>
-    <!-- bootstrap js -->
-    <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/bootstrap.js"></script>
+   
     <!-- scroll-top-js -->
     <script type="text/javascript" src="<?php bloginfo( 'template_directory' ); ?>/assets/js/scrolltop.js"></script>
     <!-- lightbox-plus-jquery -->
