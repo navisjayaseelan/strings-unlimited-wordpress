@@ -1368,19 +1368,20 @@ header {
    font-size: 18px;
    font-weight: 300;
    color: #fff;
+   text-align: justify;
 }
 
 .why-us-content-sub h2 {
    color: #00bfff;
 }
 .why-us-content-sub {
-	text-align: justify-all;
+	text-align: justify;
 	padding: 80px 60px;
 	background-color: rgba(0, 0, 0, 0.62) !important;
 	margin: 20px 0px 20px 0px;
 }
 .about-us-content-sub {
-	text-align: justify-all;
+	text-align: justify;
 	padding: 80px 60px;
 	background:rgba(255,255,255, 0.4) !important;
 	margin: 20px 0px 20px 0px;
