@@ -1372,7 +1372,7 @@ header {
 .why-us-content-sub-text ul li {
 	font-size: 18px;
 	font-weight: 300;
-	color: #fff; 
+	color: #000; 
 }
 
 .why-us-content-sub h2 {
@@ -1381,7 +1381,7 @@ header {
 .why-us-content-sub {
 	text-align: justify;
 	padding: 80px 60px;
-	background-color: rgba(0, 0, 0, 0.62) !important;
+	background:rgba(255,255,255, 0.4) !important;
 	margin: 20px 0px 20px 0px;
 }
 .about-us-content-sub {
