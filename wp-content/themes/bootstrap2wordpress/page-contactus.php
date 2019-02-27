@@ -82,9 +82,7 @@
             </div>
         </div>
     </section>
-    <!--------- contact-section-end ------->
-     <!-- Modal -->
-     <button id="btnTest" class="btn btn-default" style="display: none;">Show Modal</button>
+   
  <div id="dummyModal" role="dialog" class="modal fade">
       <div class="modal-dialog">
         <div class="modal-content" style="padding: 10px;">
