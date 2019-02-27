@@ -989,10 +989,10 @@ header {
 	float: right;
 	border-top: 1px solid;
 	padding: 70px 25px;
-	opacity: .8;
-	filter: alpha(opacity=80); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .rd-sourcing-content  h2 {
 	color: #46cefe;
@@ -1022,11 +1022,15 @@ header {
 	height: 500px;
 }
 .production-support-content {
-	background-color: #000000b3;
+	background-color: #000000;
 	height: 500px;
 	float: left;
 	border-top: 1px solid;
 	padding: 60px 25px;
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .production-support-content  h2 {
 	color: #46cefe;
@@ -1057,11 +1061,15 @@ header {
 	height: 650px;
 }
 .quality-assurance-content {
-	background-color: #000000b3;
+	background-color: #000000;
 	height: 650px;
 	float: right;
 	border-top: 1px solid;
 	padding: 150px 25px;
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .quality-assurance-content  h2 {
 	color: #46cefe;
@@ -1091,11 +1099,15 @@ header {
 	height: 500px;
 }
 .order-management-content {
-	background-color: #000000b3;
+	background-color: #000000;
 	height: 500px;
 	float: left;
 	border-top: 1px solid;
 	padding: 100px 25px;
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .order-management-content  h2 {
 	color: #46cefe;
@@ -1125,11 +1137,15 @@ header {
 	height: 400px;
 }
 .logisics-content {
-	background-color: #000000b3;
+	background-color: #000000;
 	height: 400px;
 	float: right;
 	border-top: 1px solid;
 	padding: 80px 25px;
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .logisics-content  h2 {
 	color: #46cefe;
@@ -2530,10 +2546,10 @@ header {
   opacity: 80;
   transition: all 0.4s ease-in-out 0s;
   cursor: pointer;
-  border: 1px solid #ffffffb3;
-  filter: alpha(opacity=80); /* IE6+ */
-  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+  border: 1px solid #ffffff;
+  filter: alpha(opacity=70); /* IE6+ */
+  filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .scrollTop:hover {
 	
