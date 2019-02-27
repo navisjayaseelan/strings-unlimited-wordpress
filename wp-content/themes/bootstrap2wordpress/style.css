@@ -494,10 +494,10 @@ p{
 	float: right;
 	background-color: #fff;
 	min-height: 390px;
-	opacity: .8;
-	filter: alpha(opacity=80); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 
 .our-sub-fashion {
@@ -537,10 +537,10 @@ p{
 	background-color: #000;
 	min-height: 390px;
 	color: #fff;
-	opacity: .8;
-	filter: alpha(opacity=80); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 
 .our-sub-corporate {
@@ -576,10 +576,10 @@ p{
 	float: right;
 	background-color: #fff;
 	min-height: 390px;
-	opacity: .8;
-	filter: alpha(opacity=80); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 
 .our-sub-formals {
@@ -621,10 +621,10 @@ p{
 	
 	min-height: 390px;
 	background-color: #fff;
-	opacity: .8;
-	filter: alpha(opacity=80); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .our-sub-leather {
 	padding: 100px 20px 0px 20px;
@@ -660,10 +660,10 @@ p{
 	background-color: #000;
 	min-height: 390px;
 	color: #fff;
-	opacity: .8;
-	filter: alpha(opacity=80); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=80); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=80)"; /* this works in IE8 only */
+	opacity: .7;
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 
 .our-sub-uniforms {
@@ -2752,10 +2752,10 @@ header {
 
 .dropdown-menu{
 	background-color: #000000;
-	opacity: .9; /* other browsers  and IE9+ */
-	filter: alpha(opacity=90); /* IE6+ */
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=90); /* IE6+ */
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=90)"; /* this works in IE8 only */
+	opacity: .7; /* other browsers  and IE9+ */
+	filter: alpha(opacity=70); /* IE6+ */
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE6+ */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=70)"; /* this works in IE8 only */
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
   color: #e5dbdb;
