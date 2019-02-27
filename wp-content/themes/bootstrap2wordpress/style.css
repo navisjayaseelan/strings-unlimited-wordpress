@@ -2760,6 +2760,7 @@ header {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
   color: #e5dbdb;
   background-color: #000;
+  font-weight: 500;
 }
 
 .img-responsive2 {
