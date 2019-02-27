@@ -534,6 +534,7 @@ p{
 	background-color: #0009;
 	min-height: 390px;
 	color: #fff;
+	opacity: .8;
 }
 
 .our-sub-corporate {
@@ -608,8 +609,9 @@ p{
 .our-leather-cont {
 	width: 60%;
 	float: right;
-	background-color: #fff;
+	
 	min-height: 390px;
+	background-color: #fff;
 	opacity: .8;
 }
 .our-sub-leather {
@@ -651,6 +653,7 @@ p{
 .our-sub-uniforms {
 	padding: 100px 20px 0px 20px;
 	text-align: left;
+	opacity: .8;
 }
 .our-sub-uniforms h4 {
 	font-size: 35px;
