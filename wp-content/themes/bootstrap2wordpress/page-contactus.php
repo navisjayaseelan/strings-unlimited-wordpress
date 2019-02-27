@@ -17,19 +17,14 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 contact-us-address">
                     <div class="con-add-tittle">
                         <h2>
-                            Our Office
+                            Our Offices
                         </h2>
                     </div>
                     <div class="contact-address-sub">
                         <h3>
                             India
                         </h3>
-                        <h4>
-                            STRINGS FACTORY PRIVATE LIMITED
-                        </h4>
-                        <h5>
-                            Chennai Branch
-                        </h5>
+                       
                         <p>
                             <?php echo get_field('chennai_branch_address') ?>
                         </p>
