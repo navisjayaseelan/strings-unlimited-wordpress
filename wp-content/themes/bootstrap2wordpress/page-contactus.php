@@ -60,10 +60,7 @@
                         <h3>
                             Middle East
                         </h3>
-                        <h4>
-                            PAFCO – STRINGS Est.<br>
-                            (Partnership in ME)
-                        </h4>
+                      
                         <p>
                             <?php echo get_field('middle_east_address') ?>
                         </p>
