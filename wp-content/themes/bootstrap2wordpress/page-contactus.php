@@ -102,10 +102,12 @@
 ?>
 <script type="text/javascript">
   $('document').ready(function() {
-    $('#btnTest').click(function() {
-      jQuery.noConflict();
-      $('#dummyModal').modal('show');
-    });
+    document.addEventListener( 'wpcf7submit', function( event ) {
+      if ( '123' == event.detail.contactFormId ) {
+        jQuery.noConflict();
+        $('#dummyModal').modal('show');
+      }
+    }, false );
 });
 </script>	
 
