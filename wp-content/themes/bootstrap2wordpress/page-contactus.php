@@ -13,44 +13,6 @@
                     <div class="contactform style4  clearfix">
                         <?php echo do_shortcode( '[contact-form-7 id="378" title="Strings Contact form"]' ); ?>
                     </div>
-
-                     <div class="contact-address-sub c-width" id="add-email">
-                        <h3>
-                            Ways to reach us
-                        </h3>
-                        <span>
-                            Accounts
-                        </span>
-                        <p>
-                            <a href="mailto: <?php echo get_field('accounts_email') ?>">
-                               <?php echo get_field('accounts_email') ?>
-                            </a>
-                        </p>
-                        <span>
-                            Vendors/Suppliers
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('vendors_supplier_email') ?>">
-                                <?php echo get_field('vendors_supplier_email') ?>
-                            </a>
-                        </p>
-                        <span>
-                            Recruitment
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('recruitment_email') ?>">
-                              <?php echo get_field('recruitment_email') ?>  
-                            </a>
-                        </p>
-                        <span>
-                            Press
-                        </span>
-                        <p>
-                            <a href="mailto:<?php echo get_field('press_email') ?>">
-                                <?php echo get_field('press_email') ?>
-                            </a>
-                        </p>
-                    </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 contact-us-address">
                     <div class="con-add-tittle">
