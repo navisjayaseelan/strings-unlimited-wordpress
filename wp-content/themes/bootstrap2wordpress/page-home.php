@@ -76,8 +76,8 @@ get_header();
                         </div>
                     </div>
                 </div>
-                <div class="our-fashion-sub col-lg-12 col-sm-12">
-                    <div class="our-fashion-cont wow slideInLeft animated">
+                <div class="our-corporate-sub col-lg-12 col-sm-12">
+                    <div class="our-corporate-cont wow slideInLeft animated">
                         <div class="our-sub-fashion">    
                             <h4>Fashion</h4>
                             <p>
@@ -88,8 +88,8 @@ get_header();
                         </div>
                     </div>
                 </div>
-                <div class="our-corporate-sub col-lg-12 col-sm-12">
-                    <div class="our-corporate-cont wow slideInRight animated">
+                <div class="our-formals-sub col-lg-12 col-sm-12">
+                    <div class="our-formals-cont wow slideInRight animated">
                         <div class="our-sub-corporate">
                             <h4>Corporate</h4>
                             <p>
