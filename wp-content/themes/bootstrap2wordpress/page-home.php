@@ -72,7 +72,7 @@ get_header();
                                  We have a fine range of exquisite fabrics and trims especially for the dandy workoholics. Workwear could never be so much fun as it’s now. We offer detailed & handcrafted shirts, trousers, blazers & waistcoats for every formal occasion…
                             </p>
                            
-                            <a href="/products/fashion/">Read More</a>
+                            <a href="/products/formals/">Read More</a>
                         </div>
                     </div>
                 </div>
