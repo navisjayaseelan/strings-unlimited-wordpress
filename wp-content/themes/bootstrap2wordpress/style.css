@@ -492,6 +492,8 @@ p{
 .our-sub-cont {
 	width: 60%;
 	float: right;
+	color: #000;
+	font-weight: 300;
 	background-color: #fff;
 	min-height: 390px;
 	opacity: .7;
