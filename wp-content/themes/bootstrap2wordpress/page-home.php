@@ -66,32 +66,34 @@ get_header();
             <div class="row">
                 <div class="our-product-sub col-lg-12 col-sm-12">
                     <div class="our-sub-cont wow slideInRight animated">
-                        <div class="our-sub-fashion">
-                            <h4>Fashion</h4>
+                        <div class="our-sub-formals">
+                            <h4>Formals</h4>
                             <p>
-                                 We offer a wide range of products from lightweight knitted t-shirts, tops & tanks to woven shirts & tunics to mediumweight jackets, pull-overs, bottoms, trousers & shorts. We also offer season specific products as per the current trends and colours. …
+                                 We have a fine range of exquisite fabrics and trims especially for the dandy workoholics. Workwear could never be so much fun as it’s now. We offer detailed & handcrafted shirts, trousers, blazers & waistcoats for every formal occasion…
                             </p>
+                           
                             <a href="/products/fashion/">Read More</a>
                         </div>
                     </div>
                 </div>
                 <div class="our-corporate-sub col-lg-12 col-sm-12">
                     <div class="our-corporate-cont wow slideInLeft animated">
-                        <div class="our-sub-corporate">
-                            <h4>Corporate</h4>
+                        <div class="our-sub-fashion">    
+                            <h4>Fashion</h4>
                             <p>
-                                 Corporate workwear helps create a company it’s brand identity. We are pleased to offer custom-made corporate workwear with adequate branding on the garments to ensure an essence…
+                                 We offer a wide range of products from lightweight knitted t-shirts, tops & tanks to woven shirts & tunics to mediumweight jackets, pull-overs, bottoms, trousers & shorts. We also offer season specific products as per the current trends and colours. …
                             </p>
+                            
                             <a href="/products/corporate/">Read More</a>
                         </div>
                     </div>
                 </div>
                 <div class="our-formals-sub col-lg-12 col-sm-12">
                     <div class="our-formals-cont wow slideInRight animated">
-                        <div class="our-sub-formals">
-                            <h4>Formals</h4>
+                        <div class="our-sub-corporate">
+                            <h4>Corporate</h4>
                             <p>
-                                 We have a fine range of exquisite fabrics and trims especially for the dandy workoholics. Workwear could never be so much fun as it’s now. We offer detailed & handcrafted shirts, trousers, blazers & waistcoats for every formal occasion…
+                                 Corporate workwear helps create a company it’s brand identity. We are pleased to offer custom-made corporate workwear with adequate branding on the garments to ensure an essence…
                             </p>
                             <a href="/products/formals/">Read More</a>
                         </div>
@@ -111,7 +113,7 @@ get_header();
                 <div class="our-leather-sub col-lg-12 col-sm-12">
                     <div class="our-leather-cont wow slideInRight animated">
                         <div class="our-sub-leather">
-                            <h4>leather</h4>
+                            <h4>Leather</h4>
                             <p>
                                  With a State of Art facility Machinery, a plant capacity of 12,500 sqft and an integrated manufacturing facility we manufacture a wide range of quality Leather Products…
                             </p>
