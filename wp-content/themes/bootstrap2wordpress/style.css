@@ -492,7 +492,7 @@ p{
 .our-sub-cont {
 	width: 60%;
 	float: right;
-	background-color: #fff;
+	background-color: #000;
 	min-height: 390px;
 	opacity: .7;
 	filter: alpha(opacity=70); /* IE6+ */
@@ -589,10 +589,11 @@ p{
 .our-sub-formals h4 {
 	font-size: 35px;
 	text-transform: uppercase;
-	color: #000;
+	color: #fff;
 	padding-bottom: 20px;
 }
 .our-sub-formals p {
+	color: #fff;
 	font-size: 20px;
 	font-weight: 500;
 	line-height: 30px;
@@ -601,7 +602,7 @@ p{
 .our-sub-formals a {
 	font-size: 20px;
 	font-weight: 300;
-	color: #000;
+	color: #fff;
 }
 
 
