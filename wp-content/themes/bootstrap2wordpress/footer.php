@@ -197,6 +197,8 @@
     <script type="text/javascript">
         var owl = $('.owl-carousel');
         owl.owlCarousel({
+            animateOut: 'fadeOut',
+            animateIn: 'fadeIn',
             items:1,
             loop:true,
             margin:10,
