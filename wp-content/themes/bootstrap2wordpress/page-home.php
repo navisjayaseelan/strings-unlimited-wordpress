@@ -95,7 +95,7 @@ get_header();
                             <p>
                                  Corporate workwear helps create a company it’s brand identity. We are pleased to offer custom-made corporate workwear with adequate branding on the garments to ensure an essence…
                             </p>
-                            <a href="/products/formals/">Read More</a>
+                            <a href="/products/corporate/">Read More</a>
                         </div>
                     </div>
                 </div>
