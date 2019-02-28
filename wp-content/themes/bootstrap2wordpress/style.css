@@ -546,7 +546,7 @@ p{
 
 .our-sub-corporate {
 	padding: 100px 20px 0px 20px;
-	text-align: left;
+	text-align: right;
 }
 .our-sub-corporate h4 {
 	font-size: 35px;
@@ -682,14 +682,15 @@ p{
 	padding-bottom: 20px;
 }
 .our-sub-uniforms p {
+	color: #fff;
 	font-size: 20px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 30px;
 	padding: 20px 0px;
 }
 .our-sub-uniforms a {
 	font-size: 20px;
-	font-weight: 300;
+	font-weight: 500;
 	color: #fff;
 }
 
