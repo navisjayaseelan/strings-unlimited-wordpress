@@ -84,7 +84,7 @@ get_header();
                                  We offer a wide range of products from lightweight knitted t-shirts, tops & tanks to woven shirts & tunics to mediumweight jackets, pull-overs, bottoms, trousers & shorts. We also offer season specific products as per the current trends and colours. …
                             </p>
                             
-                            <a href="/products/corporate/">Read More</a>
+                            <a href="/products/fashion/">Read More</a>
                         </div>
                     </div>
                 </div>

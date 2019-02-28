@@ -507,16 +507,20 @@ p{
 .our-sub-fashion h4 {
 	font-size: 35px;
 	text-transform: uppercase;
-	color: #000;
+	color: #fff;
 	padding-bottom: 20px;
 }
 .our-sub-fashion p {
+	color: #fff;
+	font-weight: 500;
 	font-size: 20px;
 	font-weight: 300;
 	line-height: 30px;
 	padding: 20px 0px;
 }
 .our-sub-fashion a {
+	color: #fff;
+	font-weight: 500;
 	font-size: 20px;
 	font-weight: 300;
 	color: #000;
