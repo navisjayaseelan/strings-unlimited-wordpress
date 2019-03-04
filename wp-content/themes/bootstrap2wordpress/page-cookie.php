@@ -1,5 +1,5 @@
  <?php
-/* Template Name: Products -  Strings Unlimited */
+/* Template Name: Cookie -  Strings Unlimited */
 	get_header();
 ?>
 <!--------- what-we-do start ----->
