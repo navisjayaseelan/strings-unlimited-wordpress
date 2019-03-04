@@ -2,6 +2,13 @@
 /* Template Name: Cookie -  Strings Unlimited */
 	get_header();
 ?>
+<style>
+
+.faq-section-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 <!--------- what-we-do start ----->
     <section class="products" id="top-fixed">
         <div class="container">
@@ -11,6 +18,7 @@
                   <h1>Cookie Policy for strings-unlimited</h1>
                 </div>
 <div class="col-lg-12 col-12 faq-section-content">
+
   <p>This is the Cookie Policy for strings-unlimited, accessible from https://strings-unlimited.com/cookie-policy</p>
 
 
