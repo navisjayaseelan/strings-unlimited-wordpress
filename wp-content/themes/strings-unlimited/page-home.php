@@ -321,7 +321,7 @@ get_header();
         <div class="outer clearfix">
             
             <!--Icon Column-->
-            <article class="column icon-left-column blue-theme" style="background-image:url(images/background/image-1.jpg);">
+            <article class="column icon-left-column blue-theme" style="background-image:url(<?php bloginfo('stylesheet_directory'); ?>/assets/images/background/image-1.jpg);">
                 <div class="overlay"></div>
                 
                 <div class="inner-box">
@@ -335,7 +335,7 @@ get_header();
             </article>
             
             <!--Icon Column-->
-            <article class="column icon-left-column purple-theme" style="background-image:url(images/background/image-2.jpg);">
+            <article class="column icon-left-column purple-theme" style="background-image:url(<?php bloginfo('stylesheet_directory'); ?>/assets/images/background/image-2.jpg);">
                 <div class="overlay"></div>
                 
                 <div class="inner-box">
@@ -349,7 +349,7 @@ get_header();
             </article>
             
             <!--Icon Column-->
-            <article class="column icon-left-column blue-theme" style="background-image:url(images/background/image-3.jpg);">
+            <article class="column icon-left-column blue-theme" style="background-image:url(<?php bloginfo('stylesheet_directory'); ?>/assets/images/background/image-3.jpg);">
                 <div class="overlay"></div>
                 
                 <div class="inner-box">
@@ -363,7 +363,7 @@ get_header();
             </article>
             
             <!--Icon Column-->
-            <article class="column icon-left-column purple-theme" style="background-image:url(images/background/image-4.jpg);">
+            <article class="column icon-left-column purple-theme" style="background-image:url(<?php bloginfo('stylesheet_directory'); ?>/assets/images/background/image-4.jpg);">
                 <div class="overlay"></div>
                 
                 <div class="inner-box">
@@ -377,7 +377,7 @@ get_header();
             </article>
 
              <!--Icon Column-->
-            <article class="column icon-left-column  blue-theme" style="background-image:url(images/background/image-4.jpg);">
+            <article class="column icon-left-column  blue-theme" style="background-image:url(<?php bloginfo('stylesheet_directory'); ?>/assets/images/background/image-4.jpg);">
                 <div class="overlay"></div>
                 
                 <div class="inner-box">
@@ -439,7 +439,7 @@ get_header();
                                 
                                 <!--Image Column-->
                                 <div class="image-column col-lg-5 col-sm-5 col-xs-12">
-                                    <figure class="image-box"><img src="images/featured-image-1.jpg" alt=""><div class="over-layer"><span class="left-layer"></span><span class="right-layer"></span></div></figure>
+                                    <figure class="image-box"><img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/featured-image-1.jpg" alt=""><div class="over-layer"><span class="left-layer"></span><span class="right-layer"></span></div></figure>
                                 </div>
                                 
                             </div>
@@ -473,7 +473,7 @@ get_header();
                                 
                                 <!--Image Column-->
                                 <div class="image-column col-lg-5 col-sm-5 col-xs-12">
-                                    <figure class="image-box"><img src="images/featured-image-2.jpg" alt=""><div class="over-layer"><span class="left-layer"></span><span class="right-layer"></span></div></figure>
+                                    <figure class="image-box"><img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/featured-image-2.jpg" alt=""><div class="over-layer"><span class="left-layer"></span><span class="right-layer"></span></div></figure>
                                 </div>
                                 
                             </div>
@@ -507,7 +507,7 @@ get_header();
                                 
                                 <!--Image Column-->
                                 <div class="image-column col-lg-5 col-sm-5 col-xs-12">
-                                    <figure class="image-box"><img src="images/featured-image-3.jpg" alt=""><div class="over-layer"><span class="left-layer"></span><span class="right-layer"></span></div></figure>
+                                    <figure class="image-box"><img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/featured-image-3.jpg" alt=""><div class="over-layer"><span class="left-layer"></span><span class="right-layer"></span></div></figure>
                                 </div>
                                 
                             </div>
@@ -538,7 +538,7 @@ get_header();
                 <div class="column default-icon-column col-md-4 col-sm-6 col-xs-12">
                     <a href="#!">
                         <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                            <img src="images/product-corporate.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/product-corporate.jpg">
                             <h3>Corporate</h3>
                             <!-- <div class="text">Postcards have been consistently one of the more popular collectibles.</div> -->
                         </div>
@@ -549,7 +549,7 @@ get_header();
                 <div class="column default-icon-column col-md-4 col-sm-6 col-xs-12">
                     <a href="#!">
                         <div class="inner-box wow fadeInDown" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <img src="images/product-fashion.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/product-fashion.jpg">
                             <h3>Fashion</h3>
                             <!-- <div class="text">Postcards have been consistently one of the more popular collectibles.</div> -->
                         </div>
@@ -560,7 +560,7 @@ get_header();
                 <div class="column default-icon-column col-md-4 col-sm-6 col-xs-12">
                     <a href="#!">
                        <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                            <img src="images/product-formals.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/product-formals.jpg">
                             <h3>Formals</h3>
                             <!-- <div class="text">Postcards have been consistently one of the more popular collectibles.</div> -->
                         </div> 
@@ -571,7 +571,7 @@ get_header();
                 <div class="column default-icon-column col-md-4 col-sm-6 col-xs-12">
                     <a href="#!">
                         <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                            <img src="images/product-uniforms.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/product-uniforms.jpg">
                             <h3>Uniforms</h3>
                             <!-- <div class="text">Postcards have been consistently one of the more popular collectibles.</div> -->
                         </div>
@@ -582,7 +582,7 @@ get_header();
                 <div class="column default-icon-column col-md-4 col-sm-6 col-xs-12">
                     <a href="#!">
                         <div class="inner-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <img src="images/product-leather.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/product-leather.jpg">
                             <h3>Leather</h3>
                             <!-- <div class="text">Postcards have been consistently one of the more popular collectibles.</div> -->
                         </div>
@@ -593,7 +593,7 @@ get_header();
                 <div class="column default-icon-column col-md-4 col-sm-6 col-xs-12">
                     <a href="#!">
                         <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                            <img src="images/product-all.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/product-all.jpg">
                             <h3>All Products</h3>
                             <!-- <div class="text">Postcards have been consistently one of the more popular collectibles.</div> -->
                         </div>
