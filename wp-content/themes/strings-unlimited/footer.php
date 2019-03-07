@@ -158,7 +158,7 @@
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/bxslider.js"></script>
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/owl.js"></script>
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/wow.js"></script>
-<script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/script.js"></script>
+
 </body>
 </html>
 
