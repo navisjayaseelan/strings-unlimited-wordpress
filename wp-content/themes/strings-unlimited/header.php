@@ -75,8 +75,8 @@
                         */
                         ?>
                         
-                        <div class="navbar-collapse collapse clearfix">
-                            <ul class="navigation clearfix">
+                        <div class="navbar-collapse collapse ">
+                            <ul class="navigation ">
                                 
                                 <li class="current dropdown"><a href="#">Home</a>
                                  
