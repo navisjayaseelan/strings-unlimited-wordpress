@@ -608,6 +608,31 @@ textarea {
 	width: 100%;
 }
 
+/*--------------------------------------------------------------
+# Navigation
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+## Links
+--------------------------------------------------------------*/
+a {
+	color: royalblue;
+}
+
+a:visited {
+	color: purple;
+}
+
+a:hover, a:focus, a:active {
+	color: midnightblue;
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:hover, a:active {
+	outline: 0;
+}
 
 /*--------------------------------------------------------------
 ## Menus
@@ -668,6 +693,15 @@ textarea {
 .menu-toggle,
 .main-navigation.toggled ul {
 	display: block;
+}
+
+@media screen and (min-width: 37.5em) {
+	.menu-toggle {
+		display: none;
+	}
+	.main-navigation ul {
+		display: block;
+	}
 }
 
 .site-main .comment-navigation, .site-main
@@ -808,12 +842,12 @@ textarea {
 .sticky {
 	display: block;
 }
-/*
+
 .post,
 .page {
 	margin: 0;
 }
-*/
+
 .updated:not(.published) {
 	display: none;
 }
@@ -3143,10 +3177,6 @@ ul,li{
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
 	transition:all 500ms ease;
-}
-
-.tab-btn {
-	width: 400px;
 }
 
 .tabs-section .tab-buttons .tab-btn:last-child{
