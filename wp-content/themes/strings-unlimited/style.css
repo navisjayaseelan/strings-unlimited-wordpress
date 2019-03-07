@@ -3160,6 +3160,7 @@ ul,li{
 }
 
 .tabs-section .tab-buttons .tab-btn{
+	width: 40%;
 	position:relative;
 	display:table-cell;
 	vertical-align:middle;
@@ -3181,7 +3182,6 @@ ul,li{
 
 .tabs-section .tab-buttons .tab-btn:last-child{
 	border:none;	
-	width: 40%;
 }
 
 .tabs-section .tab-buttons .tab-btn:hover,
@@ -3189,7 +3189,6 @@ ul,li{
 	color:#ffffff;
 	background:none;
 	border-color:#1d93e5;
-	width: 40%;
 }
 
 .tab-btn {
