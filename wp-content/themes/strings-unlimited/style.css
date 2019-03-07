@@ -3179,6 +3179,10 @@ ul,li{
 	transition:all 500ms ease;
 }
 
+.tab-btn {
+	width: 400px;
+}
+
 .tabs-section .tab-buttons .tab-btn:last-child{
 	border:none;	
 }
