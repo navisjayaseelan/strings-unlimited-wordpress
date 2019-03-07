@@ -22,7 +22,7 @@
 	
 	.four-col-fluid .column{
 		padding:40px 20px;
-		width:50%;	
+		width:100%;	
 	}
 }
 
@@ -350,7 +350,7 @@
 	
 	.four-col-fluid .column{
 		padding:40px 25px;
-		width:50%;	
+		width:100%;	
 	}
 	
 	.error-section .error-icon{
