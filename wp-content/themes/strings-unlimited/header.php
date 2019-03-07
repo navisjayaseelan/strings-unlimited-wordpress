@@ -84,6 +84,8 @@
                                 </li>
                             
                                 <li class="dropdown"><a href="#">About Us</a>
+                                    
+                                    <!--
                                     <ul>
                                         <li><a href="about-us-1.html">About Us 1</a></li>
                                         <li><a href="about-us-2.html">About Us 2</a></li>
@@ -94,6 +96,7 @@
                                             </ul>
                                         </li>
                                     </ul>
+                                -->
                                 </li>
                                 <li class="dropdown"><a href="#">Services</a>
                                     <ul>
