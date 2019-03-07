@@ -97,39 +97,61 @@
                                     </ul>
                                 -->
                                 </li>
-                                <li class="dropdown"><a href="#">Services</a>
+                                 <li class="dropdown"><a href="/">FAQ</a>
+                                    
+                                    <!--
                                     <ul>
-                                        <li><a href="services.html">Services Style One</a></li>
-                                        <li><a href="services-2.html">Services Style Two</a></li>
-                                        <li><a href="single-service.html">Single Service</a></li>
+                                        <li><a href="about-us-1.html">About Us 1</a></li>
+                                        <li><a href="about-us-2.html">About Us 2</a></li>
+                                        <li class="dropdown"><a href="#">Our Team</a>
+                                            <ul>
+                                                <li><a href="team-grid.html">Team Grid View</a></li>
+                                                <li><a href="team-single.html">Single Member</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                -->
+                                </li>
+                                <li class="dropdown"><a href="#">What we do</a>
+                                    <ul>
+                                       <li><a href="/what-we-do/rd-and-sourcing/">R&D And Sourcing</a></li>
+                                        <li><a href="/what-we-do/production-support/">Production Support</a></li>
+                                        <li><a href="/what-we-do/quality-assurance/">Quality Assurance</a></li>
+                                        <li><a href="/what-we-do/order-management/">Order Management</a></li>
+                                        <li><a href="/what-we-do/logistics/">Logistics</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="#">Pages</a>
+                                <li class="dropdown"><a href="#">Products</a>
                                     <ul>
-                                    	<li><a href="faq-1.html">FAQs Style One</a></li>
-                                        <li><a href="faq-2.html">FAQs Style Two</a></li>
-                                        <li><a href="error-page.html">404 Page</a></li>
+                                        <li><a href="/">Formals</a></li>
+                                    	<li><a href="/">Fashion</a></li>
+                                        <li><a href="/">Corporate</a></li>
+                                        <li><a href="/">Uniforms</a></li>
+                                        <li><a href="/">Leather</a></li>
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="#">Gallery</a>
+                                <li class="dropdown"><a href="#">Why US</a>
+                                    <!--
                                     <ul>
                                         <li><a href="gallery-1.html">Gallery One</a></li>
                                         <li><a href="gallery-2.html">Gallery Two</a></li>
                                         <li><a href="gallery-single.html">Gallery Single</a></li>
                                     </ul>
+                                -->
                                 </li>
                                 <li class="dropdown"><a href="#">Blog</a>
+                                    <!--
                                     <ul>
                                         <li><a href="blog.html">Blog Classic</a></li>
                                         <li><a href="blog-three-column.html">Blog Three Column</a></li>
                                         <li><a href="blog-single.html">Blog Single</a></li>
-                                    </ul>
+                                    </ul>-->
                                 </li>
-                                <li class="dropdown"><a href="#">Contact Us</a>
-                                	<ul class="from-right">
+                                <li class="dropdown"><a href="/contact-us/">Contact Us</a>
+                                	<!--<ul class="from-right">
                                     	<li><a href="contact.html">Contact Us One</a></li>
                                     	<li><a href="contact-2.html">Contact Us Two</a></li>
-                                    </ul>
+                                    </ul>-->
                                 </li>
                             </ul>
                         </div>
