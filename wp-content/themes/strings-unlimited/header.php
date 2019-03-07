@@ -131,27 +131,13 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#">Why US</a>
-                                    <!--
-                                    <ul>
-                                        <li><a href="gallery-1.html">Gallery One</a></li>
-                                        <li><a href="gallery-2.html">Gallery Two</a></li>
-                                        <li><a href="gallery-single.html">Gallery Single</a></li>
-                                    </ul>
-                                -->
+                                   
                                 </li>
                                 <li class="dropdown"><a href="#">Blog</a>
-                                    <!--
-                                    <ul>
-                                        <li><a href="blog.html">Blog Classic</a></li>
-                                        <li><a href="blog-three-column.html">Blog Three Column</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
-                                    </ul>-->
+                                   
                                 </li>
                                 <li class="dropdown"><a href="/contact-us/">Contact Us</a>
-                                	<!--<ul class="from-right">
-                                    	<li><a href="contact.html">Contact Us One</a></li>
-                                    	<li><a href="contact-2.html">Contact Us Two</a></li>
-                                    </ul>-->
+                                	
                                 </li>
                             </ul>
                         </div>
