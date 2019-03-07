@@ -135,7 +135,7 @@
                     </nav> -->
                     
                     <!--Copyright-->
-                    <div class="copyright">&copy; Copyrights © 2019 - Strings Unlimited. All rights reserved</div>
+                    <div class="copyright pull-left">&copy; Copyrights © 2019 - Strings Unlimited. All rights reserved</div>
                     <div class="copyright pull-right">designed and developed by Freesie Infotech</div>
                 </div>
             </div>
