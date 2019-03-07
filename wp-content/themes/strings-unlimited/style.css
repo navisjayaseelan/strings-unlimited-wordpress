@@ -3160,7 +3160,6 @@ ul,li{
 }
 
 .tabs-section .tab-buttons .tab-btn{
-	width: 40%;
 	position:relative;
 	display:table-cell;
 	vertical-align:middle;
@@ -3192,7 +3191,7 @@ ul,li{
 }
 
 .tab-btn {
-	width: 40%;
+	width: 30%;
 }
 
 .tabs-box{
