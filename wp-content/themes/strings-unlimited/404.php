@@ -10,51 +10,36 @@
 get_header();
 ?>
 
-	<div id="primary" class="content-area">
-		<main id="main" class="site-main">
-
-			<section class="error-404 not-found">
-				<header class="page-header">
-					<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'strings-unlimited' ); ?></h1>
-				</header><!-- .page-header -->
-
-				<div class="page-content">
-					<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'strings-unlimited' ); ?></p>
-
-					<?php
-					get_search_form();
-
-					the_widget( 'WP_Widget_Recent_Posts' );
-					?>
-
-					<div class="widget widget_categories">
-						<h2 class="widget-title"><?php esc_html_e( 'Most Used Categories', 'strings-unlimited' ); ?></h2>
-						<ul>
-							<?php
-							wp_list_categories( array(
-								'orderby'    => 'count',
-								'order'      => 'DESC',
-								'show_count' => 1,
-								'title_li'   => '',
-								'number'     => 10,
-							) );
-							?>
-						</ul>
-					</div><!-- .widget -->
-
-					<?php
-					/* translators: %1$s: smiley */
-					$strings_unlimited_archive_content = '<p>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', 'strings-unlimited' ), convert_smilies( ':)' ) ) . '</p>';
-					the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$strings_unlimited_archive_content" );
-
-					the_widget( 'WP_Widget_Tag_Cloud' );
-					?>
-
-				</div><!-- .page-content -->
-			</section><!-- .error-404 -->
-
-		</main><!-- #main -->
-	</div><!-- #primary -->
+	  
+    <!--Page Title-->
+    <section class="page-title">
+    	<div class="auto-container text-center">
+        
+        	<h4 class="small-text">something is wrong</h4>
+            <h2 class="page-name">404 Page</h2>
+            
+            <!--Bread Crumb-->
+            <ul class="bread-crumb clearfix">
+                <li><a href="#">Home</a></li>
+                <li class="active">404</li>
+            </ul>
+            
+        </div>
+    </section>
+    
+    
+    <!--Error Section-->
+    <section class="error-section">
+    	<div class="auto-container">
+        	<div class="error-icon"><span class="flaticon-plug"></span></div>
+            <div class="extra-big">404 Error</div>
+            <div class="bigger-text">Looks like desired page is Not Available.</div>
+            <div class="text-lower">
+            	<a href="index.html" class="theme-btn btn-style-two">Return Home</a>
+            </div>
+    	</div>
+    </section>
+    
 
 <?php
 get_footer();
