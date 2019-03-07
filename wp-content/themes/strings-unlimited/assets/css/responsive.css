@@ -350,7 +350,7 @@
 	
 	.four-col-fluid .column{
 		padding:40px 25px;
-		width:100%;	
+		width:100% !important;
 	}
 	
 	.error-section .error-icon{
