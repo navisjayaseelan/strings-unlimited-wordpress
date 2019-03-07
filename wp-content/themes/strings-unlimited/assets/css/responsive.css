@@ -148,7 +148,7 @@
 	
 	.main-header .header-top .top-right, 
 	.main-header .header-top .top-left {
-		/* width: 100%; */
+		width: 100%;
 		text-align:center;
 	}
 	
@@ -173,7 +173,7 @@
 	
 	.main-header .main-menu{
 		padding-top:0px;
-		width:50% !important;
+		width:100%;
 		margin:0px;
 	}
 	
@@ -350,7 +350,7 @@
 	
 	.four-col-fluid .column{
 		padding:40px 25px;
-		width:100% !important;
+		width:100%;	
 	}
 	
 	.error-section .error-icon{
