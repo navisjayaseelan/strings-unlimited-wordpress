@@ -76,7 +76,7 @@
                         ?>
                         
                         <div class="navbar-collapse collapse ">
-                            <ul class="navigation ">
+                            <ul class="navigation">
                                 
                                 <li class="current dropdown"><a href="#">Home</a>
                                  
@@ -84,33 +84,10 @@
                             
                                 <li class="dropdown"><a href="#">About Us</a>
                                     
-                                    <!--
-                                    <ul>
-                                        <li><a href="about-us-1.html">About Us 1</a></li>
-                                        <li><a href="about-us-2.html">About Us 2</a></li>
-                                        <li class="dropdown"><a href="#">Our Team</a>
-                                            <ul>
-                                                <li><a href="team-grid.html">Team Grid View</a></li>
-                                                <li><a href="team-single.html">Single Member</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                -->
+                                  
                                 </li>
                                  <li class="dropdown"><a href="/">FAQ</a>
-                                    
-                                    <!--
-                                    <ul>
-                                        <li><a href="about-us-1.html">About Us 1</a></li>
-                                        <li><a href="about-us-2.html">About Us 2</a></li>
-                                        <li class="dropdown"><a href="#">Our Team</a>
-                                            <ul>
-                                                <li><a href="team-grid.html">Team Grid View</a></li>
-                                                <li><a href="team-single.html">Single Member</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                -->
+                                  
                                 </li>
                                 <li class="dropdown"><a href="#">What we do</a>
                                     <ul>
