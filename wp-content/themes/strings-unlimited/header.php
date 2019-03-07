@@ -32,9 +32,7 @@
 	<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 </head>
 
-<body <?php body_class(); ?>>
-<div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'strings-unlimited' ); ?></a>
+<body >
 
 	<div class="page-wrapper">
  	
