@@ -35,7 +35,7 @@ get_header();
             <div class="extra-big">404 Error</div>
             <div class="bigger-text">Looks like desired page is Not Available.</div>
             <div class="text-lower">
-            	<a href="index.html" class="theme-btn btn-style-two">Return Home</a>
+            	<a href="/" class="theme-btn btn-style-two">Return Home</a>
             </div>
     	</div>
     </section>
