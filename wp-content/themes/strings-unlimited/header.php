@@ -24,35 +24,104 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'strings-unlimited' ); ?></a>
 
-	<header id="masthead" class="site-header">
-		<div class="site-branding">
-			<?php
-			the_custom_logo();
-			if ( is_front_page() && is_home() ) :
-				?>
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-				<?php
-			else :
-				?>
-				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
-				<?php
-			endif;
-			$strings_unlimited_description = get_bloginfo( 'description', 'display' );
-			if ( $strings_unlimited_description || is_customize_preview() ) :
-				?>
-				<p class="site-description"><?php echo $strings_unlimited_description; /* WPCS: xss ok. */ ?></p>
-			<?php endif; ?>
-		</div><!-- .site-branding -->
+	<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header / Header Style Two-->
+    <header class="main-header header-style-two">
+        <!--Header-Lower-->
+        <div class="header-lower">
+        	<div class="auto-container">
+            	<div class="outer clearfix">
+                	<!--Logo -->
+                    <div class="logo-outer">
+                    	<div class="logo"><a href="index.html"><img src="images/logo.png" alt=""></a></div>
+                    </div>
+                    
+                    <!-- Main Menu -->
+                    <nav class="main-menu">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->    	
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        
 
-		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'strings-unlimited' ); ?></button>
-			<?php
-			wp_nav_menu( array(
-				'theme_location' => 'menu-1',
-				'menu_id'        => 'primary-menu',
-			) );
-			?>
-		</nav><!-- #site-navigation -->
-	</header><!-- #masthead -->
-
-	<div id="content" class="site-content">
+                        <?php
+                        	wp_nav_menu ( array(
+                        		'theme_location' => 'primary',
+                        		'container' => 'nav',
+                        		'conatiner_class' => 'navbar-collapse collapse clearfix',
+                        		'menu_class' => 'navigation clearfix'
+                        	));
+                        ?>
+                        <!--
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                
+                                <li class="current dropdown"><a href="#">Home</a>
+                                 
+                                </li>
+                            
+                                <li class="dropdown"><a href="#">About Us</a>
+                                    <ul>
+                                        <li><a href="about-us-1.html">About Us 1</a></li>
+                                        <li><a href="about-us-2.html">About Us 2</a></li>
+                                        <li class="dropdown"><a href="#">Our Team</a>
+                                            <ul>
+                                                <li><a href="team-grid.html">Team Grid View</a></li>
+                                                <li><a href="team-single.html">Single Member</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="#">Services</a>
+                                    <ul>
+                                        <li><a href="services.html">Services Style One</a></li>
+                                        <li><a href="services-2.html">Services Style Two</a></li>
+                                        <li><a href="single-service.html">Single Service</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="#">Pages</a>
+                                    <ul>
+                                    	<li><a href="faq-1.html">FAQs Style One</a></li>
+                                        <li><a href="faq-2.html">FAQs Style Two</a></li>
+                                        <li><a href="error-page.html">404 Page</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="#">Gallery</a>
+                                    <ul>
+                                        <li><a href="gallery-1.html">Gallery One</a></li>
+                                        <li><a href="gallery-2.html">Gallery Two</a></li>
+                                        <li><a href="gallery-single.html">Gallery Single</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="#">Blog</a>
+                                    <ul>
+                                        <li><a href="blog.html">Blog Classic</a></li>
+                                        <li><a href="blog-three-column.html">Blog Three Column</a></li>
+                                        <li><a href="blog-single.html">Blog Single</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown"><a href="#">Contact Us</a>
+                                	<ul class="from-right">
+                                    	<li><a href="contact.html">Contact Us One</a></li>
+                                    	<li><a href="contact-2.html">Contact Us Two</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+						-->
+                    </nav><!-- Main Menu End-->
+                    
+                </div>
+            </div>
+        </div>
+    
+    </header>
+    <!--End Main Header -->
