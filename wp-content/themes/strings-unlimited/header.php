@@ -110,9 +110,7 @@
                                 <li class="dropdown"><a href="#">Why US</a>
                                    
                                 </li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                   
-                                </li>
+                                
                                 <li class="dropdown"><a href="/contact-us/">Contact Us</a>
                                 	
                                 </li>
