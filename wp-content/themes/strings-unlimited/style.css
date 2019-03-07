@@ -3190,6 +3190,10 @@ ul,li{
 	border-color:#1d93e5;
 }
 
+.tab-btn {
+	width: 10em;
+}
+
 .tabs-box{
 	position:relative;
 	background:#ffffff;
