@@ -66,14 +66,16 @@
                         
 
                         <?php
+                        /*
                         	wp_nav_menu ( array(
                         		'theme_location' => 'primary',
                         		'container' => 'nav',
                         		'conatiner_class' => 'navbar-collapse collapse clearfix',
                         		'menu_class' => 'navigation clearfix'
                         	));
+                        */
                         ?>
-                        <!--
+                        
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation clearfix">
                                 
@@ -129,7 +131,7 @@
                                 </li>
                             </ul>
                         </div>
-						-->
+						
                     </nav><!-- Main Menu End-->
                     
                 </div>

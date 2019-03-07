@@ -13,8 +13,8 @@ get_header();
             <div class="tp-banner">
                 <ul>
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="700" data-thumb="images/main-slider/slider-1.jpg"  data-saveperformance="off"  data-title="Formals">
-                    <img src="images/main-slider/slider-1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="700" data-thumb="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-1.jpg"  data-saveperformance="off"  data-title="Formals">
+                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-1.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                 
                     <div class="tp-caption sfr sfb tp-resizeme"
@@ -79,9 +79,9 @@ get_header();
 
                     </li>
 
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/slider-2.jpg"  data-saveperformance="off"  data-title="
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-2.jpg"  data-saveperformance="off"  data-title="
                     Fashion">
-                    <img src="images/main-slider/slider-2.jpg"  alt=""  data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-2.jpg"  alt=""  data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                     <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="left" data-hoffset="0"
@@ -147,8 +147,8 @@ get_header();
                     
                     </li>
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/slider-3.jpg"  data-saveperformance="off"  data-title="Corporate">
-                    <img src="images/main-slider/slider-3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-3.jpg"  data-saveperformance="off"  data-title="Corporate">
+                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-3.jpg"  alt=""  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
                      <div class="tp-caption sfr sfb tp-resizeme"
                     data-x="left" data-hoffset="0"
@@ -211,8 +211,8 @@ get_header();
                     
                     </li>
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/slider-4.jpg"  data-saveperformance="off"  data-title="Uniform">
-                    <img src="images/main-slider/slider-4.jpg"  alt=""  data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-4.jpg"  data-saveperformance="off"  data-title="Uniform">
+                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-4.jpg"  alt=""  data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
               
                     
@@ -259,8 +259,8 @@ get_header();
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;"><h3 class="bg-dark-theme">one of the most economical ways to give brands visibility and awareness… </h3></div>
                     
                     
-                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="images/main-slider/slider-5.jpg"  data-saveperformance="off"  data-title="Leather">
-                    <img src="images/main-slider/slider-5.jpg"  alt=""  data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+                    <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-5.jpg"  data-saveperformance="off"  data-title="Leather">
+                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/main-slider/slider-5.jpg"  alt=""  data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat"> 
                     
               
                     
