@@ -1577,7 +1577,7 @@ ul,li{
 }
 
 .main-header .header-lower .logo-outer{
-	position:relative;
+	/* position:relative; */
 	float:left;
 }
 
