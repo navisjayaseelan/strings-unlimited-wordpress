@@ -149,7 +149,7 @@
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target=".main-header"><span class="icon flaticon-transport-2"></span></div>
-
+<!--
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/jquery.js"></script> 
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/bootstrap.min.js"></script>
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/revolution.min.js"></script>
@@ -159,6 +159,7 @@
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/owl.js"></script>
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/wow.js"></script>
 <script src="<?php bloginfo('stylesheet_directory'); ?>/assets/js/script.js"></script>
+-->
 </body>
 </html>
 
