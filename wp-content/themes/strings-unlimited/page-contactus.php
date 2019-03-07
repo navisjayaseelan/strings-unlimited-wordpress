@@ -262,15 +262,5 @@
 	get_footer();
 
 ?>
-<script type="text/javascript">
-  $('document').ready(function() {
-    document.addEventListener( 'wpcf7submit', function( event ) {
-      if ( '378' == event.detail.contactFormId ) {
-        jQuery.noConflict();
-        $('#dummyModal').modal('show');
-        $('.wpcf7-response-output').hide();
-      }
-    }, false );
-});
-</script>	
+
 
