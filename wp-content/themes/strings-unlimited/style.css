@@ -1963,13 +1963,13 @@ ul,li{
 
 .icon-left-column h3{
 	text-transform:capitalize;
-	font-size:1.5em;
+	font-size:18px;
 	margin-bottom:15px;	
 }
 
 .icon-left-column .text{
-	font-size:1em;
-	margin-bottom:.5em;	
+	font-size:2em;
+	margin-bottom:15px;	
 }
 
 .icon-left-column .read-more{
