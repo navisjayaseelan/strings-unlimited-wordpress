@@ -18,15 +18,15 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 
-	<link href="<?php bloginfo('stylesheet_directory'); ?>assets/css/bootstrap.css" rel="stylesheet">
-	<link href="<?php bloginfo('stylesheet_directory'); ?>assets/css/revolution-slider.css" rel="stylesheet">
-	<link href="<?php bloginfo('stylesheet_directory'); ?>assets/css/style.css" rel="stylesheet">
-	<link rel="shortcut icon" href="<?php bloginfo('stylesheet_directory'); ?>assets/images/favicon.ico" type="image/x-icon">
-	<link rel="icon" href="<?php bloginfo('stylesheet_directory'); ?>assets/images/favicon.ico" type="image/x-icon">
+	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/bootstrap.css" rel="stylesheet">
+	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/revolution-slider.css" rel="stylesheet">
+	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/style.css" rel="stylesheet">
+	<link rel="shortcut icon" href="<?php bloginfo('stylesheet_directory'); ?>/assets/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="<?php bloginfo('stylesheet_directory'); ?>/assets/images/favicon.ico" type="image/x-icon">
 	<!-- Responsive -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-	<link href="<?php bloginfo('stylesheet_directory'); ?>assets/css/responsive.css" rel="stylesheet">
+	<link href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/responsive.css" rel="stylesheet">
 	
 	<?php wp_head(); ?>
 	<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -50,7 +50,7 @@
             	<div class="outer clearfix">
                 	<!--Logo -->
                     <div class="logo-outer">
-                    	<div class="logo"><a href="/"><img src="<?php bloginfo('stylesheet_directory'); ?>assets/images/logo.png" alt=""></a></div>
+                    	<div class="logo"><a href="/"><img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/logo.png" alt=""></a></div>
                     </div>
                     
                     <!-- Main Menu -->
