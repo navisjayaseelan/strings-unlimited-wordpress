@@ -1606,7 +1606,9 @@ ul,li{
 }
 
 .main-header .outer{
+	/*
 	position:relative;
+	*/
 }
 
 .main-menu{
