@@ -3181,6 +3181,7 @@ ul,li{
 
 .tabs-section .tab-buttons .tab-btn:last-child{
 	border:none;	
+	width: 40%;
 }
 
 .tabs-section .tab-buttons .tab-btn:hover,
