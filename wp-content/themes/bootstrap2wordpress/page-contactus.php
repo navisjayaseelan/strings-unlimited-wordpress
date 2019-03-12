@@ -101,8 +101,10 @@
 <script type="text/javascript">
   $('document').ready(function() {
     document.addEventListener( 'wpcf7submit', function( event ) {
+      console.log(event.detail.contactFormId);
       if ( '378' == event.detail.contactFormId ) {
         jQuery.noConflict();
+        console.log("yes here");
         $('#dummyModal').modal('show');
         $('.wpcf7-response-output').hide();
       }
