@@ -105,7 +105,7 @@
       if ( '378' == event.detail.contactFormId && $('.wpcf7-not-valid-tip').is(":visible") == false ) {
         jQuery.noConflict();
         $('#dummyModal').modal('show');
-        $('.wpcf7-response-output').hide();
+        $('.wpcf7-mail-sent-ok').toggle();
       }
     }, false );
 });
