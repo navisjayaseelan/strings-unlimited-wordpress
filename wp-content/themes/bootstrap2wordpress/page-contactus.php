@@ -2,10 +2,10 @@
 /* Template Name: Contact us for Strings Unlimited */
 	get_header();
 ?>
-div.wpcf7-response-output, div.wpcf7-validation-errors { display: none !important; }
-span.wpcf7-not-valid-tip { display: none; }
-input[aria-invalid="true"], select[aria-invalid="true"] { border-color: red; background-color: rgba(153,0,0,0.3); }
-
+<style>
+  div.wpcf7-mail-sent-ok { display: none !important; }
+</style>
+</styole>
  <div id="dummyModal" role="dialog" class="modal fade" style="margin-top: 120px;">
       <div class="modal-dialog">
         <div class="modal-content" style="padding: 10px;">
