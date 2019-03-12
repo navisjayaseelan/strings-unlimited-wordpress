@@ -2,6 +2,16 @@
 /* Template Name: Contact us for Strings Unlimited */
 	get_header();
 ?>
+ <div id="dummyModal" role="dialog" class="modal fade" style="margin-top: 120px;">
+      <div class="modal-dialog">
+        <div class="modal-content" style="padding: 10px;">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <center><h3>Thank you !</h3></center>
+          <center><b>Thanks for contacting us, we will contact you within 48 hours to discuss your requirement.</b></center>
+        </div>
+      </div>
+    </div>
+  </div>
  <!--------- contact-section-start ----->
     <section class="contact-us" id="top-fixed">
         <div class="container">
@@ -83,16 +93,7 @@
         </div>
     </section>
    
- <div id="dummyModal" role="dialog" class="modal fade" style="margin-top: 120px;">
-      <div class="modal-dialog">
-        <div class="modal-content" style="padding: 10px;">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <center><h3>Thank you !</h3></center>
-          <center><b>Thanks for contacting us, we will contact you within 48 hours to discuss your requirement.</b></center>
-        </div>
-      </div>
-    </div>
-  </div>
+
 
 <?php
 	get_footer();
