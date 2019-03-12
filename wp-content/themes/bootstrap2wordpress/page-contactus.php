@@ -100,7 +100,7 @@
 ?>
 <script type="text/javascript">
   $('document').ready(function() {
-    document.addEventListener( 'wpcf7submit', function( event ) {
+    document.addEventListener( 'wpcf7-submit', function( event ) {
       console.log(event.detail.contactFormId);
       if ( '378' == event.detail.contactFormId ) {
         jQuery.noConflict();
