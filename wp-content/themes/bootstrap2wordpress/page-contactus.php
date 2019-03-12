@@ -107,13 +107,9 @@
 <script type="text/javascript">
   $('document').ready(function() {
     document.addEventListener( 'wpcf7submit', function( event ) {
-      $('.wpcf7-mail-sent-ok').css("display", "none !important");
       if ( '378' == event.detail.contactFormId && $('.wpcf7-not-valid-tip').is(":visible") == false ) {
-        $('.wpcf7-response-output').css("display", "none !important");
         jQuery.noConflict();
-        $('.wpcf7-mail-sent-ok').css("display", "none !important");
         $('#dummyModal').modal('show');
-        $('.wpcf7-mail-sent-ok').css("display", "none !important");
       }
     }, false );
 });
