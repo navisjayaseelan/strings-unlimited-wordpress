@@ -102,7 +102,7 @@
 <script type="text/javascript">
   $('document').ready(function() {
     document.addEventListener( 'wpcf7submit', function( event ) {
-      if ( '378' == event.detail.contactFormId && $('.wpcf7-validation-errors').is(":visible") == false ) {
+      if ( '378' == event.detail.contactFormId && $('.wpcf7-not-valid-tip').is(":visible") == false ) {
         jQuery.noConflict();
         $('#dummyModal').modal('show');
         $('.wpcf7-response-output').hide();
