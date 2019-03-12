@@ -5,7 +5,6 @@
 <style>
   div.wpcf7-mail-sent-ok { display: none !important; }
   div.wpcf7-response-output { display: none !important; }
-  div.rc-anchor { width: 100% !important}
 </style>
 </styole>
  <div id="dummyModal" role="dialog" class="modal fade" style="margin-top: 120px;">
