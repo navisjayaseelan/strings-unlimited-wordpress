@@ -14,9 +14,7 @@
 <html <?php language_attributes(); ?>>
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
-  <meta name="description" content="CLOTHING MANUFACTURERS & WHOLESALERS,UNIFORMS,STAFF WEAR,WORKWEAR,SPORTSWEAR,LEATHER JACKETS,LEATHER GOODS,MEN'S CLOTHES,T-SHIRTS,WOMEN'S CLOTHES,Knitwear manufacturer India,Woven manufacturer India">
-  <meta name="keywords" content="CLOTHING MANUFACTURERS & WHOLESALERS,UNIFORMS,STAFF WEAR,WORKWEAR,SPORTSWEAR,LEATHER JACKETS,LEATHER GOODS,MEN'S CLOTHES,T-SHIRTS,WOMEN'S CLOTHES,Knitwear manufacturer India,Woven manufacturer India">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=5,IE=6,IE=7,IE=8,IE=9,IE=10,IE=11,IE=edge,Chrome=1" />
   
 	<link rel="profile" href="https://gmpg.org/xfn/11">
